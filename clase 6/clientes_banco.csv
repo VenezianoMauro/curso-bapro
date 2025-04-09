@@ -1,0 +1,2003 @@
+ID_cliente,Nombre,Apellido,Edad,Provincia,Ocupacion,Saldo_cuenta,Limite_credito,Tiene_tarjeta,Producto_principal,Fecha_alta,Nivel_satisfaccion
+1,Diego,Fernández,67,Tucumán,Desempleado,,123027.71,True,Tarjeta de crédito,2017-01-23,6.0
+2,Lucía,García,77,Santa Fe,Empresario,112856.92,182542.98,True,Caja de ahorro,2017-01-16,8.0
+3,Ana,Sánchez,60,Salta,Desempleado,175554.01,,True,Plazo fijo,2016-11-18,5.0
+4,Carlos,Díaz,54,Santa Fe,Empleado,-6681.79,142505.72,False,Cuenta corriente,2016-12-23,2.0
+5,Diego,Gómez,32,Salta,,22934.41,171855.97,False,Caja de ahorro,2019-04-16,4.0
+6,Marta,Sánchez,45,Salta,Jubilado,133780.5,123626.87,False,Tarjeta de crédito,2017-01-16,
+7,Pedro,Romero,35,Mendoza,Desempleado,168198.39,191757.87,True,Tarjeta de crédito,2015-08-30,
+8,Diego,Rodríguez,51,Buenos Aires,Desempleado,75505.36,149290.36,False,Caja de ahorro,2022-06-05,6.0
+8,Diego,Rodríguez,51,Buenos Aires,Desempleado,75505.36,149290.36,False,Caja de ahorro,2022-06-05,6.0
+8,Diego,Rodríguez,51,Buenos Aires,Desempleado,75505.36,149290.36,False,Caja de ahorro,2022-06-05,6.0
+9,Ana,López,39,Tucumán,Empresario,87.97,89675.23,False,Tarjeta de crédito,2016-12-08,2.0
+10,Carlos,Fernández,28,Mendoza,Estudiante,171596.21,123199.89,False,Cuenta corriente,2016-03-10,6.0
+11,Lucía,García,75,Mendoza,Estudiante,59446.74,202327.42,True,Cuenta corriente,2017-02-19,1.0
+12,Ana,Fernández,74,Neuquén,Empresario,81937.68,112519.9,False,Tarjeta de crédito,2016-04-28,
+13,Ana,Sánchez,30,Salta,Estudiante,115952.24,185763.1,False,Tarjeta de crédito,2021-08-28,3.0
+14,Pedro,López,21,Salta,Empleado,,154866.94,True,Cuenta corriente,2019-03-14,9.0
+15,Sofía,Romero,39,Tucumán,Estudiante,56193.51,143131.99,True,Tarjeta de crédito,2015-06-19,2.0
+16,Carlos,Martínez,24,Santa Fe,Empresario,57109.99,250503.77,True,Préstamo personal,2017-10-17,8.0
+17,María,Gómez,78,Santa Fe,Estudiante,192896.43,98631.35,True,Plazo fijo,2023-03-17,6.0
+18,Ana,López,60,Chubut,Jubilado,157980.68,120394.66,True,Préstamo personal,2017-05-18,6.0
+19,Sofía,Rodríguez,71,Mendoza,Desempleado,128725.87,149062.8,True,Tarjeta de crédito,2021-06-28,
+20,María,Díaz,41,Chubut,Empleado,-9321.66,246629.98,False,Tarjeta de crédito,2017-04-27,5.0
+21,Carlos,Romero,21,Córdoba,Jubilado,128909.59,149155.95,False,Plazo fijo,2019-02-06,4.0
+22,Juan,Gómez,45,Córdoba,Jubilado,126210.01,160970.12,True,Tarjeta de crédito,2016-11-26,6.0
+23,Marta,García,32,Chubut,Empresario,36093.34,136566.58,False,Plazo fijo,2021-08-03,
+24,Sofía,Díaz,18,Santa Fe,Desempleado,112935.51,164345.14,True,Cuenta corriente,2015-02-01,4.0
+25,Luis,Sánchez,72,Córdoba,Desempleado,152574.62,139047.3,False,Plazo fijo,2015-06-26,5.0
+26,Juan,López,20,Neuquén,Empleado,128468.3,177812.9,True,Plazo fijo,2023-02-12,7.0
+27,Marta,Gómez,31,Santa Fe,Empresario,,180967.49,True,Préstamo personal,2020-10-13,6.0
+28,Pedro,Pérez,55,Salta,Empleado,100663.23,140635.79,False,Tarjeta de crédito,2020-09-05,4.0
+29,Diego,Martínez,67,Mendoza,Estudiante,136517.85,104980.8,False,Cuenta corriente,2019-02-11,4.0
+30,Lucía,Martínez,74,Buenos Aires,Jubilado,102972.6,153742.79,False,Caja de ahorro,2021-05-04,10.0
+31,Luis,Romero,18,Mendoza,Empleado,162714.24,206084.87,False,Plazo fijo,2022-03-29,4.0
+32,Pedro,García,55,Chubut,Jubilado,,116933.58,False,Caja de ahorro,2015-03-07,1.0
+33,Carlos,Romero,55,Santa Fe,Empresario,137646.13,163356.68,False,Tarjeta de crédito,2015-05-13,5.0
+34,Pedro,Pérez,38,Chubut,Estudiante,141070.03,101770.38,False,Plazo fijo,2020-04-12,8.0
+35,Diego,Rodríguez,65,Neuquén,Empresario,46665.86,108407.71,False,Caja de ahorro,2017-07-04,7.0
+36,Carlos,García,46,Santa Fe,Estudiante,102499.3,202014.63,True,Préstamo personal,2020-10-30,
+37,Luis,Fernández,22,Mendoza,Estudiante,83382.28,177661.34,False,Caja de ahorro,2020-03-31,3.0
+38,Diego,Rodríguez,66,Neuquén,,152192.3,163958.61,False,Préstamo personal,2020-01-29,1.0
+39,María,García,27,Neuquén,Empresario,123161.65,57129.07,True,Cuenta corriente,2018-09-13,7.0
+40,Lucía,García,45,Neuquén,Empresario,90589.38,127884.29,True,Tarjeta de crédito,2016-08-07,3.0
+41,Luis,Pérez,38,Tucumán,Empleado,35907.43,174272.56,True,Caja de ahorro,2021-07-02,
+42,María,Sánchez,67,Santa Fe,Empresario,20154.58,92037.38,True,Plazo fijo,2022-02-02,5.0
+43,Marta,Pérez,24,Córdoba,Empleado,115517.13,135844.58,False,Tarjeta de crédito,2018-02-22,8.0
+44,Luis,García,20,Córdoba,Desempleado,64139.37,180666.15,False,Caja de ahorro,2021-03-07,7.0
+45,Marta,Gómez,62,Santa Fe,Desempleado,133306.32,89554.45,True,Plazo fijo,2019-10-15,
+46,Carlos,Rodríguez,64,Santa Fe,Desempleado,17842.99,82828.54,True,Plazo fijo,2020-12-20,3.0
+47,María,Pérez,37,Tucumán,Empresario,179647.56,90246.88,False,Plazo fijo,2021-01-13,10.0
+48,Lucía,Sánchez,36,Córdoba,Empresario,133193.2,163379.41,False,Plazo fijo,2020-03-07,1.0
+49,Diego,López,52,Santa Fe,Empleado,104959.25,127720.06,False,Caja de ahorro,2023-01-01,1.0
+50,Ana,Romero,21,Santa Fe,,184152.95,185121.95,False,Cuenta corriente,2021-08-26,
+51,Pedro,García,22,Chubut,Empleado,,154840.74,True,Préstamo personal,2017-08-31,1.0
+52,Juan,Fernández,18,Tucumán,Desempleado,76249.84,225221.39,False,Préstamo personal,2022-03-27,2.0
+53,Lucía,López,21,Tucumán,Empleado,103878.82,100500.71,True,Préstamo personal,2018-12-13,2.0
+54,María,Martínez,29,Mendoza,Estudiante,1786.29,163270.87,True,Cuenta corriente,2021-11-24,7.0
+55,Ana,Díaz,77,Tucumán,Empresario,,118191.41,True,Plazo fijo,2015-08-22,9.0
+56,Lucía,Sánchez,44,Buenos Aires,Empleado,85202.42,174008.51,False,Plazo fijo,2022-03-04,8.0
+57,María,Fernández,73,Córdoba,Desempleado,1138.76,154797.44,True,Tarjeta de crédito,2019-01-17,4.0
+58,Sofía,Díaz,59,Mendoza,Desempleado,40908.07,110275.17,False,Préstamo personal,2019-05-13,
+59,Sofía,Sánchez,40,Buenos Aires,Empresario,143545.6,143713.91,True,Préstamo personal,2017-02-09,3.0
+60,Marta,Gómez,42,Santa Fe,Empleado,180690.14,152923.92,False,Plazo fijo,2021-06-06,
+61,Lucía,Romero,38,Chubut,Estudiante,101021.28,126027.64,True,Préstamo personal,2015-11-02,5.0
+62,Sofía,López,78,Chubut,,50897.43,179086.69,True,Plazo fijo,2015-01-02,9.0
+63,María,Rodríguez,75,Santa Fe,,28962.52,108756.3,False,Plazo fijo,2015-09-28,8.0
+64,Marta,Sánchez,69,Mendoza,Jubilado,170730.73,233640.34,False,Plazo fijo,2016-02-25,3.0
+65,María,Rodríguez,41,Tucumán,Desempleado,122473.39,188147.61,True,Caja de ahorro,2022-07-10,9.0
+66,Marta,Romero,42,Neuquén,Estudiante,83493.02,163949.64,True,Caja de ahorro,2017-05-13,10.0
+67,Lucía,García,62,Chubut,Estudiante,71586.41,,False,Caja de ahorro,2020-02-20,3.0
+68,Ana,Martínez,72,Neuquén,Estudiante,133591.48,137628.05,True,Caja de ahorro,2017-10-06,10.0
+69,Diego,López,63,Santa Fe,Desempleado,132215.92,174455.03,False,Cuenta corriente,2023-01-05,8.0
+70,Luis,Romero,49,Neuquén,,55170.78,,False,Tarjeta de crédito,2022-07-02,1.0
+71,Ana,Romero,72,Salta,Empresario,42881.38,181898.71,True,Tarjeta de crédito,2022-12-24,4.0
+72,Carlos,Gómez,49,Mendoza,Empleado,45404.87,209844.65,False,Plazo fijo,2017-11-26,4.0
+73,María,Díaz,22,Buenos Aires,Empresario,76588.77,171957.98,True,Préstamo personal,2015-04-17,6.0
+74,Carlos,Martínez,53,Mendoza,Estudiante,65510.73,191671.76,False,Caja de ahorro,2020-01-23,2.0
+75,Ana,López,63,Córdoba,Empleado,180904.6,,False,Tarjeta de crédito,2021-05-17,7.0
+76,Marta,García,59,Tucumán,Estudiante,74810.97,141753.99,True,Tarjeta de crédito,2018-02-07,5.0
+77,Luis,García,66,Tucumán,Jubilado,37516.68,,False,Caja de ahorro,2016-07-02,10.0
+78,Luis,Pérez,59,Mendoza,Estudiante,40325.13,173874.25,True,Cuenta corriente,2022-02-12,6.0
+79,Juan,Romero,75,Santa Fe,Estudiante,90801.42,159932.95,False,Cuenta corriente,2019-06-09,6.0
+80,Luis,Sánchez,56,Santa Fe,Empresario,8893.79,119870.23,False,Tarjeta de crédito,2020-01-12,6.0
+81,Diego,Gómez,33,Salta,,96993.96,188663.84,False,Cuenta corriente,2021-02-13,
+82,Luis,Martínez,50,Salta,Estudiante,33189.52,118741.38,False,Caja de ahorro,2022-08-31,8.0
+83,Ana,García,66,Tucumán,Estudiante,157930.52,106953.37,True,Tarjeta de crédito,2022-12-27,10.0
+84,Juan,López,38,Salta,Jubilado,105828.12,154597.03,False,Caja de ahorro,2019-02-20,4.0
+85,Ana,Pérez,78,Chubut,Jubilado,206051.18,53900.3,False,Cuenta corriente,2018-10-09,10.0
+86,Ana,López,26,Chubut,Empleado,88589.97,174443.07,False,Caja de ahorro,2015-01-19,8.0
+87,Pedro,Gómez,23,Buenos Aires,Empresario,-56587.19,165077.77,True,Cuenta corriente,2017-05-08,9.0
+88,Juan,Sánchez,68,Salta,Jubilado,172884.06,135887.86,True,Cuenta corriente,2018-11-17,4.0
+89,Ana,Pérez,62,Buenos Aires,Jubilado,125096.16,139515.27,True,Caja de ahorro,2018-07-08,1.0
+90,Pedro,Pérez,52,Salta,Desempleado,132845.39,145227.16,True,Cuenta corriente,2016-02-14,3.0
+91,Pedro,Díaz,56,Tucumán,Jubilado,49870.82,118434.9,False,Plazo fijo,2018-11-27,1.0
+92,Juan,Martínez,39,Tucumán,Empresario,97857.6,157382.91,False,Caja de ahorro,2019-08-21,
+93,Carlos,Pérez,58,Buenos Aires,Estudiante,109323.04,,False,Plazo fijo,2021-12-06,1.0
+94,Marta,Díaz,71,Mendoza,Estudiante,88108.97,154498.09,True,Caja de ahorro,2016-09-15,4.0
+95,Diego,Díaz,22,Tucumán,Estudiante,13281.86,,True,Cuenta corriente,2016-10-17,
+96,Marta,Gómez,59,Mendoza,Estudiante,238434.6,135898.85,False,Cuenta corriente,2017-02-06,2.0
+97,Luis,Rodríguez,40,Santa Fe,,141791.46,161139.7,False,Tarjeta de crédito,2015-01-18,1.0
+98,Diego,López,34,Chubut,Jubilado,121029.2,181243.99,False,Tarjeta de crédito,2021-02-09,
+99,Luis,Sánchez,29,Buenos Aires,Estudiante,165694.28,129009.23,True,Plazo fijo,2021-09-18,7.0
+100,Ana,Fernández,40,Neuquén,Empleado,132209.61,165818.93,False,Cuenta corriente,2022-10-17,3.0
+101,María,López,33,Tucumán,Estudiante,66139.86,170777.22,False,Tarjeta de crédito,2021-12-01,8.0
+102,Juan,Pérez,20,Córdoba,Jubilado,162489.14,98645.44,True,Cuenta corriente,2019-12-22,
+103,Diego,Sánchez,47,Santa Fe,Estudiante,142610.8,189061.78,True,Caja de ahorro,2019-11-16,5.0
+104,Diego,García,74,Mendoza,Desempleado,68035.71,232258.05,False,Tarjeta de crédito,2015-01-08,5.0
+105,Ana,Rodríguez,39,Tucumán,Empresario,139500.73,146476.17,True,Plazo fijo,2016-12-05,
+106,Carlos,García,26,Buenos Aires,Empresario,87971.5,143152.18,False,Tarjeta de crédito,2018-09-03,2.0
+107,Pedro,García,46,Neuquén,,110423.91,141479.75,False,Cuenta corriente,2018-03-05,2.0
+108,Ana,Martínez,64,Salta,Empresario,129982.52,174824.23,False,Préstamo personal,2016-06-14,
+109,Sofía,López,54,Neuquén,,168424.89,170431.14,False,Préstamo personal,2023-02-08,9.0
+110,Pedro,Fernández,40,Córdoba,Empleado,67700.2,86373.55,True,Cuenta corriente,2022-06-29,10.0
+111,Juan,Gómez,30,Mendoza,Jubilado,118248.11,115355.16,True,Caja de ahorro,2020-07-14,10.0
+112,Pedro,Fernández,49,Santa Fe,Jubilado,200786.31,170292.51,True,Tarjeta de crédito,2022-02-13,2.0
+113,Carlos,García,63,Neuquén,Empresario,91197.63,144199.13,False,Préstamo personal,2021-10-29,4.0
+114,Pedro,Pérez,69,Buenos Aires,,109827.84,,False,Caja de ahorro,2019-09-12,8.0
+115,Juan,Rodríguez,64,Córdoba,Empresario,200711.52,210010.41,False,Cuenta corriente,2022-07-16,2.0
+116,Carlos,Romero,65,Buenos Aires,Desempleado,131873.87,118011.47,True,Caja de ahorro,2021-02-21,
+117,Marta,Fernández,40,Tucumán,Estudiante,26300.99,151431.08,True,Cuenta corriente,2022-12-17,10.0
+118,Diego,García,62,Salta,Desempleado,60226.12,143139.24,False,Tarjeta de crédito,2019-10-27,1.0
+119,Diego,Rodríguez,34,Santa Fe,Jubilado,134478.96,106852.45,True,Caja de ahorro,2018-09-08,2.0
+120,Luis,Sánchez,72,Buenos Aires,,121150.25,157398.19,True,Tarjeta de crédito,2019-12-02,7.0
+121,Marta,López,57,Mendoza,Estudiante,108128.99,165684.28,True,Caja de ahorro,2022-04-29,1.0
+122,Marta,Díaz,38,Tucumán,Empleado,,131292.96,True,Cuenta corriente,2019-08-13,
+123,Pedro,Martínez,19,Tucumán,Jubilado,69125.64,136552.31,False,Cuenta corriente,2022-05-01,2.0
+124,Diego,Rodríguez,54,Santa Fe,Jubilado,96279.31,174019.48,True,Caja de ahorro,2019-12-08,4.0
+125,Juan,Pérez,23,Tucumán,Empleado,,70994.47,False,Cuenta corriente,2015-02-13,7.0
+126,Lucía,Pérez,61,Mendoza,Empleado,158032.99,116199.85,True,Plazo fijo,2016-05-03,4.0
+127,Lucía,Rodríguez,35,Buenos Aires,Empleado,,158537.4,False,Plazo fijo,2015-06-30,5.0
+128,Carlos,Pérez,47,Santa Fe,Jubilado,152856.84,128930.45,False,Tarjeta de crédito,2021-08-18,4.0
+129,Diego,López,39,Chubut,Empresario,147601.51,128358.84,True,Plazo fijo,2016-09-19,4.0
+130,Diego,Pérez,71,Tucumán,Empleado,217454.96,,False,Plazo fijo,2017-08-14,9.0
+131,Lucía,Fernández,50,Tucumán,Estudiante,132463.78,124667.03,False,Préstamo personal,2020-10-15,6.0
+132,Diego,Díaz,47,Mendoza,Jubilado,82195.67,229167.13,True,Préstamo personal,2019-03-29,3.0
+133,Pedro,Pérez,34,Salta,Desempleado,122681.15,79819.5,False,Préstamo personal,2018-01-20,6.0
+134,Sofía,Díaz,79,Salta,,62037.36,61520.25,True,Préstamo personal,2019-11-17,7.0
+135,María,García,60,Neuquén,Estudiante,115958.01,,False,Cuenta corriente,2022-09-27,7.0
+136,Marta,Gómez,49,Tucumán,Empresario,89954.87,110641.95,True,Tarjeta de crédito,2016-10-12,8.0
+137,Luis,López,59,Chubut,Empleado,96483.08,111317.06,True,Tarjeta de crédito,2020-02-20,4.0
+138,Carlos,Gómez,68,Buenos Aires,,,189389.33,True,Plazo fijo,2018-06-21,1.0
+139,Sofía,García,31,Santa Fe,Empleado,115022.3,130109.26,True,Tarjeta de crédito,2015-12-07,6.0
+140,Lucía,López,75,Tucumán,Jubilado,141211.5,186414.47,True,Plazo fijo,2023-01-29,8.0
+141,Marta,Rodríguez,27,Córdoba,Desempleado,17395.16,125583.52,False,Tarjeta de crédito,2019-12-14,5.0
+142,Diego,Rodríguez,64,Santa Fe,Empleado,65570.37,164501.26,False,Caja de ahorro,2021-09-11,3.0
+143,Luis,Díaz,77,Neuquén,Estudiante,108402.36,129543.1,True,Caja de ahorro,2022-07-13,4.0
+144,Diego,García,68,Salta,Empresario,-17365.83,113207.51,False,Tarjeta de crédito,2020-11-14,8.0
+145,Juan,Díaz,53,Chubut,Estudiante,187013.22,219224.05,False,Cuenta corriente,2018-09-16,6.0
+146,Juan,Martínez,51,Tucumán,Empresario,64444.46,194658.49,False,Plazo fijo,2016-03-24,5.0
+147,Luis,Pérez,26,Mendoza,Empleado,53095.62,120934.37,True,Tarjeta de crédito,2018-12-12,9.0
+148,Luis,Romero,59,Córdoba,Empleado,89632.89,142864.16,True,Plazo fijo,2015-03-18,10.0
+149,Lucía,Martínez,45,Tucumán,Empresario,106868.64,209049.07,False,Préstamo personal,2017-06-14,3.0
+150,Luis,Pérez,28,Chubut,,62176.36,110471.18,True,Tarjeta de crédito,2016-07-02,
+151,Pedro,López,31,Neuquén,Jubilado,149020.68,112635.68,True,Cuenta corriente,2017-03-08,9.0
+152,Diego,Díaz,56,Buenos Aires,,119985.33,168802.42,False,Préstamo personal,2018-12-23,4.0
+153,Sofía,López,72,Córdoba,Estudiante,58137.91,240819.78,True,Tarjeta de crédito,2019-02-17,10.0
+154,Ana,López,64,Neuquén,Estudiante,73879.74,152153.26,True,Caja de ahorro,2017-03-25,10.0
+155,Luis,Pérez,71,Tucumán,Empleado,24161.52,191992.45,True,Tarjeta de crédito,2020-12-22,3.0
+156,Carlos,García,36,Buenos Aires,Estudiante,37332.96,109302.41,True,Caja de ahorro,2022-05-25,1.0
+157,Juan,Pérez,71,Córdoba,Jubilado,119379.92,164442.09,True,Caja de ahorro,2019-05-03,9.0
+158,Pedro,Sánchez,32,Buenos Aires,Jubilado,58656.77,,False,Tarjeta de crédito,2016-10-07,1.0
+159,Marta,Rodríguez,79,Buenos Aires,Empresario,190214.22,224665.0,True,Tarjeta de crédito,2019-12-31,
+160,Ana,Rodríguez,45,Córdoba,Empleado,103546.16,213947.63,True,Caja de ahorro,2016-12-20,9.0
+161,Sofía,Martínez,41,Córdoba,Jubilado,32358.83,241176.67,False,Plazo fijo,2019-03-03,5.0
+162,Ana,Rodríguez,25,Buenos Aires,Desempleado,42832.64,122180.43,False,Préstamo personal,2022-04-14,4.0
+163,Luis,Pérez,60,Neuquén,Empleado,152648.48,151419.93,True,Cuenta corriente,2021-12-06,9.0
+164,Lucía,Fernández,78,Chubut,Empleado,96174.32,165006.68,False,Tarjeta de crédito,2017-12-05,
+165,Juan,Díaz,26,Salta,Jubilado,149599.74,123741.29,True,Préstamo personal,2019-01-06,2.0
+166,Juan,Pérez,64,Córdoba,Desempleado,81675.6,155242.21,False,Préstamo personal,2016-10-09,3.0
+167,Marta,Pérez,50,Tucumán,Empresario,71988.4,186359.12,True,Plazo fijo,2017-03-02,3.0
+168,Lucía,Romero,79,Santa Fe,,155972.37,127985.38,False,Préstamo personal,2016-08-01,5.0
+169,Diego,Díaz,50,Mendoza,Desempleado,57071.13,121865.74,True,Tarjeta de crédito,2020-08-10,3.0
+170,María,Sánchez,36,Buenos Aires,Empleado,124452.71,119213.77,False,Préstamo personal,2020-11-26,10.0
+171,Pedro,Rodríguez,20,Buenos Aires,Desempleado,89410.82,96251.9,True,Tarjeta de crédito,2016-04-04,6.0
+172,Juan,Díaz,27,Mendoza,Empleado,,184159.71,True,Tarjeta de crédito,2021-05-02,2.0
+173,Carlos,Rodríguez,57,Salta,Jubilado,190924.2,121773.27,True,Caja de ahorro,2018-03-07,6.0
+174,Juan,Martínez,64,Mendoza,Jubilado,80391.12,117555.71,False,Plazo fijo,2015-02-13,6.0
+175,Ana,Díaz,59,Córdoba,Estudiante,72642.89,171162.79,False,Cuenta corriente,2023-01-12,2.0
+176,Juan,Rodríguez,18,Mendoza,Estudiante,133290.42,149575.36,True,Caja de ahorro,2019-03-14,6.0
+177,Juan,Sánchez,46,Buenos Aires,Estudiante,45899.82,128978.79,True,Cuenta corriente,2023-03-11,6.0
+178,María,Gómez,67,Mendoza,Jubilado,180823.27,182425.15,True,Tarjeta de crédito,2017-09-09,6.0
+179,María,López,51,Santa Fe,Empresario,172301.13,127382.15,True,Caja de ahorro,2021-04-28,5.0
+180,Sofía,López,68,Tucumán,Jubilado,50044.02,62921.96,False,Préstamo personal,2022-08-07,7.0
+181,Diego,Sánchez,30,Córdoba,Desempleado,20843.76,,False,Préstamo personal,2016-09-24,5.0
+182,Carlos,Romero,71,Mendoza,Jubilado,41971.14,,False,Cuenta corriente,2021-01-08,1.0
+183,Juan,Gómez,18,Buenos Aires,Jubilado,42731.52,121241.83,True,Tarjeta de crédito,2021-03-10,9.0
+184,Juan,Martínez,51,Neuquén,Empleado,140088.03,121418.52,True,Cuenta corriente,2018-06-11,
+185,Pedro,Sánchez,46,Tucumán,Empleado,177458.52,152384.04,False,Plazo fijo,2022-12-20,2.0
+186,María,López,65,Córdoba,Empleado,139506.31,139030.3,False,Préstamo personal,2016-09-14,10.0
+187,Carlos,López,64,Buenos Aires,Jubilado,88190.39,189522.84,False,Caja de ahorro,2020-05-31,6.0
+188,Marta,López,30,Salta,Empresario,117124.92,,False,Caja de ahorro,2015-12-27,8.0
+189,Sofía,García,65,Santa Fe,Desempleado,56511.1,122832.02,True,Caja de ahorro,2021-06-25,2.0
+190,Diego,Sánchez,66,Chubut,Desempleado,154860.4,112479.7,True,Préstamo personal,2021-03-19,4.0
+191,Lucía,Pérez,70,Salta,,121601.45,129123.95,True,Tarjeta de crédito,2015-07-29,2.0
+192,Diego,Martínez,78,Chubut,,138659.89,,False,Préstamo personal,2017-07-19,9.0
+193,Ana,López,46,Santa Fe,Desempleado,63623.21,145345.56,True,Préstamo personal,2019-05-26,10.0
+194,Juan,Rodríguez,56,Mendoza,Estudiante,91570.14,129983.54,False,Caja de ahorro,2016-05-03,2.0
+195,Sofía,Sánchez,41,Córdoba,Empleado,136253.66,98119.58,False,Préstamo personal,2016-08-23,10.0
+196,Ana,García,43,Mendoza,Empleado,172175.64,61644.45,False,Caja de ahorro,2017-02-12,2.0
+197,Carlos,Sánchez,34,Santa Fe,Desempleado,,109811.3,False,Tarjeta de crédito,2017-05-27,5.0
+198,Lucía,Martínez,24,Santa Fe,Empresario,139022.6,200576.63,False,Plazo fijo,2019-01-27,5.0
+199,María,García,30,Santa Fe,Estudiante,64396.41,167439.71,True,Caja de ahorro,2016-11-30,
+200,Sofía,Martínez,22,Chubut,Desempleado,205859.69,142338.59,True,Cuenta corriente,2021-11-04,1.0
+201,Sofía,Sánchez,43,Tucumán,Empleado,79258.76,179191.47,True,Plazo fijo,2021-09-26,2.0
+202,Juan,Pérez,66,Buenos Aires,Jubilado,132175.26,98484.67,False,Tarjeta de crédito,2020-05-11,6.0
+203,Luis,Martínez,20,Córdoba,Empresario,108280.48,152270.0,True,Plazo fijo,2021-11-28,2.0
+204,Sofía,García,24,Mendoza,Jubilado,230265.16,78545.8,False,Caja de ahorro,2015-09-13,4.0
+205,Pedro,García,75,Mendoza,Desempleado,111495.08,163840.76,True,Tarjeta de crédito,2018-03-19,10.0
+206,Lucía,Martínez,66,Salta,Empleado,74247.2,160380.61,False,Cuenta corriente,2020-12-14,6.0
+207,Lucía,Fernández,56,Chubut,Estudiante,131975.33,161332.33,False,Caja de ahorro,2016-01-27,7.0
+208,Pedro,Sánchez,70,Santa Fe,Jubilado,130862.04,196704.72,True,Caja de ahorro,2021-12-02,10.0
+209,Marta,Fernández,18,Neuquén,Estudiante,92126.51,181039.79,False,Tarjeta de crédito,2017-09-19,5.0
+210,Pedro,Romero,66,Santa Fe,Empleado,45261.71,101643.46,True,Tarjeta de crédito,2023-02-18,8.0
+211,Pedro,Sánchez,79,Santa Fe,Jubilado,73600.06,197308.77,True,Plazo fijo,2021-09-15,6.0
+212,Lucía,Martínez,34,Neuquén,Estudiante,144074.95,141621.92,True,Cuenta corriente,2021-05-10,5.0
+213,Diego,Gómez,60,Mendoza,Estudiante,12627.55,71194.06,False,Plazo fijo,2017-04-24,4.0
+214,Lucía,Martínez,42,Salta,Jubilado,87597.71,145649.78,False,Plazo fijo,2015-05-19,6.0
+215,Luis,Fernández,76,Buenos Aires,Empleado,149743.2,175885.16,False,Caja de ahorro,2015-04-13,6.0
+216,Juan,Pérez,78,Neuquén,Estudiante,95325.19,109445.92,False,Tarjeta de crédito,2018-06-19,6.0
+217,Ana,Martínez,20,Chubut,Desempleado,208685.51,,True,Caja de ahorro,2018-02-14,1.0
+218,Diego,Martínez,32,Tucumán,Jubilado,12767.49,113067.34,False,Cuenta corriente,2018-05-22,6.0
+219,María,Pérez,46,Córdoba,Empresario,51931.61,130756.32,True,Plazo fijo,2016-04-28,1.0
+220,Ana,Martínez,70,Chubut,Empresario,-15731.69,123410.5,True,Cuenta corriente,2022-01-20,5.0
+221,Juan,López,60,Neuquén,Empleado,199684.53,81640.95,False,Tarjeta de crédito,2015-08-12,7.0
+222,Luis,Gómez,49,Buenos Aires,Desempleado,52750.64,,False,Tarjeta de crédito,2018-07-17,1.0
+223,Luis,Rodríguez,43,Mendoza,,653.93,121525.63,True,Préstamo personal,2020-01-23,1.0
+224,María,Gómez,77,Tucumán,Empresario,69404.03,144795.78,False,Cuenta corriente,2020-02-28,6.0
+225,Diego,Martínez,33,Tucumán,Empleado,30359.54,29941.02,True,Caja de ahorro,2020-12-01,7.0
+226,Marta,López,42,Tucumán,Desempleado,,,False,Cuenta corriente,2019-01-04,6.0
+227,Pedro,Sánchez,71,Santa Fe,Desempleado,102061.46,178266.95,False,Plazo fijo,2016-10-05,5.0
+228,Diego,Martínez,45,Córdoba,Empleado,140246.06,197258.45,True,Tarjeta de crédito,2022-05-22,6.0
+229,Marta,Fernández,26,Mendoza,Empleado,91266.55,90333.78,True,Tarjeta de crédito,2018-06-09,3.0
+230,Luis,López,73,Mendoza,Estudiante,101264.53,138286.74,True,Cuenta corriente,2016-04-02,9.0
+231,Lucía,Pérez,73,Tucumán,Empleado,70920.24,187657.42,False,Cuenta corriente,2021-08-19,5.0
+232,Juan,López,18,Mendoza,Estudiante,24415.09,191099.83,False,Cuenta corriente,2019-06-16,2.0
+233,María,Pérez,46,Córdoba,Estudiante,,209157.24,False,Plazo fijo,2016-09-02,10.0
+234,Juan,Romero,74,Córdoba,Jubilado,,154108.6,True,Plazo fijo,2015-07-26,10.0
+235,Carlos,Rodríguez,39,Salta,Desempleado,104231.99,147761.05,True,Caja de ahorro,2019-03-24,7.0
+236,Carlos,Díaz,33,Neuquén,Desempleado,78069.27,87682.03,False,Cuenta corriente,2019-01-06,3.0
+237,Diego,López,58,Neuquén,Desempleado,9533.65,,True,Caja de ahorro,2017-07-05,1.0
+238,Luis,García,68,Salta,Jubilado,110070.0,131587.43,False,Préstamo personal,2021-06-26,3.0
+239,Luis,Fernández,61,Buenos Aires,,181465.24,151357.64,True,Plazo fijo,2020-11-10,9.0
+240,Pedro,Martínez,68,Neuquén,Estudiante,94267.67,148686.82,False,Tarjeta de crédito,2018-12-02,5.0
+241,Pedro,Fernández,71,Córdoba,Empleado,71023.47,54213.91,False,Préstamo personal,2018-03-27,7.0
+242,Pedro,Gómez,58,Córdoba,Jubilado,96975.3,117541.77,False,Tarjeta de crédito,2022-12-29,3.0
+243,Lucía,Díaz,24,Neuquén,Empleado,44781.01,168155.25,True,Préstamo personal,2020-11-16,4.0
+244,Ana,Gómez,31,Córdoba,Jubilado,41555.04,148056.57,True,Caja de ahorro,2021-03-22,1.0
+245,Sofía,Romero,46,Salta,Empleado,122570.7,,False,Caja de ahorro,2017-05-01,3.0
+246,Ana,Díaz,36,Tucumán,,149516.08,,False,Plazo fijo,2016-03-16,7.0
+247,Juan,Díaz,36,Tucumán,,92645.08,117070.38,False,Tarjeta de crédito,2016-12-20,4.0
+248,Ana,Gómez,19,Mendoza,Desempleado,1311.75,129393.99,False,Préstamo personal,2016-08-07,2.0
+249,Lucía,Pérez,58,Chubut,Estudiante,117667.45,,False,Cuenta corriente,2020-07-07,5.0
+250,Juan,Gómez,62,Chubut,Empresario,203369.11,180939.96,False,Cuenta corriente,2015-03-05,5.0
+251,Ana,Fernández,32,Tucumán,Desempleado,87805.09,140636.08,True,Plazo fijo,2017-02-06,
+252,Lucía,Pérez,20,Santa Fe,Estudiante,91107.71,,True,Tarjeta de crédito,2016-07-13,6.0
+253,Sofía,Fernández,28,Salta,Empresario,56368.32,142072.69,True,Cuenta corriente,2019-09-30,10.0
+254,Ana,Romero,70,Córdoba,Desempleado,124067.7,179330.82,True,Plazo fijo,2016-10-31,4.0
+255,Lucía,Martínez,63,Neuquén,Empleado,66450.83,,False,Plazo fijo,2019-03-23,1.0
+256,Pedro,Sánchez,47,Tucumán,Jubilado,151075.09,161223.04,False,Tarjeta de crédito,2018-06-25,3.0
+257,Luis,Pérez,74,Salta,Empresario,67120.97,90560.13,False,Cuenta corriente,2021-08-12,9.0
+258,Pedro,Romero,57,Tucumán,Estudiante,117089.57,133745.17,True,Cuenta corriente,2022-08-23,10.0
+259,Luis,García,35,Buenos Aires,Empresario,97682.79,169002.29,True,Cuenta corriente,2016-09-09,7.0
+260,María,Romero,68,Córdoba,Estudiante,177755.58,184648.59,False,Caja de ahorro,2020-06-17,
+261,María,Gómez,65,Buenos Aires,Empresario,120473.97,170282.86,True,Cuenta corriente,2018-01-26,1.0
+262,María,Gómez,19,Córdoba,Estudiante,169350.37,139935.7,True,Préstamo personal,2018-07-15,9.0
+263,Sofía,Sánchez,49,Salta,Desempleado,105431.18,184340.62,False,Caja de ahorro,2017-12-19,9.0
+264,Pedro,Romero,25,Mendoza,Empleado,91462.98,124377.4,False,Caja de ahorro,2021-12-22,1.0
+265,Luis,Rodríguez,39,Tucumán,Desempleado,98090.46,157385.96,False,Caja de ahorro,2021-09-24,6.0
+266,Lucía,Martínez,23,Tucumán,Empleado,61429.54,179991.5,True,Caja de ahorro,2018-03-09,
+267,Juan,Gómez,29,Santa Fe,Desempleado,126583.44,173065.43,False,Plazo fijo,2020-04-16,2.0
+268,Lucía,Sánchez,64,Neuquén,Desempleado,65482.08,173963.8,False,Préstamo personal,2018-09-13,10.0
+269,Juan,Martínez,74,Buenos Aires,Empresario,105623.15,172956.6,False,Tarjeta de crédito,2016-04-08,8.0
+270,Carlos,Romero,57,Tucumán,Jubilado,142760.1,108052.24,True,Cuenta corriente,2022-07-12,
+271,Lucía,Romero,53,Salta,Estudiante,179177.45,150702.3,True,Caja de ahorro,2019-07-19,6.0
+272,Ana,Díaz,32,Mendoza,Estudiante,108143.0,113630.18,False,Tarjeta de crédito,2020-05-02,9.0
+273,Ana,Sánchez,45,Neuquén,Estudiante,143060.35,138421.04,False,Plazo fijo,2021-01-19,3.0
+274,Diego,Gómez,69,Salta,Empleado,137094.39,103246.4,True,Tarjeta de crédito,2015-03-01,2.0
+275,Pedro,Rodríguez,74,Buenos Aires,,80881.15,163798.67,True,Caja de ahorro,2015-11-29,2.0
+276,Juan,Romero,66,Santa Fe,Estudiante,,71393.93,False,Préstamo personal,2015-03-17,6.0
+277,Juan,Rodríguez,62,Tucumán,Empresario,71187.89,174691.25,True,Tarjeta de crédito,2019-11-14,7.0
+278,Pedro,Romero,35,Salta,Desempleado,,150613.91,False,Caja de ahorro,2021-06-22,6.0
+279,Sofía,Gómez,19,Neuquén,Estudiante,172705.99,226086.39,False,Caja de ahorro,2015-07-09,3.0
+280,Diego,Martínez,30,Córdoba,Jubilado,171472.91,141815.99,True,Cuenta corriente,2020-03-27,5.0
+281,Sofía,López,62,Mendoza,,100716.02,141804.13,False,Cuenta corriente,2015-10-23,8.0
+282,Sofía,Martínez,71,Neuquén,Empleado,,177301.29,False,Préstamo personal,2021-12-23,
+283,Sofía,Romero,32,Salta,Empleado,,144140.29,True,Cuenta corriente,2015-06-26,
+284,Pedro,Fernández,37,Mendoza,Empleado,75566.06,160993.31,False,Préstamo personal,2017-03-10,7.0
+285,Sofía,López,46,Tucumán,Estudiante,39360.55,189776.0,True,Plazo fijo,2017-03-16,8.0
+286,Ana,López,76,Córdoba,Empresario,136194.07,139299.41,False,Plazo fijo,2022-12-17,4.0
+287,María,Rodríguez,59,Santa Fe,,141461.05,197810.41,False,Cuenta corriente,2019-10-09,1.0
+288,Carlos,Sánchez,46,Neuquén,Estudiante,71605.54,,True,Plazo fijo,2015-08-03,2.0
+289,Juan,Rodríguez,20,Santa Fe,Empresario,113405.0,214139.2,True,Tarjeta de crédito,2020-02-23,4.0
+290,Juan,Rodríguez,36,Córdoba,,232549.42,78473.36,True,Tarjeta de crédito,2022-05-24,7.0
+291,Carlos,Fernández,20,Mendoza,Estudiante,157334.12,204087.49,True,Tarjeta de crédito,2016-08-19,2.0
+292,Pedro,Martínez,71,Tucumán,Estudiante,54925.8,75341.5,True,Plazo fijo,2019-09-14,6.0
+293,Lucía,Martínez,31,Salta,Empresario,150078.11,229223.36,True,Tarjeta de crédito,2018-09-17,2.0
+294,Pedro,García,57,Córdoba,Empresario,55156.91,156435.05,False,Préstamo personal,2015-05-08,7.0
+295,Juan,Romero,76,Buenos Aires,Empresario,,112204.63,True,Caja de ahorro,2018-07-16,2.0
+296,Juan,Fernández,72,Mendoza,Estudiante,,224604.79,False,Cuenta corriente,2022-02-11,3.0
+297,Carlos,García,79,Santa Fe,Empresario,178160.07,106445.2,True,Préstamo personal,2019-04-08,
+298,Sofía,Gómez,21,Neuquén,Empleado,169872.4,140905.84,False,Tarjeta de crédito,2019-11-13,
+299,Pedro,Romero,76,Córdoba,Estudiante,,254188.49,False,Caja de ahorro,2016-09-10,
+300,Luis,Romero,77,Santa Fe,Empleado,72913.53,165821.53,True,Cuenta corriente,2021-07-23,9.0
+301,Carlos,Díaz,69,Mendoza,Desempleado,124322.48,68959.41,False,Préstamo personal,2015-05-22,7.0
+302,Ana,Díaz,28,Santa Fe,Estudiante,86541.99,139068.31,False,Cuenta corriente,2022-10-10,
+303,Juan,Pérez,75,Córdoba,Desempleado,74317.22,135529.62,False,Plazo fijo,2015-09-02,3.0
+304,Carlos,Pérez,48,Mendoza,Empresario,153100.11,157540.68,True,Tarjeta de crédito,2022-07-13,4.0
+305,Pedro,Rodríguez,60,Buenos Aires,Empresario,73698.21,148222.28,True,Préstamo personal,2018-08-06,7.0
+306,Juan,Gómez,49,Córdoba,Jubilado,156361.83,171834.02,False,Préstamo personal,2019-09-11,4.0
+307,Lucía,López,44,Salta,Empresario,,88877.83,True,Caja de ahorro,2018-02-09,2.0
+308,Carlos,López,47,Chubut,Desempleado,202924.6,128083.88,True,Caja de ahorro,2021-03-11,
+309,Diego,Díaz,60,Tucumán,Empresario,17968.28,162473.75,False,Caja de ahorro,2020-03-24,6.0
+310,Juan,Díaz,19,Córdoba,,52161.53,119514.33,False,Cuenta corriente,2021-02-25,9.0
+311,Pedro,Díaz,79,Mendoza,Empresario,92231.61,193837.74,True,Tarjeta de crédito,2021-09-18,2.0
+312,María,Fernández,66,Neuquén,Jubilado,797.8,120314.53,True,Cuenta corriente,2016-02-25,1.0
+313,Luis,Sánchez,26,Tucumán,Empresario,-28549.31,,True,Tarjeta de crédito,2015-01-07,8.0
+314,Marta,Pérez,45,Córdoba,,1229.62,145801.72,False,Préstamo personal,2019-03-29,1.0
+315,Sofía,Fernández,48,Buenos Aires,Desempleado,85395.54,109412.77,True,Cuenta corriente,2022-03-24,
+316,Marta,Martínez,77,Neuquén,Empresario,86664.5,,True,Cuenta corriente,2021-05-22,3.0
+317,Pedro,López,51,Buenos Aires,Desempleado,116649.97,97522.71,True,Cuenta corriente,2016-11-01,5.0
+318,Ana,Romero,78,Salta,Desempleado,90149.93,132255.55,False,Plazo fijo,2021-09-02,9.0
+319,Ana,Pérez,73,Neuquén,Jubilado,114975.82,151210.97,False,Tarjeta de crédito,2016-02-20,10.0
+320,María,García,32,Santa Fe,Estudiante,77489.18,92906.47,False,Tarjeta de crédito,2022-10-02,2.0
+321,Sofía,Martínez,65,Chubut,Jubilado,135740.79,174940.07,True,Cuenta corriente,2017-10-03,1.0
+322,Diego,Pérez,42,Neuquén,Empleado,129715.5,160414.99,True,Plazo fijo,2019-10-03,1.0
+323,María,Fernández,53,Tucumán,Jubilado,83665.37,171280.03,False,Cuenta corriente,2016-03-03,8.0
+324,Marta,Gómez,25,Neuquén,Empresario,126650.57,150098.76,True,Tarjeta de crédito,2015-11-30,10.0
+325,María,Romero,26,Mendoza,Estudiante,,103972.66,True,Préstamo personal,2021-05-08,10.0
+326,Marta,Pérez,75,Chubut,Empresario,23883.7,149997.09,True,Plazo fijo,2021-06-24,10.0
+327,Juan,Sánchez,75,Mendoza,Empleado,145224.83,174923.88,False,Plazo fijo,2016-06-10,2.0
+328,Ana,Díaz,54,Santa Fe,Estudiante,54659.2,102387.65,True,Cuenta corriente,2022-09-08,9.0
+329,Juan,Díaz,65,Neuquén,Desempleado,144691.2,105566.96,True,Préstamo personal,2018-04-10,9.0
+330,Luis,Romero,62,Buenos Aires,,116201.34,,False,Tarjeta de crédito,2019-10-20,2.0
+331,Sofía,Fernández,79,Buenos Aires,Empresario,95773.88,135146.82,True,Caja de ahorro,2019-07-31,3.0
+332,Diego,Díaz,56,Córdoba,Empleado,6150.33,149353.45,False,Tarjeta de crédito,2021-06-26,
+333,Marta,Pérez,49,Salta,Desempleado,,138332.08,True,Tarjeta de crédito,2022-08-18,6.0
+334,Diego,García,75,Tucumán,Jubilado,81844.31,156399.98,False,Préstamo personal,2019-04-05,7.0
+335,Marta,López,69,Chubut,Desempleado,131728.18,198872.72,False,Plazo fijo,2020-07-21,6.0
+336,Pedro,López,34,Salta,Jubilado,94301.29,171535.54,True,Tarjeta de crédito,2019-07-13,3.0
+337,María,Martínez,52,Neuquén,Estudiante,86428.23,152246.07,True,Plazo fijo,2016-03-29,
+338,Luis,Rodríguez,54,Salta,Desempleado,109640.39,105731.54,False,Préstamo personal,2017-01-15,2.0
+339,Ana,Gómez,36,Córdoba,Desempleado,101328.61,121120.54,True,Préstamo personal,2020-03-18,2.0
+340,Marta,Romero,61,Salta,Desempleado,86650.36,183669.37,False,Cuenta corriente,2017-07-17,5.0
+341,Diego,Martínez,46,Chubut,Estudiante,97234.27,131260.58,True,Caja de ahorro,2017-04-27,8.0
+342,Luis,Rodríguez,76,Santa Fe,Empleado,121353.23,111289.91,True,Préstamo personal,2017-05-17,6.0
+343,Lucía,Fernández,24,Córdoba,Jubilado,124890.96,233921.32,True,Préstamo personal,2017-02-12,9.0
+344,Lucía,Sánchez,45,Santa Fe,Desempleado,102167.86,210978.37,True,Plazo fijo,2020-10-31,5.0
+345,Juan,Sánchez,26,Neuquén,Estudiante,131046.85,145021.86,False,Préstamo personal,2016-06-26,10.0
+346,Ana,Gómez,45,Córdoba,Empleado,,,False,Tarjeta de crédito,2015-11-18,4.0
+347,Pedro,Díaz,23,Neuquén,Jubilado,211244.32,178934.35,True,Cuenta corriente,2017-02-24,9.0
+348,Diego,Pérez,46,Neuquén,Estudiante,174279.43,,True,Cuenta corriente,2016-06-23,10.0
+349,María,Martínez,75,Salta,Jubilado,138122.15,185541.31,True,Tarjeta de crédito,2021-04-18,5.0
+350,María,Martínez,34,Santa Fe,Desempleado,2920.98,130437.86,True,Préstamo personal,2022-11-23,1.0
+351,Diego,Romero,33,Neuquén,Empleado,130300.96,215815.82,True,Caja de ahorro,2019-11-24,5.0
+352,Sofía,Romero,40,Santa Fe,Estudiante,,129250.33,False,Préstamo personal,2016-03-24,
+353,Pedro,Sánchez,48,Santa Fe,Empleado,51065.96,244589.34,False,Cuenta corriente,2016-05-04,5.0
+354,Luis,Sánchez,20,Córdoba,Desempleado,81895.2,157802.31,True,Caja de ahorro,2020-03-20,2.0
+355,Marta,García,38,Mendoza,Empleado,56608.26,205372.23,False,Plazo fijo,2016-04-08,6.0
+356,Sofía,García,43,Salta,Empleado,125340.15,128395.99,False,Plazo fijo,2015-11-10,5.0
+357,Marta,Díaz,53,Neuquén,Empresario,180799.7,,True,Préstamo personal,2020-05-09,2.0
+358,Marta,García,59,Santa Fe,Empleado,141301.44,57751.09,False,Préstamo personal,2016-01-20,10.0
+359,Sofía,Pérez,54,Tucumán,Jubilado,238126.26,,False,Caja de ahorro,2015-10-22,8.0
+360,Juan,Pérez,70,Mendoza,Estudiante,22319.38,152720.56,False,Caja de ahorro,2018-05-23,6.0
+361,Lucía,Martínez,39,Neuquén,Empresario,,100096.98,False,Préstamo personal,2017-01-31,10.0
+362,Marta,López,79,Tucumán,Estudiante,52848.74,202728.12,True,Cuenta corriente,2022-09-17,3.0
+363,Sofía,Pérez,59,Salta,Estudiante,161468.42,196239.76,False,Plazo fijo,2018-01-03,9.0
+364,Sofía,Rodríguez,29,Salta,Desempleado,88972.48,205295.43,False,Caja de ahorro,2021-07-19,4.0
+365,Carlos,Sánchez,59,Santa Fe,Desempleado,109475.81,96408.56,False,Cuenta corriente,2019-10-04,3.0
+366,Juan,Romero,78,Santa Fe,Empresario,,199856.45,True,Préstamo personal,2020-12-29,7.0
+367,Ana,García,30,Chubut,Desempleado,27260.56,165361.68,False,Tarjeta de crédito,2022-07-28,8.0
+368,Carlos,Martínez,28,Chubut,Desempleado,68932.55,207104.92,False,Caja de ahorro,2018-05-07,7.0
+369,Carlos,Gómez,71,Neuquén,Desempleado,,171709.25,False,Tarjeta de crédito,2020-04-26,1.0
+370,Diego,Romero,33,Córdoba,Estudiante,72595.6,156920.62,True,Cuenta corriente,2021-09-19,1.0
+371,Lucía,Rodríguez,25,Mendoza,Empresario,14317.85,200399.41,True,Plazo fijo,2015-08-16,
+372,Sofía,García,57,Neuquén,Estudiante,,184075.98,True,Cuenta corriente,2016-02-15,8.0
+373,Lucía,Rodríguez,76,Mendoza,Jubilado,85686.6,193270.62,True,Plazo fijo,2023-03-19,10.0
+374,Pedro,Sánchez,74,Santa Fe,Estudiante,,130478.1,True,Cuenta corriente,2023-01-24,3.0
+375,Diego,Sánchez,57,Salta,Jubilado,96459.33,143103.63,False,Caja de ahorro,2016-11-21,8.0
+376,Ana,Díaz,62,Santa Fe,Empleado,69289.11,80647.46,True,Caja de ahorro,2017-05-27,
+377,Lucía,Martínez,76,Salta,Empleado,146965.67,127595.04,False,Tarjeta de crédito,2017-02-25,4.0
+378,María,Romero,19,Chubut,Jubilado,93546.95,181615.74,True,Cuenta corriente,2020-10-10,
+379,Marta,Fernández,47,Neuquén,,110470.07,172567.51,True,Cuenta corriente,2018-09-12,7.0
+380,Pedro,Fernández,47,Chubut,Estudiante,71952.2,110818.72,True,Tarjeta de crédito,2019-10-06,3.0
+381,Juan,Romero,29,Salta,,175447.01,201293.82,False,Préstamo personal,2020-06-09,4.0
+382,Ana,Gómez,27,Santa Fe,Empresario,80418.44,268923.01,False,Cuenta corriente,2017-05-28,8.0
+383,Pedro,Martínez,61,Chubut,Empleado,103734.64,113891.02,False,Cuenta corriente,2019-05-27,4.0
+384,Marta,Rodríguez,28,Buenos Aires,Empleado,151749.97,141764.73,True,Cuenta corriente,2019-06-02,9.0
+385,Diego,Gómez,32,Mendoza,Jubilado,114002.11,125136.18,True,Préstamo personal,2021-07-31,4.0
+386,Marta,López,33,Tucumán,Desempleado,112754.48,146204.57,True,Caja de ahorro,2015-03-12,4.0
+387,Carlos,Romero,34,Salta,,1317.22,160956.24,True,Tarjeta de crédito,2021-04-29,5.0
+388,Marta,Rodríguez,43,Salta,Jubilado,134031.75,122106.68,True,Préstamo personal,2015-11-02,1.0
+389,Carlos,Fernández,19,Buenos Aires,Empresario,102779.35,138923.21,True,Plazo fijo,2022-02-18,7.0
+390,Diego,Pérez,67,Neuquén,Desempleado,127078.26,,False,Plazo fijo,2017-01-31,9.0
+391,Luis,Díaz,29,Neuquén,,109160.65,168864.08,False,Préstamo personal,2016-08-10,9.0
+392,Carlos,Fernández,68,Neuquén,Empresario,72042.12,208659.72,True,Préstamo personal,2020-10-22,1.0
+393,Juan,Martínez,43,Tucumán,Empresario,144715.36,149420.85,False,Caja de ahorro,2020-12-29,6.0
+394,Marta,Sánchez,40,Córdoba,Estudiante,109906.33,127526.57,False,Plazo fijo,2019-05-28,3.0
+395,Marta,Pérez,35,Buenos Aires,Empresario,,177853.57,False,Tarjeta de crédito,2015-04-12,4.0
+396,Juan,Díaz,79,Tucumán,Desempleado,165425.86,166006.92,True,Cuenta corriente,2019-06-18,8.0
+397,María,Díaz,49,Chubut,Desempleado,28476.02,142286.9,True,Cuenta corriente,2019-05-24,4.0
+398,Sofía,López,66,Buenos Aires,Jubilado,145046.46,169400.67,True,Caja de ahorro,2015-07-12,8.0
+399,Luis,López,79,Salta,Jubilado,174346.59,134674.06,True,Caja de ahorro,2017-12-21,4.0
+400,Ana,García,55,Mendoza,Empresario,44685.23,128784.64,False,Plazo fijo,2021-09-23,9.0
+401,Carlos,Fernández,74,Buenos Aires,Empleado,93861.91,74027.31,True,Tarjeta de crédito,2015-10-27,6.0
+402,Juan,Fernández,64,Córdoba,Estudiante,89202.59,136883.08,True,Tarjeta de crédito,2016-03-29,1.0
+403,Diego,Fernández,20,Santa Fe,Empleado,91451.44,79499.08,True,Préstamo personal,2022-03-06,10.0
+404,Carlos,García,55,Chubut,Empresario,191511.92,124423.85,False,Caja de ahorro,2016-09-10,2.0
+405,Sofía,Gómez,20,Tucumán,Empresario,45264.06,,False,Cuenta corriente,2016-09-28,7.0
+406,Diego,Díaz,47,Chubut,Empleado,84671.65,89793.21,False,Cuenta corriente,2021-06-06,10.0
+407,Pedro,Pérez,78,Chubut,Estudiante,175166.12,,False,Plazo fijo,2017-02-17,7.0
+408,Marta,Martínez,18,Buenos Aires,Empleado,83852.56,152618.95,False,Cuenta corriente,2019-01-19,3.0
+409,Pedro,Díaz,47,Buenos Aires,Jubilado,53211.01,,True,Tarjeta de crédito,2021-02-27,1.0
+410,Carlos,López,62,Córdoba,Desempleado,113150.73,130746.61,False,Tarjeta de crédito,2022-06-14,8.0
+411,Sofía,Rodríguez,49,Mendoza,Jubilado,140282.03,163015.55,False,Caja de ahorro,2021-06-07,10.0
+412,Luis,Sánchez,45,Buenos Aires,Desempleado,80357.95,168563.97,True,Plazo fijo,2020-08-06,10.0
+413,Carlos,García,38,Buenos Aires,Empresario,127718.42,150061.05,True,Cuenta corriente,2019-07-06,
+414,Juan,Romero,75,Mendoza,Estudiante,31169.25,132969.56,True,Caja de ahorro,2015-12-03,10.0
+415,Lucía,Rodríguez,63,Córdoba,Empleado,33948.65,184589.44,False,Préstamo personal,2020-09-10,8.0
+416,Carlos,Martínez,30,Tucumán,Estudiante,77995.69,97570.4,True,Préstamo personal,2020-06-17,1.0
+417,Marta,Fernández,44,Chubut,,129500.87,177495.14,False,Cuenta corriente,2020-06-30,
+418,Marta,López,53,Tucumán,Jubilado,138074.9,166787.78,True,Cuenta corriente,2019-11-18,2.0
+419,Carlos,López,24,Buenos Aires,Jubilado,40899.2,157961.07,False,Cuenta corriente,2022-09-21,1.0
+420,Diego,López,39,Mendoza,Empleado,136221.04,149604.18,False,Tarjeta de crédito,2017-12-07,5.0
+421,Lucía,Fernández,27,Buenos Aires,Estudiante,108325.35,74401.25,False,Cuenta corriente,2020-07-24,3.0
+422,Juan,Romero,56,Neuquén,Empleado,56039.77,205494.09,False,Préstamo personal,2018-06-27,10.0
+423,Carlos,García,70,Santa Fe,Empresario,33290.58,,True,Cuenta corriente,2018-06-03,8.0
+424,Diego,Rodríguez,32,Tucumán,,111491.16,111544.39,True,Plazo fijo,2018-07-19,6.0
+425,Marta,Fernández,32,Neuquén,Empresario,164478.16,180352.39,False,Préstamo personal,2022-06-05,10.0
+426,Marta,Martínez,21,Salta,Jubilado,101776.12,157553.59,True,Plazo fijo,2015-11-24,9.0
+427,Sofía,García,49,Santa Fe,Jubilado,,126679.92,False,Préstamo personal,2017-03-07,9.0
+428,Carlos,Martínez,40,Buenos Aires,Desempleado,6598.89,197671.75,True,Caja de ahorro,2018-04-18,
+429,Lucía,García,72,Córdoba,Empresario,176474.54,,True,Préstamo personal,2022-11-01,2.0
+430,María,Romero,23,Tucumán,Empresario,152092.53,204245.06,False,Préstamo personal,2016-10-26,9.0
+431,Lucía,Sánchez,41,Salta,Desempleado,115103.84,171371.21,False,Plazo fijo,2022-08-25,2.0
+432,Marta,Martínez,37,Santa Fe,Estudiante,173899.7,188262.35,True,Plazo fijo,2023-02-25,3.0
+433,Marta,Fernández,75,Tucumán,Empresario,111195.95,173163.41,False,Préstamo personal,2017-08-20,6.0
+434,Pedro,García,54,Mendoza,Empleado,73448.15,,True,Préstamo personal,2019-06-18,2.0
+435,Marta,López,37,Córdoba,Desempleado,127756.61,158609.22,True,Tarjeta de crédito,2018-10-25,5.0
+436,Juan,Díaz,29,Santa Fe,Empresario,58513.72,120927.24,True,Caja de ahorro,2018-06-22,2.0
+437,Ana,López,50,Mendoza,Estudiante,50217.61,152501.03,False,Caja de ahorro,2018-03-29,
+438,Carlos,Gómez,45,Neuquén,Empresario,138580.36,186655.63,False,Cuenta corriente,2016-01-08,3.0
+439,Lucía,Sánchez,25,Buenos Aires,,142787.94,178770.39,True,Préstamo personal,2015-10-12,5.0
+440,Ana,Sánchez,18,Mendoza,Empleado,36313.09,170050.14,False,Préstamo personal,2022-01-12,
+441,Diego,López,54,Santa Fe,Desempleado,38160.12,66169.87,False,Préstamo personal,2022-07-07,7.0
+442,María,Rodríguez,39,Chubut,Jubilado,,141471.04,True,Préstamo personal,2017-03-17,
+443,Juan,Romero,23,Santa Fe,Estudiante,64434.76,,False,Caja de ahorro,2016-10-08,8.0
+444,Lucía,Martínez,78,Chubut,Jubilado,123824.44,105869.7,False,Plazo fijo,2019-05-24,9.0
+445,Ana,Fernández,38,Neuquén,Jubilado,102402.49,,True,Tarjeta de crédito,2020-12-23,4.0
+446,María,Sánchez,49,Buenos Aires,Estudiante,158245.31,68987.65,False,Plazo fijo,2015-04-06,4.0
+447,Pedro,López,52,Chubut,Jubilado,115862.89,183465.43,True,Plazo fijo,2015-10-01,7.0
+448,Juan,López,32,Chubut,Desempleado,67771.16,203169.53,False,Caja de ahorro,2023-01-04,
+449,Juan,Romero,22,Mendoza,Empresario,,141606.33,False,Tarjeta de crédito,2022-12-07,
+450,Pedro,Romero,77,Mendoza,Jubilado,108972.8,147026.44,True,Préstamo personal,2018-04-15,9.0
+451,Carlos,Pérez,73,Buenos Aires,Desempleado,14483.59,,True,Caja de ahorro,2019-11-08,2.0
+452,Pedro,Pérez,63,Mendoza,Empresario,67152.24,119453.81,False,Caja de ahorro,2017-02-22,6.0
+453,Juan,Rodríguez,67,Tucumán,Empresario,63913.66,176431.06,True,Tarjeta de crédito,2018-07-24,10.0
+454,Juan,Rodríguez,65,Buenos Aires,Jubilado,74578.64,113287.43,True,Cuenta corriente,2015-05-12,10.0
+455,Ana,Gómez,23,Córdoba,Desempleado,,101302.32,False,Caja de ahorro,2018-10-22,8.0
+456,Marta,Rodríguez,42,Chubut,Jubilado,63736.17,161839.63,True,Plazo fijo,2021-08-17,5.0
+457,María,García,73,Santa Fe,Estudiante,157295.23,148932.52,False,Plazo fijo,2018-02-23,5.0
+458,Pedro,Romero,63,Córdoba,,157157.42,81159.83,False,Préstamo personal,2019-12-16,8.0
+459,María,Fernández,76,Chubut,Jubilado,176624.99,206612.44,True,Caja de ahorro,2020-07-23,1.0
+460,Pedro,García,73,Tucumán,Empresario,,133411.32,False,Préstamo personal,2017-03-18,6.0
+461,Diego,Martínez,57,Chubut,Desempleado,113560.96,170427.2,True,Caja de ahorro,2017-01-13,
+462,Juan,López,46,Chubut,Empleado,158030.57,214207.33,False,Tarjeta de crédito,2015-02-20,9.0
+463,Marta,Rodríguez,24,Chubut,Jubilado,26466.95,159904.18,True,Caja de ahorro,2018-03-27,6.0
+464,Ana,López,57,Neuquén,Jubilado,140281.43,200931.68,True,Cuenta corriente,2015-02-25,7.0
+465,Marta,Sánchez,30,Tucumán,Empresario,165117.24,115477.84,False,Plazo fijo,2017-01-13,4.0
+466,Marta,Gómez,55,Salta,Desempleado,55551.98,206839.41,True,Tarjeta de crédito,2021-10-11,10.0
+467,Marta,Sánchez,35,Salta,,169131.96,116965.42,True,Plazo fijo,2016-03-18,1.0
+468,María,Gómez,19,Salta,Desempleado,202885.8,127154.34,True,Préstamo personal,2020-04-18,9.0
+469,Pedro,Pérez,25,Buenos Aires,Jubilado,138892.33,91813.38,False,Tarjeta de crédito,2021-07-01,6.0
+470,Luis,López,28,Mendoza,Estudiante,129725.22,160736.98,False,Cuenta corriente,2022-05-11,
+471,Diego,Gómez,50,Tucumán,Desempleado,44011.2,,True,Plazo fijo,2019-07-20,4.0
+472,Lucía,Díaz,71,Córdoba,Empleado,153460.2,180672.34,True,Caja de ahorro,2022-11-16,10.0
+473,Marta,García,78,Neuquén,Empresario,48720.47,92736.55,False,Caja de ahorro,2015-03-21,6.0
+474,Carlos,Gómez,55,Córdoba,Desempleado,118487.04,164999.05,False,Caja de ahorro,2021-11-26,6.0
+475,María,Gómez,65,Córdoba,Desempleado,,166479.29,False,Tarjeta de crédito,2016-01-12,9.0
+476,Ana,García,44,Córdoba,Empleado,-64812.65,174590.87,True,Cuenta corriente,2023-02-14,4.0
+477,Lucía,López,37,Neuquén,Jubilado,120290.17,119090.85,False,Cuenta corriente,2021-07-08,5.0
+478,Luis,López,29,Salta,,231073.74,49787.85,True,Cuenta corriente,2016-03-16,
+479,Carlos,García,60,Córdoba,Desempleado,-4592.82,178259.16,False,Plazo fijo,2015-05-06,3.0
+480,Luis,Sánchez,78,Neuquén,,97305.4,144166.81,True,Tarjeta de crédito,2019-09-14,2.0
+481,Lucía,Díaz,48,Neuquén,Desempleado,2644.23,161209.64,False,Caja de ahorro,2015-08-07,8.0
+482,Marta,Fernández,44,Mendoza,Empresario,55292.93,146215.72,True,Plazo fijo,2017-08-05,10.0
+483,Carlos,Martínez,49,Neuquén,Desempleado,3511.16,159380.09,False,Cuenta corriente,2015-10-05,9.0
+484,Luis,Díaz,78,Salta,Empleado,107977.12,179484.77,False,Caja de ahorro,2016-08-17,10.0
+485,Ana,López,27,Córdoba,Desempleado,139680.24,75719.13,True,Tarjeta de crédito,2017-07-23,9.0
+486,Pedro,Fernández,20,Neuquén,Desempleado,120486.93,195640.81,False,Préstamo personal,2020-07-11,5.0
+487,Juan,Pérez,62,Buenos Aires,Estudiante,53490.88,142714.3,False,Cuenta corriente,2015-05-21,9.0
+488,Pedro,Rodríguez,44,Neuquén,Empleado,69530.26,,False,Cuenta corriente,2022-12-03,4.0
+489,Lucía,Gómez,52,Santa Fe,Empleado,113613.63,131621.78,False,Cuenta corriente,2019-06-19,2.0
+490,María,García,48,Santa Fe,Desempleado,55053.8,122736.09,True,Cuenta corriente,2017-05-26,3.0
+491,Juan,García,32,Santa Fe,Estudiante,33560.24,144066.42,True,Caja de ahorro,2019-09-26,1.0
+492,Diego,Gómez,33,Neuquén,Desempleado,88043.65,169999.48,False,Tarjeta de crédito,2015-04-20,5.0
+493,Ana,Rodríguez,78,Salta,Desempleado,52764.59,,True,Plazo fijo,2017-12-11,1.0
+494,Diego,Martínez,30,Córdoba,Empresario,120577.9,172900.53,True,Caja de ahorro,2022-04-14,
+495,Carlos,Rodríguez,66,Tucumán,Empresario,164934.87,134514.96,True,Tarjeta de crédito,2022-07-23,7.0
+496,Juan,Fernández,52,Tucumán,Estudiante,229879.17,151395.69,True,Plazo fijo,2020-06-16,2.0
+497,Diego,Rodríguez,69,Tucumán,Jubilado,116903.35,239462.12,True,Cuenta corriente,2018-05-07,8.0
+498,Diego,Fernández,28,Salta,Empresario,132298.61,164290.67,False,Tarjeta de crédito,2017-03-06,6.0
+499,Luis,Rodríguez,76,Mendoza,Jubilado,70034.13,,True,Cuenta corriente,2020-07-22,4.0
+500,Pedro,Martínez,38,Chubut,Empleado,73131.16,91097.2,False,Tarjeta de crédito,2016-12-29,9.0
+501,Luis,Martínez,68,Buenos Aires,Empresario,164202.81,204171.5,True,Préstamo personal,2021-12-27,10.0
+502,Juan,López,71,Buenos Aires,Empresario,86183.61,192658.6,False,Cuenta corriente,2019-03-18,8.0
+503,Juan,Gómez,28,Santa Fe,Estudiante,103647.37,,False,Cuenta corriente,2017-11-06,10.0
+504,Lucía,Martínez,47,Santa Fe,Jubilado,161148.78,191869.04,False,Cuenta corriente,2015-11-11,3.0
+505,Luis,Fernández,77,Neuquén,Empresario,86568.64,163192.05,True,Caja de ahorro,2015-03-18,3.0
+506,Sofía,Martínez,65,Tucumán,Empresario,175021.02,151856.64,True,Plazo fijo,2023-01-25,4.0
+507,Pedro,López,70,Neuquén,Estudiante,128651.47,201638.23,False,Cuenta corriente,2019-06-29,
+508,Juan,García,52,Chubut,Estudiante,122769.91,129508.06,False,Cuenta corriente,2016-12-12,9.0
+509,Lucía,Fernández,39,Tucumán,Jubilado,,121105.8,True,Caja de ahorro,2019-03-18,5.0
+510,Luis,López,55,Santa Fe,Empleado,125456.3,158302.53,True,Caja de ahorro,2020-02-11,9.0
+511,Pedro,Sánchez,48,Córdoba,,78547.7,,False,Préstamo personal,2017-05-03,6.0
+512,Luis,Sánchez,31,Mendoza,Desempleado,123470.44,188652.64,True,Tarjeta de crédito,2018-03-07,8.0
+513,Diego,Pérez,41,Neuquén,Empresario,94908.75,143961.88,True,Cuenta corriente,2019-05-17,8.0
+514,Lucía,Rodríguez,67,Mendoza,Jubilado,148340.48,116009.16,True,Tarjeta de crédito,2022-07-19,10.0
+515,Pedro,Gómez,66,Mendoza,Empresario,98411.44,251142.71,True,Caja de ahorro,2020-03-27,7.0
+516,Marta,Romero,49,Mendoza,Jubilado,201892.88,106536.22,True,Caja de ahorro,2015-09-22,4.0
+517,Carlos,Díaz,53,Santa Fe,Jubilado,86222.65,152204.72,True,Préstamo personal,2015-11-29,4.0
+518,Carlos,López,49,Buenos Aires,Jubilado,73271.26,181188.22,False,Plazo fijo,2021-02-13,6.0
+519,Pedro,García,72,Santa Fe,Empresario,117305.69,196044.9,False,Caja de ahorro,2017-12-22,9.0
+520,Luis,Díaz,32,Mendoza,,,,False,Cuenta corriente,2017-03-30,7.0
+521,Lucía,García,60,Santa Fe,Empresario,153504.92,75003.29,False,Préstamo personal,2018-07-26,5.0
+522,Carlos,Díaz,75,Mendoza,Jubilado,,126389.39,False,Plazo fijo,2019-04-15,5.0
+523,Lucía,López,52,Salta,Desempleado,116954.46,184452.9,False,Préstamo personal,2018-04-09,
+524,Carlos,Romero,20,Tucumán,Empleado,117026.9,175499.86,True,Caja de ahorro,2019-03-07,6.0
+525,Diego,Díaz,33,Buenos Aires,Jubilado,46106.36,176804.89,True,Plazo fijo,2015-10-26,1.0
+526,Luis,López,22,Salta,Desempleado,151203.67,178466.56,False,Tarjeta de crédito,2021-02-26,1.0
+527,Diego,Martínez,38,Córdoba,,37107.18,203603.37,False,Plazo fijo,2018-03-04,9.0
+528,Carlos,Romero,78,Santa Fe,Jubilado,46200.07,118964.46,False,Cuenta corriente,2015-09-29,8.0
+529,Marta,Fernández,27,Córdoba,Desempleado,102751.35,102084.08,True,Tarjeta de crédito,2016-06-18,6.0
+530,Marta,García,36,Neuquén,,84007.01,164819.21,True,Tarjeta de crédito,2020-09-09,
+531,Diego,Sánchez,42,Santa Fe,Empresario,139807.87,,True,Cuenta corriente,2018-02-18,2.0
+532,Marta,Rodríguez,21,Chubut,Desempleado,,99563.39,True,Tarjeta de crédito,2015-03-10,10.0
+533,Carlos,Sánchez,78,Chubut,Empresario,106910.07,198958.4,False,Caja de ahorro,2023-01-09,3.0
+534,Pedro,Romero,46,Tucumán,Empresario,,160014.39,False,Plazo fijo,2017-04-06,10.0
+535,Diego,Fernández,36,Salta,Desempleado,101328.01,151139.73,False,Plazo fijo,2023-02-19,
+536,María,García,60,Tucumán,Empleado,97374.43,151970.96,False,Cuenta corriente,2018-03-15,
+537,Luis,Fernández,19,Neuquén,Desempleado,111109.34,145754.44,True,Caja de ahorro,2017-09-10,
+538,Marta,Díaz,27,Mendoza,Empleado,78498.1,198689.63,True,Tarjeta de crédito,2016-04-25,6.0
+539,Marta,García,78,Tucumán,Jubilado,126140.88,89415.36,False,Plazo fijo,2021-05-29,7.0
+540,Juan,Díaz,60,Tucumán,Jubilado,82671.95,87759.06,True,Plazo fijo,2020-07-08,4.0
+541,Sofía,López,42,Chubut,Desempleado,121455.67,112544.74,True,Plazo fijo,2018-12-23,1.0
+542,Diego,Romero,37,Mendoza,Jubilado,139802.38,161566.47,True,Plazo fijo,2020-11-03,6.0
+543,Ana,López,65,Chubut,Estudiante,73270.23,222213.75,True,Préstamo personal,2017-11-05,7.0
+544,Marta,Pérez,36,Santa Fe,Empresario,61392.08,184763.36,False,Cuenta corriente,2022-08-07,4.0
+545,Luis,Fernández,40,Mendoza,,123818.31,173697.71,True,Tarjeta de crédito,2016-09-19,6.0
+546,María,Díaz,41,Salta,Empleado,33945.02,146805.32,False,Tarjeta de crédito,2015-04-28,9.0
+547,Marta,Martínez,28,Tucumán,Jubilado,155583.24,96698.8,True,Cuenta corriente,2021-05-06,4.0
+548,María,López,63,Chubut,Empleado,100548.13,170599.59,True,Caja de ahorro,2022-12-12,10.0
+549,Carlos,Pérez,51,Mendoza,Empresario,94262.08,231038.68,False,Cuenta corriente,2015-06-11,4.0
+550,Carlos,Gómez,72,Neuquén,Empresario,127300.8,140397.69,False,Plazo fijo,2022-07-10,10.0
+551,Sofía,Sánchez,45,Neuquén,Jubilado,124197.73,127573.07,True,Plazo fijo,2019-08-04,5.0
+552,Pedro,García,22,Tucumán,Estudiante,100325.9,140590.27,True,Cuenta corriente,2015-06-16,3.0
+553,Ana,Pérez,76,Salta,Estudiante,143930.82,173990.05,False,Cuenta corriente,2015-10-27,
+554,Juan,Romero,22,Córdoba,Jubilado,66380.58,,True,Tarjeta de crédito,2020-09-06,2.0
+555,Sofía,López,68,Chubut,Jubilado,,186400.56,True,Tarjeta de crédito,2016-07-15,9.0
+556,Lucía,Romero,38,Salta,Empleado,46068.83,148661.97,False,Préstamo personal,2023-01-09,1.0
+557,Juan,Sánchez,29,Buenos Aires,Jubilado,125532.45,140359.53,True,Préstamo personal,2021-01-12,5.0
+558,Diego,Martínez,67,Buenos Aires,Estudiante,83606.34,159160.24,True,Plazo fijo,2018-09-09,5.0
+559,Luis,Fernández,21,Buenos Aires,Jubilado,34445.7,128413.91,True,Préstamo personal,2018-02-18,8.0
+560,Lucía,Fernández,71,Tucumán,Empleado,112832.14,,True,Préstamo personal,2022-05-23,
+561,Lucía,Romero,66,Neuquén,Empleado,98278.68,182924.58,True,Caja de ahorro,2019-04-01,6.0
+562,Sofía,Díaz,59,Santa Fe,Empleado,22863.72,106012.06,False,Cuenta corriente,2022-11-08,6.0
+563,Pedro,Martínez,37,Chubut,Empleado,-5683.28,120169.63,True,Tarjeta de crédito,2016-07-14,4.0
+564,Sofía,Fernández,55,Neuquén,Desempleado,92386.81,172613.48,False,Préstamo personal,2018-04-02,
+565,Diego,Martínez,42,Santa Fe,Jubilado,180911.3,157332.7,False,Tarjeta de crédito,2019-08-17,
+566,Marta,Pérez,31,Santa Fe,Empresario,,162100.47,True,Préstamo personal,2015-11-08,10.0
+567,Marta,Martínez,28,Neuquén,Jubilado,66584.84,142314.9,False,Préstamo personal,2021-08-20,
+568,Pedro,Rodríguez,49,Chubut,Desempleado,154093.48,168206.92,True,Plazo fijo,2018-10-01,5.0
+569,Diego,Sánchez,28,Tucumán,Empleado,145361.18,143255.77,False,Caja de ahorro,2021-01-06,10.0
+570,Pedro,Fernández,78,Salta,Desempleado,163578.95,172535.18,False,Cuenta corriente,2020-03-26,1.0
+571,María,Martínez,35,Santa Fe,Estudiante,134194.89,180921.13,False,Cuenta corriente,2022-03-17,5.0
+572,Marta,Romero,44,Córdoba,Estudiante,144295.12,214269.61,True,Plazo fijo,2016-08-03,2.0
+573,Lucía,Gómez,72,Neuquén,Jubilado,136555.43,129412.03,False,Plazo fijo,2017-09-03,1.0
+574,Ana,Rodríguez,71,Neuquén,Jubilado,76124.75,149555.25,False,Cuenta corriente,2015-06-26,4.0
+575,Luis,Rodríguez,35,Buenos Aires,Empresario,18135.96,101240.74,False,Cuenta corriente,2021-07-29,6.0
+576,Diego,Díaz,73,Salta,Empresario,73943.23,223050.46,True,Caja de ahorro,2016-05-28,7.0
+577,Juan,Martínez,40,Buenos Aires,Estudiante,155246.85,70980.48,True,Préstamo personal,2021-06-14,9.0
+578,Pedro,Díaz,28,Neuquén,Empleado,80949.46,217314.78,False,Caja de ahorro,2015-04-29,5.0
+579,Luis,Díaz,38,Neuquén,Desempleado,92727.05,153738.78,False,Cuenta corriente,2019-03-23,8.0
+580,Juan,Gómez,61,Santa Fe,Empresario,41710.75,166737.12,False,Préstamo personal,2017-02-05,
+581,Luis,Pérez,22,Salta,Empresario,72445.52,,False,Cuenta corriente,2017-08-30,
+582,Ana,Martínez,40,Mendoza,Empleado,99545.54,151244.03,True,Caja de ahorro,2017-07-04,3.0
+583,Juan,López,58,Córdoba,Empleado,124628.11,173523.38,True,Caja de ahorro,2021-11-30,3.0
+584,Sofía,Fernández,76,Chubut,Jubilado,77066.95,,True,Caja de ahorro,2018-12-08,9.0
+585,Carlos,Díaz,42,Santa Fe,Desempleado,73573.13,123914.95,False,Préstamo personal,2016-08-09,7.0
+586,Sofía,Sánchez,58,Neuquén,Empleado,142108.78,116197.71,True,Tarjeta de crédito,2015-12-17,4.0
+587,Marta,García,71,Chubut,Empresario,116263.33,167896.19,False,Tarjeta de crédito,2019-03-10,1.0
+588,Carlos,Sánchez,27,Santa Fe,Empresario,122433.62,150174.65,False,Cuenta corriente,2021-02-20,7.0
+589,Sofía,Gómez,39,Córdoba,Estudiante,176416.03,174723.83,False,Préstamo personal,2019-01-13,10.0
+590,Carlos,Gómez,36,Neuquén,Empleado,74746.28,156591.0,True,Plazo fijo,2016-05-10,6.0
+591,Carlos,Romero,18,Córdoba,,,192343.55,False,Tarjeta de crédito,2022-01-06,3.0
+592,Lucía,Pérez,24,Chubut,Desempleado,127557.99,120389.03,True,Préstamo personal,2022-07-06,5.0
+593,Pedro,Fernández,21,Mendoza,Jubilado,56424.63,152326.23,False,Préstamo personal,2020-02-14,3.0
+594,Pedro,Díaz,18,Santa Fe,Empresario,111452.49,194374.54,True,Tarjeta de crédito,2015-09-30,8.0
+595,Lucía,Sánchez,32,Tucumán,Jubilado,101109.82,186373.04,False,Préstamo personal,2023-01-06,
+596,Luis,García,57,Santa Fe,Empresario,238864.97,90814.22,True,Préstamo personal,2020-09-30,10.0
+597,María,Gómez,29,Buenos Aires,Empresario,104993.48,109155.57,False,Tarjeta de crédito,2015-09-20,10.0
+598,Luis,Gómez,39,Salta,Empresario,157846.99,146728.36,True,Caja de ahorro,2020-12-20,6.0
+599,Juan,Pérez,39,Salta,,141497.16,140606.53,False,Cuenta corriente,2021-06-15,2.0
+600,Juan,García,67,Buenos Aires,Empresario,42171.92,147382.93,False,Plazo fijo,2019-05-16,8.0
+601,Carlos,García,64,Neuquén,,22558.81,181847.61,False,Cuenta corriente,2020-08-25,9.0
+602,Sofía,Pérez,34,Salta,,112350.73,161575.32,True,Caja de ahorro,2019-10-31,3.0
+603,Sofía,Gómez,46,Córdoba,Estudiante,162866.73,163907.64,False,Caja de ahorro,2015-07-14,6.0
+604,Pedro,Fernández,63,Chubut,Estudiante,114395.74,176824.54,False,Préstamo personal,2019-11-22,6.0
+605,Diego,Martínez,31,Chubut,Empleado,103942.59,192966.97,False,Cuenta corriente,2019-01-06,2.0
+606,Luis,Martínez,67,Salta,,,27759.51,True,Caja de ahorro,2021-06-08,10.0
+607,Marta,Pérez,37,Salta,Empleado,33801.94,134534.94,False,Cuenta corriente,2017-12-07,
+608,Ana,García,67,Buenos Aires,Desempleado,51973.96,114681.29,False,Caja de ahorro,2019-11-06,5.0
+609,Sofía,Díaz,65,Neuquén,Empleado,18884.32,169012.65,True,Plazo fijo,2018-02-18,
+610,Ana,Pérez,50,Mendoza,Jubilado,44847.67,131515.84,False,Caja de ahorro,2019-03-03,8.0
+611,Carlos,Fernández,72,Salta,Estudiante,73699.59,153034.46,True,Cuenta corriente,2017-04-11,3.0
+612,Ana,Pérez,76,Tucumán,Jubilado,138800.8,184085.72,False,Préstamo personal,2016-07-15,5.0
+613,Marta,Rodríguez,60,Salta,Empleado,,,True,Cuenta corriente,2015-02-10,7.0
+614,Lucía,Sánchez,32,Mendoza,Desempleado,112781.29,164512.63,True,Tarjeta de crédito,2019-01-19,5.0
+615,Marta,García,29,Buenos Aires,Desempleado,106761.46,212153.11,True,Cuenta corriente,2022-01-25,
+616,Ana,Romero,57,Mendoza,,124952.44,183264.62,False,Plazo fijo,2016-01-06,2.0
+617,Marta,Romero,71,Buenos Aires,Jubilado,48259.25,86568.91,False,Plazo fijo,2018-04-20,8.0
+618,María,García,37,Córdoba,Empresario,152959.69,138330.13,True,Plazo fijo,2022-01-08,5.0
+619,Carlos,Fernández,47,Buenos Aires,Jubilado,29641.15,164232.65,False,Caja de ahorro,2016-10-18,6.0
+620,Luis,Rodríguez,55,Córdoba,Empleado,77609.34,172111.35,False,Plazo fijo,2016-08-12,1.0
+621,Lucía,Rodríguez,20,Córdoba,Empresario,98954.73,139906.04,True,Cuenta corriente,2015-08-19,10.0
+622,Sofía,Gómez,45,Buenos Aires,Desempleado,138007.24,124408.44,True,Préstamo personal,2017-03-19,2.0
+623,Juan,Sánchez,73,Tucumán,Estudiante,168965.47,152710.52,True,Plazo fijo,2018-10-03,4.0
+624,Luis,Martínez,43,Santa Fe,Estudiante,138401.58,106524.61,True,Cuenta corriente,2016-04-23,9.0
+625,Juan,López,47,Buenos Aires,Desempleado,170795.82,193989.37,False,Caja de ahorro,2018-05-17,6.0
+626,Carlos,Fernández,30,Salta,Empleado,58541.2,224747.24,False,Caja de ahorro,2022-06-15,8.0
+627,Lucía,López,30,Tucumán,Desempleado,159518.52,,False,Préstamo personal,2021-05-14,2.0
+628,Pedro,López,19,Tucumán,Empleado,150932.84,140702.46,False,Préstamo personal,2019-11-08,10.0
+629,Sofía,García,54,Salta,Empresario,-19813.75,187636.04,False,Cuenta corriente,2020-10-01,5.0
+630,María,Romero,66,Santa Fe,Desempleado,88976.79,180877.17,False,Préstamo personal,2020-02-28,1.0
+631,Pedro,Romero,55,Tucumán,Empleado,130101.87,138978.37,True,Préstamo personal,2017-10-30,4.0
+632,Carlos,Martínez,19,Córdoba,Empresario,74229.31,148086.26,False,Caja de ahorro,2019-10-29,10.0
+633,Luis,García,53,Chubut,,45708.74,125618.63,False,Cuenta corriente,2017-01-17,1.0
+634,María,López,71,Santa Fe,Estudiante,205708.76,,False,Préstamo personal,2016-04-08,9.0
+635,Marta,Díaz,43,Neuquén,Desempleado,105552.01,161956.37,True,Cuenta corriente,2017-01-23,2.0
+636,Ana,Romero,28,Salta,,106920.27,118794.69,True,Plazo fijo,2020-01-15,
+637,María,Fernández,25,Santa Fe,Desempleado,34550.29,107012.95,False,Caja de ahorro,2016-08-05,3.0
+638,Carlos,Fernández,61,Buenos Aires,Jubilado,69381.95,96959.38,True,Caja de ahorro,2021-01-14,2.0
+639,Diego,Gómez,57,Chubut,,55107.97,166661.39,True,Caja de ahorro,2015-01-19,4.0
+640,Ana,Pérez,60,Santa Fe,Desempleado,153948.76,149540.7,False,Tarjeta de crédito,2015-02-24,7.0
+641,Juan,Díaz,39,Córdoba,Empresario,125231.68,146657.03,False,Cuenta corriente,2019-10-17,7.0
+642,Sofía,Romero,37,Chubut,Empresario,71471.82,168581.04,False,Plazo fijo,2016-12-21,9.0
+643,Juan,Rodríguez,25,Buenos Aires,Empleado,128025.01,113961.52,True,Préstamo personal,2022-09-09,3.0
+644,María,Romero,46,Mendoza,Empresario,87323.99,107189.89,True,Plazo fijo,2019-04-13,
+645,Juan,Gómez,57,Salta,Empresario,111724.54,,False,Cuenta corriente,2022-10-26,6.0
+646,Carlos,Fernández,43,Chubut,Desempleado,111488.19,80852.84,True,Caja de ahorro,2022-08-02,10.0
+647,Marta,López,47,Salta,Desempleado,121013.36,139640.62,True,Tarjeta de crédito,2021-05-21,7.0
+648,Luis,Rodríguez,34,Santa Fe,Estudiante,114982.6,248657.85,True,Cuenta corriente,2019-04-05,7.0
+649,Sofía,García,37,Tucumán,,,96058.5,False,Cuenta corriente,2022-01-02,10.0
+650,Juan,Sánchez,69,Buenos Aires,Empresario,162790.42,132810.31,False,Préstamo personal,2018-11-20,5.0
+651,Juan,López,72,Mendoza,Empleado,132028.14,65084.29,False,Plazo fijo,2020-12-07,
+652,María,Sánchez,33,Buenos Aires,Jubilado,83154.91,140650.88,False,Plazo fijo,2020-11-14,7.0
+653,Luis,Díaz,63,Salta,Empresario,95102.36,228661.46,False,Préstamo personal,2020-12-07,7.0
+654,Pedro,Pérez,79,Buenos Aires,Empleado,161508.53,168676.7,True,Tarjeta de crédito,2019-04-10,3.0
+655,Juan,Rodríguez,60,Mendoza,Estudiante,105621.12,125448.83,True,Caja de ahorro,2018-03-22,
+656,Carlos,Martínez,24,Tucumán,Estudiante,81299.08,237256.43,True,Caja de ahorro,2018-06-22,5.0
+657,Diego,Rodríguez,33,Santa Fe,,68443.08,80305.9,True,Tarjeta de crédito,2019-12-01,8.0
+658,Sofía,Romero,62,Córdoba,Jubilado,113651.91,168157.73,True,Préstamo personal,2021-09-06,5.0
+659,Juan,Fernández,76,Buenos Aires,Estudiante,57257.16,152596.51,True,Cuenta corriente,2018-03-12,10.0
+660,Carlos,Romero,64,Chubut,Estudiante,,140119.01,False,Plazo fijo,2022-10-12,3.0
+661,Carlos,Romero,73,Córdoba,Jubilado,48109.08,182283.66,False,Cuenta corriente,2020-02-14,9.0
+662,Sofía,Díaz,65,Salta,Empleado,173903.39,,True,Plazo fijo,2021-03-17,2.0
+663,Pedro,López,44,Santa Fe,Estudiante,85738.48,162504.91,False,Cuenta corriente,2022-11-26,3.0
+664,Carlos,Martínez,70,Neuquén,Desempleado,46163.13,157426.33,True,Préstamo personal,2015-06-09,4.0
+665,Diego,Martínez,40,Santa Fe,Estudiante,109458.79,,True,Préstamo personal,2022-04-12,10.0
+666,Carlos,Romero,41,Buenos Aires,,52348.04,227999.82,False,Tarjeta de crédito,2016-09-30,1.0
+667,Carlos,Sánchez,26,Chubut,Empleado,101718.59,142726.51,False,Cuenta corriente,2017-11-21,4.0
+668,Carlos,Díaz,52,Tucumán,Empresario,71122.82,144453.99,True,Cuenta corriente,2022-09-25,4.0
+669,Marta,Romero,68,Santa Fe,Desempleado,147253.66,108892.91,False,Tarjeta de crédito,2015-11-30,9.0
+670,Marta,Pérez,37,Buenos Aires,,106837.48,143466.38,True,Tarjeta de crédito,2017-06-10,8.0
+671,Pedro,Fernández,54,Buenos Aires,,40574.96,243390.18,True,Préstamo personal,2023-03-07,
+672,Juan,López,59,Córdoba,Desempleado,70148.17,139891.53,True,Préstamo personal,2020-07-09,7.0
+673,Carlos,García,34,Santa Fe,Desempleado,135247.36,170748.08,True,Cuenta corriente,2015-12-18,6.0
+674,Luis,Pérez,64,Buenos Aires,Jubilado,164354.61,188021.91,True,Préstamo personal,2018-09-24,7.0
+675,Juan,Sánchez,48,Córdoba,Estudiante,97736.26,142743.91,False,Préstamo personal,2017-07-14,4.0
+676,Pedro,Rodríguez,72,Chubut,Jubilado,47780.17,133616.39,True,Cuenta corriente,2018-11-24,5.0
+677,Lucía,Rodríguez,74,Mendoza,Jubilado,152701.82,168890.56,False,Tarjeta de crédito,2021-09-09,6.0
+678,Juan,Pérez,25,Chubut,Estudiante,135028.18,140349.67,True,Cuenta corriente,2022-01-21,9.0
+679,Juan,Romero,32,Neuquén,,165326.98,136726.2,False,Caja de ahorro,2021-08-02,2.0
+680,Ana,García,48,Córdoba,Estudiante,114510.46,187595.6,True,Cuenta corriente,2018-11-20,9.0
+681,María,Gómez,70,Córdoba,Estudiante,73970.15,,False,Caja de ahorro,2022-11-15,
+682,Ana,Gómez,47,Buenos Aires,Estudiante,125844.42,198529.59,True,Cuenta corriente,2015-03-01,1.0
+683,Diego,Sánchez,63,Salta,Jubilado,116316.46,146322.93,True,Caja de ahorro,2021-11-29,4.0
+684,Marta,Romero,37,Salta,Empresario,71256.32,97312.18,False,Caja de ahorro,2022-04-13,5.0
+685,Marta,Martínez,77,Tucumán,Empresario,109931.93,12968.19,False,Cuenta corriente,2015-01-01,9.0
+686,María,Martínez,56,Salta,Empleado,90248.71,76474.06,False,Préstamo personal,2019-04-28,6.0
+687,Sofía,López,70,Córdoba,,137176.89,83361.58,False,Plazo fijo,2015-11-07,4.0
+688,Sofía,García,72,Tucumán,Empresario,124600.35,160661.52,False,Préstamo personal,2021-01-24,2.0
+689,Pedro,García,29,Chubut,Jubilado,47420.43,111146.69,False,Caja de ahorro,2021-02-17,5.0
+690,María,Rodríguez,66,Buenos Aires,Estudiante,42378.87,71034.74,True,Cuenta corriente,2016-12-08,8.0
+691,Juan,Díaz,34,Chubut,Estudiante,95509.44,,True,Cuenta corriente,2018-03-27,8.0
+692,Sofía,Sánchez,59,Santa Fe,Jubilado,101640.96,106726.88,True,Cuenta corriente,2019-11-16,6.0
+693,Carlos,Gómez,47,Neuquén,Empresario,138048.84,168523.97,False,Cuenta corriente,2019-03-04,1.0
+694,Luis,Sánchez,46,Neuquén,Jubilado,125665.2,167530.75,False,Plazo fijo,2021-08-10,8.0
+695,Juan,Martínez,36,Córdoba,,172934.28,171763.45,False,Tarjeta de crédito,2018-09-25,4.0
+696,Diego,Martínez,63,Córdoba,,,47668.78,True,Caja de ahorro,2017-05-07,2.0
+697,Carlos,Pérez,28,Tucumán,Desempleado,,151816.37,False,Plazo fijo,2021-07-02,1.0
+698,Carlos,López,51,Buenos Aires,,52009.3,145143.9,True,Préstamo personal,2020-12-01,7.0
+699,María,García,67,Mendoza,Empleado,137470.36,101134.23,False,Tarjeta de crédito,2022-10-15,2.0
+700,Pedro,Fernández,24,Córdoba,,101087.61,64502.77,False,Tarjeta de crédito,2017-07-07,4.0
+701,Diego,Sánchez,61,Mendoza,Empresario,7319.82,145652.6,False,Cuenta corriente,2016-08-31,
+702,Sofía,Martínez,75,Chubut,Estudiante,110108.27,192564.64,True,Plazo fijo,2015-11-05,10.0
+703,María,Díaz,51,Mendoza,Desempleado,113298.51,46729.7,False,Préstamo personal,2021-09-14,
+704,Sofía,Rodríguez,76,Salta,Empleado,92782.65,116699.17,True,Cuenta corriente,2018-09-05,2.0
+705,María,Gómez,37,Buenos Aires,Desempleado,114832.74,155261.4,False,Cuenta corriente,2015-07-31,1.0
+706,María,López,67,Neuquén,Empresario,38988.22,,False,Caja de ahorro,2021-06-22,6.0
+707,María,Díaz,55,Neuquén,Empresario,182051.59,137505.14,False,Tarjeta de crédito,2015-07-04,3.0
+708,Pedro,López,41,Mendoza,Desempleado,119012.97,227240.12,False,Préstamo personal,2018-05-13,1.0
+709,María,Pérez,27,Neuquén,,11315.06,,True,Tarjeta de crédito,2018-10-19,8.0
+710,Lucía,Fernández,49,Chubut,Empresario,99705.15,69322.48,False,Plazo fijo,2018-05-24,4.0
+711,Luis,Martínez,69,Buenos Aires,,120336.01,,True,Caja de ahorro,2015-09-03,10.0
+712,Sofía,Rodríguez,32,Salta,,44353.4,56015.03,False,Cuenta corriente,2015-08-27,7.0
+713,Juan,Díaz,54,Buenos Aires,Desempleado,126681.51,168461.29,False,Caja de ahorro,2020-01-03,10.0
+714,Ana,López,37,Córdoba,Desempleado,184046.28,138218.7,False,Cuenta corriente,2018-11-15,2.0
+715,Diego,García,20,Mendoza,Jubilado,67781.55,113959.98,True,Caja de ahorro,2016-06-03,6.0
+716,Marta,Pérez,54,Buenos Aires,Empresario,121421.93,132933.31,False,Cuenta corriente,2019-06-02,6.0
+717,Pedro,García,79,Chubut,Estudiante,110429.93,98437.12,True,Tarjeta de crédito,2015-10-04,7.0
+718,Juan,Rodríguez,74,Neuquén,Estudiante,148414.5,137266.64,True,Tarjeta de crédito,2017-10-02,1.0
+719,Carlos,Díaz,57,Santa Fe,Jubilado,94557.9,150696.77,False,Tarjeta de crédito,2021-02-27,
+720,Lucía,Pérez,25,Buenos Aires,Estudiante,46664.17,133351.12,True,Tarjeta de crédito,2015-08-02,2.0
+721,Marta,Díaz,57,Mendoza,Desempleado,145209.11,126602.55,False,Caja de ahorro,2016-08-28,2.0
+722,Ana,Martínez,61,Salta,Jubilado,49636.97,160165.48,True,Cuenta corriente,2016-04-22,5.0
+723,Juan,Romero,73,Neuquén,,190443.07,216382.87,True,Tarjeta de crédito,2016-05-22,1.0
+724,Marta,Pérez,40,Salta,Empresario,128038.47,139351.86,True,Caja de ahorro,2018-01-03,2.0
+725,Juan,García,57,Mendoza,Empresario,70055.36,182799.62,True,Cuenta corriente,2022-06-09,6.0
+726,Lucía,Rodríguez,28,Neuquén,Empresario,,111352.92,False,Caja de ahorro,2022-06-05,3.0
+727,Ana,Fernández,63,Córdoba,Desempleado,99540.55,96636.75,True,Tarjeta de crédito,2020-05-31,4.0
+728,Carlos,Martínez,25,Neuquén,,88929.72,168132.62,False,Plazo fijo,2015-05-22,1.0
+729,María,Romero,46,Córdoba,Jubilado,65956.53,140658.62,True,Caja de ahorro,2021-06-27,5.0
+730,Sofía,Fernández,47,Salta,Jubilado,6091.05,195179.89,False,Tarjeta de crédito,2019-09-14,4.0
+731,Carlos,Gómez,73,Salta,Empresario,130219.63,203016.94,False,Préstamo personal,2016-04-05,8.0
+732,María,Martínez,77,Mendoza,Empleado,18593.66,183563.39,True,Cuenta corriente,2022-07-17,3.0
+733,Pedro,Rodríguez,27,Córdoba,,60335.28,182694.33,True,Tarjeta de crédito,2016-10-31,10.0
+734,Luis,López,56,Salta,Empleado,121642.23,12985.48,False,Préstamo personal,2020-10-02,1.0
+735,Diego,Pérez,45,Córdoba,Estudiante,74966.18,167780.9,True,Caja de ahorro,2021-05-13,10.0
+736,Diego,Díaz,66,Salta,Estudiante,107857.59,,True,Caja de ahorro,2020-01-19,5.0
+737,Sofía,Rodríguez,53,Neuquén,Empresario,39315.23,99128.7,True,Préstamo personal,2019-06-07,1.0
+738,Ana,Pérez,78,Buenos Aires,Empleado,,150350.9,True,Préstamo personal,2016-02-04,5.0
+739,Lucía,Fernández,30,Chubut,Empleado,108169.29,108290.87,True,Cuenta corriente,2016-10-29,9.0
+740,Ana,Díaz,49,Santa Fe,Jubilado,52426.37,191100.42,True,Caja de ahorro,2022-01-07,5.0
+741,Lucía,Sánchez,53,Chubut,Jubilado,,111760.08,True,Préstamo personal,2019-03-03,2.0
+742,Ana,García,54,Neuquén,Empresario,68128.8,118285.52,True,Plazo fijo,2018-08-27,2.0
+743,Luis,Gómez,43,Tucumán,Empleado,168920.84,131437.99,True,Plazo fijo,2018-07-18,10.0
+744,Pedro,Martínez,39,Chubut,Empresario,91609.72,239976.41,False,Préstamo personal,2022-03-08,
+745,Pedro,Rodríguez,21,Buenos Aires,Jubilado,21576.22,190186.89,True,Cuenta corriente,2019-01-12,5.0
+746,María,Gómez,48,Tucumán,Jubilado,43154.96,214504.15,True,Caja de ahorro,2020-11-29,8.0
+747,Marta,López,35,Salta,Estudiante,108803.96,,True,Plazo fijo,2015-08-27,10.0
+748,Pedro,Pérez,55,Santa Fe,Empresario,151638.79,99228.21,True,Préstamo personal,2017-11-09,4.0
+749,Pedro,Pérez,41,Santa Fe,Empresario,188488.86,203543.19,True,Préstamo personal,2018-08-05,2.0
+750,Carlos,Rodríguez,73,Salta,Empleado,,79593.55,False,Tarjeta de crédito,2019-06-05,4.0
+751,Carlos,Romero,40,Salta,Empleado,41137.81,,False,Préstamo personal,2021-02-22,4.0
+752,María,Romero,39,Córdoba,Estudiante,113924.25,232213.65,True,Cuenta corriente,2021-08-26,9.0
+753,Marta,Sánchez,19,Salta,Desempleado,58739.27,111461.41,False,Plazo fijo,2019-09-18,10.0
+754,Sofía,García,48,Mendoza,Desempleado,119609.58,77160.1,True,Tarjeta de crédito,2019-10-07,6.0
+755,Carlos,Díaz,72,Chubut,Desempleado,52926.27,151898.98,True,Plazo fijo,2019-02-24,10.0
+756,Sofía,López,28,Salta,Empresario,-4478.51,,False,Plazo fijo,2021-01-20,6.0
+757,Juan,Gómez,45,Mendoza,Empresario,165842.78,199490.0,False,Cuenta corriente,2022-04-07,5.0
+758,Carlos,Romero,63,Salta,Jubilado,88679.16,114205.65,False,Préstamo personal,2018-06-26,6.0
+759,Luis,Sánchez,49,Córdoba,Empresario,,106190.44,False,Cuenta corriente,2022-12-12,1.0
+760,Marta,Sánchez,79,Mendoza,Empresario,149835.07,,False,Préstamo personal,2017-11-10,5.0
+761,María,Rodríguez,22,Chubut,Empresario,193942.34,133822.49,True,Tarjeta de crédito,2022-11-18,6.0
+762,Juan,López,55,Buenos Aires,Estudiante,136004.03,160093.97,True,Cuenta corriente,2019-03-16,8.0
+763,Marta,Fernández,27,Mendoza,Empresario,105150.08,170860.18,True,Cuenta corriente,2022-03-29,4.0
+764,Luis,Díaz,57,Neuquén,,123143.64,141308.49,False,Caja de ahorro,2016-06-19,5.0
+765,Marta,García,63,Córdoba,Empleado,85260.85,103542.06,True,Cuenta corriente,2020-11-28,4.0
+766,Luis,Martínez,41,Tucumán,Jubilado,101805.72,,False,Caja de ahorro,2017-08-06,7.0
+767,Luis,Rodríguez,52,Chubut,Estudiante,107243.18,122263.61,True,Préstamo personal,2017-05-12,10.0
+768,Sofía,Díaz,61,Mendoza,Empleado,60668.74,115236.44,False,Préstamo personal,2022-03-27,6.0
+769,Ana,Martínez,65,Neuquén,Estudiante,101058.68,155706.42,False,Préstamo personal,2017-10-18,4.0
+770,Juan,Martínez,77,Neuquén,Estudiante,118355.09,72853.5,True,Caja de ahorro,2021-11-12,6.0
+771,Marta,López,79,Chubut,Jubilado,125850.84,165635.04,True,Préstamo personal,2016-03-09,4.0
+772,Lucía,López,40,Chubut,Estudiante,121866.19,,True,Plazo fijo,2018-11-04,8.0
+773,Juan,Gómez,34,Neuquén,Empresario,33048.74,194872.79,True,Cuenta corriente,2023-01-14,3.0
+774,Ana,Sánchez,18,Salta,Estudiante,161462.95,129984.31,False,Caja de ahorro,2017-02-21,8.0
+775,Juan,Díaz,72,Neuquén,Jubilado,157314.06,202993.26,True,Préstamo personal,2017-09-14,2.0
+776,Pedro,Rodríguez,48,Salta,Jubilado,95192.58,171185.72,False,Plazo fijo,2015-06-18,6.0
+777,Lucía,Pérez,48,Tucumán,Jubilado,122775.43,148928.43,True,Cuenta corriente,2016-12-09,8.0
+778,Ana,Rodríguez,59,Córdoba,Empleado,89172.31,222667.84,True,Cuenta corriente,2017-08-22,1.0
+779,Sofía,Gómez,74,Santa Fe,Empresario,137597.88,153808.51,True,Préstamo personal,2022-08-06,
+780,Marta,García,72,Salta,Empleado,,129265.31,True,Plazo fijo,2019-05-22,9.0
+781,Diego,Sánchez,59,Neuquén,Desempleado,167123.03,,True,Caja de ahorro,2015-08-17,10.0
+782,Ana,Pérez,70,Neuquén,Empresario,,,False,Préstamo personal,2018-03-30,
+783,María,Romero,73,Buenos Aires,Estudiante,136271.69,164945.87,True,Cuenta corriente,2016-03-02,2.0
+784,Marta,García,51,Neuquén,Jubilado,94747.36,202827.49,False,Cuenta corriente,2015-05-02,1.0
+785,Ana,López,26,Córdoba,Desempleado,29369.07,,True,Cuenta corriente,2021-01-05,2.0
+786,Pedro,Martínez,39,Mendoza,,144196.74,153605.59,False,Préstamo personal,2022-12-09,5.0
+787,Diego,Romero,30,Mendoza,Empleado,31021.93,181913.25,True,Tarjeta de crédito,2022-07-15,6.0
+788,Pedro,Rodríguez,42,Neuquén,Jubilado,144798.63,,True,Tarjeta de crédito,2015-04-21,1.0
+789,Diego,Rodríguez,65,Buenos Aires,Empleado,61393.64,131894.59,True,Tarjeta de crédito,2018-05-29,7.0
+790,María,López,35,Salta,Empresario,,156893.44,False,Plazo fijo,2020-04-11,
+791,Marta,Gómez,68,Córdoba,Empresario,100049.99,182090.49,False,Préstamo personal,2015-03-05,9.0
+792,Sofía,Díaz,29,Buenos Aires,,159140.03,,True,Cuenta corriente,2022-05-09,6.0
+793,Pedro,Romero,57,Salta,Estudiante,51719.81,,True,Plazo fijo,2018-10-09,9.0
+794,Pedro,Romero,34,Córdoba,Empleado,179951.73,,True,Tarjeta de crédito,2017-06-27,1.0
+795,Luis,Fernández,32,Neuquén,Desempleado,132837.03,170915.25,False,Caja de ahorro,2019-11-07,4.0
+796,Diego,García,59,Mendoza,Jubilado,107837.98,173757.95,True,Plazo fijo,2019-02-17,2.0
+797,Carlos,Sánchez,32,Córdoba,Estudiante,78218.79,102313.97,False,Plazo fijo,2015-01-13,6.0
+798,Marta,García,32,Neuquén,Desempleado,,156095.6,True,Préstamo personal,2023-03-01,4.0
+799,Diego,Díaz,72,Tucumán,Empleado,,183733.81,False,Plazo fijo,2018-03-22,9.0
+800,Luis,Rodríguez,56,Santa Fe,,142302.04,114776.78,False,Préstamo personal,2015-08-27,
+801,Juan,Rodríguez,30,Córdoba,Jubilado,70325.19,125178.22,False,Caja de ahorro,2016-10-24,1.0
+802,Diego,Rodríguez,34,Santa Fe,,59674.33,184419.16,True,Cuenta corriente,2018-01-14,1.0
+803,Sofía,Fernández,49,Córdoba,Estudiante,89308.66,123315.9,False,Cuenta corriente,2016-11-24,9.0
+804,Marta,Rodríguez,26,Santa Fe,Estudiante,169681.43,141659.64,True,Tarjeta de crédito,2018-03-27,9.0
+805,Luis,Díaz,57,Tucumán,Empresario,,108615.25,False,Tarjeta de crédito,2019-02-13,5.0
+806,Juan,López,37,Mendoza,Empresario,157123.88,222797.54,True,Caja de ahorro,2020-03-17,2.0
+807,Lucía,Sánchez,43,Chubut,Jubilado,102113.99,170824.91,False,Cuenta corriente,2015-03-17,9.0
+808,Luis,Díaz,44,Salta,Jubilado,17363.04,139784.2,False,Tarjeta de crédito,2015-11-25,8.0
+809,Lucía,Sánchez,38,Santa Fe,Empresario,76918.38,132304.99,True,Plazo fijo,2018-12-10,10.0
+810,Marta,Díaz,35,Tucumán,Empresario,130483.4,100865.42,True,Préstamo personal,2018-06-06,
+811,Pedro,Rodríguez,30,Santa Fe,Estudiante,190090.7,145596.0,False,Tarjeta de crédito,2021-01-08,6.0
+812,Luis,López,33,Mendoza,Empresario,33631.36,176602.32,False,Caja de ahorro,2015-03-13,
+813,María,Romero,26,Santa Fe,Desempleado,-40958.82,117607.44,True,Cuenta corriente,2015-08-13,6.0
+814,Lucía,García,29,Tucumán,Empleado,34522.36,154221.64,False,Caja de ahorro,2021-11-25,5.0
+815,Sofía,Martínez,61,Neuquén,Empresario,156520.78,135304.73,False,Préstamo personal,2021-08-04,4.0
+816,María,López,55,Tucumán,Jubilado,10312.91,205204.64,True,Préstamo personal,2022-01-31,7.0
+817,Ana,Romero,36,Chubut,Desempleado,174862.69,124532.05,True,Caja de ahorro,2017-03-21,4.0
+818,Ana,Gómez,77,Chubut,Jubilado,160740.45,181086.23,True,Tarjeta de crédito,2022-04-10,10.0
+819,Juan,Díaz,24,Chubut,Desempleado,109551.81,205760.9,False,Tarjeta de crédito,2020-08-10,10.0
+820,Pedro,Gómez,74,Buenos Aires,Empresario,68681.73,134914.78,False,Cuenta corriente,2016-11-08,10.0
+821,Marta,Romero,52,Mendoza,Empleado,102763.03,126456.9,False,Cuenta corriente,2015-10-18,9.0
+822,Luis,López,65,Neuquén,Jubilado,130554.37,186908.09,True,Plazo fijo,2019-01-21,5.0
+823,Carlos,Díaz,35,Buenos Aires,,122923.82,78751.04,False,Plazo fijo,2021-03-01,
+824,Sofía,Martínez,33,Mendoza,Estudiante,186982.97,167223.79,True,Cuenta corriente,2018-05-10,6.0
+825,Lucía,Rodríguez,72,Neuquén,Empresario,,86987.13,True,Plazo fijo,2016-07-19,4.0
+826,Marta,Díaz,56,Santa Fe,Empleado,34957.85,198896.47,False,Caja de ahorro,2021-12-04,3.0
+827,María,Díaz,21,Neuquén,Empresario,26135.96,139916.15,True,Tarjeta de crédito,2019-12-21,6.0
+828,Ana,López,76,Tucumán,Estudiante,16135.44,146368.88,False,Plazo fijo,2016-05-25,1.0
+829,Sofía,López,42,Buenos Aires,Empleado,,121030.03,True,Plazo fijo,2017-07-12,2.0
+830,Carlos,Romero,49,Santa Fe,Estudiante,88281.56,86691.71,True,Caja de ahorro,2021-05-14,7.0
+831,Luis,Pérez,79,Tucumán,Empresario,101632.73,200634.42,True,Préstamo personal,2015-01-16,4.0
+832,Juan,Díaz,57,Mendoza,Desempleado,73147.02,143157.7,False,Cuenta corriente,2021-07-31,5.0
+833,Carlos,García,30,Neuquén,Empresario,,278350.74,True,Caja de ahorro,2015-12-22,10.0
+834,Sofía,Díaz,62,Tucumán,Empresario,130716.79,117592.73,False,Préstamo personal,2017-04-09,1.0
+835,Carlos,Romero,34,Santa Fe,Empresario,-23153.19,124132.23,True,Caja de ahorro,2022-03-31,2.0
+836,Sofía,Sánchez,66,Buenos Aires,Jubilado,59920.22,114110.24,True,Tarjeta de crédito,2018-01-06,4.0
+837,Sofía,Gómez,54,Buenos Aires,Estudiante,,142953.58,True,Caja de ahorro,2023-02-23,8.0
+838,Diego,Rodríguez,23,Chubut,,54958.08,213008.72,False,Caja de ahorro,2017-12-26,10.0
+839,Lucía,Pérez,36,Neuquén,Estudiante,119583.77,190405.49,False,Tarjeta de crédito,2022-12-16,4.0
+840,Ana,Martínez,30,Tucumán,Jubilado,59987.05,89817.85,False,Cuenta corriente,2019-10-13,3.0
+841,Diego,Martínez,74,Chubut,Desempleado,77207.76,198164.8,False,Préstamo personal,2015-08-02,3.0
+842,Luis,Martínez,77,Santa Fe,Empresario,128746.03,,False,Plazo fijo,2019-09-17,5.0
+843,Diego,López,43,Chubut,Desempleado,,169255.51,True,Cuenta corriente,2016-03-24,
+844,Pedro,Martínez,31,Córdoba,Jubilado,,122630.37,True,Caja de ahorro,2019-04-18,8.0
+845,Pedro,Rodríguez,48,Mendoza,Estudiante,102296.02,125603.59,False,Plazo fijo,2022-10-05,5.0
+846,Ana,Gómez,71,Chubut,Empresario,162821.94,155482.69,False,Tarjeta de crédito,2021-12-21,7.0
+847,Carlos,Martínez,21,Mendoza,Empleado,110407.5,,False,Cuenta corriente,2016-12-10,8.0
+848,Lucía,Díaz,77,Santa Fe,Empleado,,202505.28,False,Préstamo personal,2016-01-15,5.0
+849,Ana,Díaz,56,Córdoba,,186399.72,126161.77,True,Cuenta corriente,2022-08-19,8.0
+850,Sofía,López,25,Buenos Aires,Estudiante,50702.85,72129.43,False,Cuenta corriente,2022-05-03,3.0
+851,María,Rodríguez,42,Neuquén,Empleado,88642.2,97941.72,False,Plazo fijo,2020-03-03,7.0
+852,Lucía,Gómez,30,Salta,Desempleado,147870.45,100481.47,False,Tarjeta de crédito,2017-11-13,8.0
+853,Lucía,Pérez,49,Salta,Jubilado,6003.61,139466.08,False,Tarjeta de crédito,2016-06-22,7.0
+854,Sofía,Romero,76,Neuquén,Desempleado,,158642.64,True,Cuenta corriente,2023-03-12,2.0
+855,Sofía,Gómez,55,Santa Fe,Desempleado,42455.79,152152.02,True,Tarjeta de crédito,2017-01-22,8.0
+856,Juan,Romero,55,Córdoba,,77250.03,168436.36,False,Plazo fijo,2016-06-18,6.0
+857,Ana,Sánchez,73,Córdoba,Empresario,114442.9,139908.8,True,Plazo fijo,2016-11-03,10.0
+858,Sofía,Romero,45,Mendoza,Desempleado,97914.71,141323.72,True,Préstamo personal,2017-11-30,3.0
+859,Pedro,García,70,Buenos Aires,Desempleado,139458.8,220074.4,False,Tarjeta de crédito,2016-07-21,4.0
+860,Luis,Díaz,47,Tucumán,Empresario,,198214.3,False,Préstamo personal,2018-12-07,7.0
+861,María,Rodríguez,20,Chubut,Empresario,,,True,Caja de ahorro,2016-02-19,3.0
+862,Ana,Fernández,45,Córdoba,Jubilado,140362.12,186666.82,True,Plazo fijo,2016-03-24,
+863,Marta,López,20,Neuquén,Estudiante,151461.29,,True,Cuenta corriente,2016-09-01,6.0
+864,Pedro,García,62,Tucumán,Empleado,20516.96,117098.46,True,Plazo fijo,2022-05-29,
+865,Carlos,Romero,71,Salta,Empleado,26553.24,132711.86,True,Caja de ahorro,2020-06-24,10.0
+866,Sofía,Martínez,51,Tucumán,Desempleado,82881.22,117569.36,False,Cuenta corriente,2019-12-03,6.0
+867,Marta,Rodríguez,33,Buenos Aires,Jubilado,31958.71,88170.51,True,Tarjeta de crédito,2021-10-19,10.0
+868,Sofía,García,39,Neuquén,Desempleado,9801.61,166821.75,True,Tarjeta de crédito,2016-12-05,3.0
+869,Lucía,López,49,Buenos Aires,Empleado,80726.8,205429.91,True,Plazo fijo,2021-04-05,6.0
+870,Pedro,Díaz,78,Tucumán,Empresario,111704.57,149487.61,True,Cuenta corriente,2017-12-01,4.0
+871,Lucía,Rodríguez,55,Chubut,Estudiante,239948.98,175927.28,True,Cuenta corriente,2017-01-03,4.0
+872,Juan,López,25,Santa Fe,Jubilado,127433.76,148298.64,True,Préstamo personal,2017-03-10,10.0
+873,Lucía,Sánchez,72,Córdoba,,187613.5,132334.45,True,Caja de ahorro,2020-08-19,
+874,Juan,Sánchez,25,Neuquén,Estudiante,97792.45,186767.86,True,Tarjeta de crédito,2022-08-26,
+875,Juan,López,79,Santa Fe,Jubilado,127978.3,,False,Plazo fijo,2020-02-04,
+876,Marta,García,74,Tucumán,Jubilado,92693.12,75463.89,False,Cuenta corriente,2020-12-26,4.0
+877,Sofía,Rodríguez,23,Córdoba,Empleado,,92308.01,True,Tarjeta de crédito,2020-03-05,7.0
+878,Carlos,García,31,Mendoza,Empresario,65720.46,184143.52,False,Plazo fijo,2016-12-31,5.0
+879,Lucía,Pérez,49,Santa Fe,Jubilado,,153488.44,False,Tarjeta de crédito,2015-07-15,8.0
+880,Pedro,Romero,52,Santa Fe,Jubilado,139827.03,,False,Plazo fijo,2018-01-02,7.0
+881,Juan,Pérez,27,Tucumán,Estudiante,110373.65,217076.92,False,Tarjeta de crédito,2019-06-27,10.0
+882,Sofía,Sánchez,20,Salta,Empleado,78791.9,103466.41,False,Préstamo personal,2019-07-17,9.0
+883,María,Díaz,76,Tucumán,,148018.86,198166.81,False,Caja de ahorro,2018-01-30,8.0
+884,Ana,Gómez,29,Santa Fe,Empleado,97942.64,134147.02,True,Tarjeta de crédito,2015-09-21,9.0
+885,Marta,Romero,66,Córdoba,Desempleado,97590.16,128065.56,True,Caja de ahorro,2023-03-12,1.0
+886,Carlos,Sánchez,76,Chubut,Empresario,111529.12,153248.82,False,Tarjeta de crédito,2017-07-08,10.0
+887,Diego,García,48,Salta,Empresario,,159509.45,True,Cuenta corriente,2015-06-10,3.0
+888,Marta,García,46,Tucumán,Jubilado,20337.3,141578.31,False,Préstamo personal,2018-06-10,5.0
+889,María,García,22,Chubut,Empresario,154344.78,174412.57,True,Préstamo personal,2021-12-13,9.0
+890,Ana,Díaz,79,Neuquén,Jubilado,66151.92,153409.72,True,Caja de ahorro,2019-12-16,8.0
+891,María,Pérez,69,Tucumán,Empleado,93352.43,142026.74,True,Cuenta corriente,2017-02-08,
+892,Lucía,Gómez,42,Santa Fe,Empresario,180621.93,133348.63,False,Plazo fijo,2015-11-07,7.0
+893,Juan,García,58,Chubut,Empleado,95606.63,159533.86,True,Préstamo personal,2015-08-15,2.0
+894,Carlos,Fernández,48,Santa Fe,Empleado,89495.56,,True,Cuenta corriente,2015-09-30,6.0
+895,Luis,Romero,79,Mendoza,Empresario,144803.88,107021.45,False,Cuenta corriente,2023-03-05,4.0
+896,Juan,Rodríguez,38,Chubut,Empleado,70086.75,,False,Caja de ahorro,2015-11-13,5.0
+897,Luis,Fernández,75,Chubut,,160146.46,,True,Cuenta corriente,2020-04-06,5.0
+898,Ana,Gómez,37,Tucumán,Empresario,143777.9,235714.0,False,Cuenta corriente,2021-05-27,4.0
+899,Sofía,Díaz,56,Santa Fe,Empresario,191516.66,143626.97,True,Plazo fijo,2019-02-01,4.0
+900,Diego,Gómez,39,Neuquén,Desempleado,65482.85,79030.75,True,Caja de ahorro,2022-08-08,4.0
+901,Pedro,Rodríguez,21,Buenos Aires,Empleado,168348.73,118390.1,False,Caja de ahorro,2020-03-09,2.0
+902,Juan,Romero,30,Salta,Estudiante,127704.61,176355.67,False,Cuenta corriente,2019-05-21,1.0
+903,Carlos,Rodríguez,62,Buenos Aires,Empresario,33731.68,111188.72,True,Plazo fijo,2019-11-28,2.0
+904,María,López,59,Salta,Empleado,-29808.82,97770.19,False,Tarjeta de crédito,2018-12-21,7.0
+905,Carlos,Romero,67,Neuquén,Jubilado,60098.66,176146.76,True,Préstamo personal,2021-08-19,1.0
+906,Ana,Gómez,66,Chubut,Empresario,,168595.2,False,Caja de ahorro,2020-04-09,6.0
+907,Luis,García,37,Chubut,Empresario,,91098.37,False,Plazo fijo,2016-07-20,4.0
+908,María,Gómez,69,Tucumán,Estudiante,97045.95,114200.27,False,Plazo fijo,2022-12-25,
+909,Pedro,Gómez,30,Mendoza,Desempleado,97493.53,199786.81,False,Cuenta corriente,2022-09-03,3.0
+910,Pedro,Romero,34,Santa Fe,Desempleado,,184113.77,False,Préstamo personal,2015-09-09,7.0
+911,Juan,López,71,Santa Fe,Empresario,151560.86,102105.14,True,Caja de ahorro,2019-04-06,6.0
+912,Ana,Gómez,53,Santa Fe,Empleado,28185.52,70444.43,True,Tarjeta de crédito,2021-06-12,6.0
+913,Sofía,Fernández,50,Tucumán,Jubilado,113414.49,160740.72,True,Cuenta corriente,2016-11-05,8.0
+914,Ana,Sánchez,18,Salta,Jubilado,58862.44,138157.28,False,Caja de ahorro,2022-12-25,8.0
+915,Luis,Martínez,32,Chubut,Empleado,54672.95,157269.68,True,Caja de ahorro,2021-04-30,6.0
+916,Carlos,Martínez,30,Neuquén,,158811.53,175386.48,True,Plazo fijo,2020-10-16,1.0
+917,Pedro,Gómez,34,Santa Fe,Jubilado,50836.85,,False,Préstamo personal,2019-05-22,10.0
+918,Carlos,Fernández,41,Buenos Aires,Desempleado,93024.09,,False,Tarjeta de crédito,2016-05-28,7.0
+919,Carlos,García,75,Santa Fe,Empleado,,114037.66,False,Préstamo personal,2022-09-17,8.0
+920,Carlos,Díaz,25,Chubut,Estudiante,,115470.6,True,Plazo fijo,2016-03-17,5.0
+921,Pedro,Díaz,67,Tucumán,Empresario,77251.48,172590.37,True,Tarjeta de crédito,2015-01-01,
+922,Marta,Romero,44,Neuquén,,,155762.74,False,Tarjeta de crédito,2021-08-02,7.0
+923,Lucía,Martínez,62,Mendoza,,38639.86,87482.33,True,Cuenta corriente,2018-02-12,6.0
+924,Luis,Gómez,40,Neuquén,Empresario,165032.26,179004.15,True,Tarjeta de crédito,2017-06-21,6.0
+925,Marta,Díaz,63,Buenos Aires,Desempleado,,135997.2,False,Caja de ahorro,2019-06-12,3.0
+926,Luis,Gómez,25,Santa Fe,Empresario,134330.11,180846.62,True,Préstamo personal,2018-05-05,10.0
+927,María,Romero,25,Santa Fe,,139841.65,109410.48,False,Préstamo personal,2021-05-10,4.0
+928,Ana,Martínez,76,Córdoba,Desempleado,,112972.48,True,Cuenta corriente,2017-05-05,5.0
+929,Ana,Rodríguez,43,Salta,Desempleado,22604.38,160068.49,False,Tarjeta de crédito,2017-10-14,9.0
+930,Diego,Sánchez,64,Buenos Aires,,128027.02,106141.6,True,Plazo fijo,2018-03-29,8.0
+931,Ana,Sánchez,76,Córdoba,Desempleado,144427.89,139004.75,True,Caja de ahorro,2021-01-29,3.0
+932,Pedro,Díaz,30,Neuquén,,180352.33,101597.06,False,Cuenta corriente,2016-08-07,6.0
+933,Sofía,Sánchez,56,Mendoza,Desempleado,89955.49,134345.21,False,Tarjeta de crédito,2023-02-24,10.0
+934,Juan,Rodríguez,54,Salta,Desempleado,82662.44,148725.83,False,Plazo fijo,2021-12-03,1.0
+935,Diego,Gómez,66,Buenos Aires,Empresario,88036.99,150610.32,False,Tarjeta de crédito,2016-03-30,3.0
+936,Juan,Romero,45,Santa Fe,Empleado,133537.19,135410.11,True,Cuenta corriente,2015-07-15,10.0
+937,Luis,Rodríguez,42,Neuquén,Estudiante,85895.54,,False,Plazo fijo,2022-10-14,7.0
+938,Juan,Romero,78,Buenos Aires,Estudiante,97388.05,155911.96,False,Plazo fijo,2016-08-21,7.0
+939,Juan,Romero,33,Santa Fe,Jubilado,141552.64,146425.33,False,Plazo fijo,2018-08-25,2.0
+940,Diego,Martínez,72,Chubut,Desempleado,,124965.98,False,Plazo fijo,2019-10-26,3.0
+941,María,Gómez,19,Salta,Desempleado,169557.7,192729.75,False,Tarjeta de crédito,2016-07-09,7.0
+942,Carlos,Fernández,71,Chubut,Empleado,131654.45,165451.49,True,Plazo fijo,2022-12-05,6.0
+943,Ana,Sánchez,35,Chubut,Estudiante,7118.97,,False,Tarjeta de crédito,2019-02-26,
+944,Ana,Fernández,34,Santa Fe,,74232.29,175955.36,False,Plazo fijo,2016-03-14,10.0
+945,Pedro,Martínez,47,Mendoza,Empleado,-1217.17,185019.75,False,Plazo fijo,2022-05-21,9.0
+946,Diego,Romero,56,Neuquén,Desempleado,90166.03,146737.41,True,Cuenta corriente,2015-12-25,8.0
+947,Pedro,Díaz,30,Tucumán,,,,True,Tarjeta de crédito,2017-11-23,
+948,Sofía,Sánchez,49,Santa Fe,Jubilado,141742.74,,True,Tarjeta de crédito,2018-01-16,4.0
+949,Sofía,Sánchez,67,Mendoza,Empresario,55949.08,116262.36,False,Préstamo personal,2022-05-29,10.0
+950,Pedro,Gómez,46,Tucumán,Estudiante,119386.75,183747.78,False,Cuenta corriente,2020-08-25,9.0
+951,Diego,López,63,Neuquén,Jubilado,128442.38,118695.07,True,Tarjeta de crédito,2022-08-24,7.0
+952,Pedro,Pérez,47,Chubut,Empleado,112859.74,143606.32,True,Cuenta corriente,2016-02-25,5.0
+953,Ana,Pérez,35,Salta,Empresario,157006.18,115655.19,False,Cuenta corriente,2016-07-06,2.0
+954,Marta,Pérez,30,Salta,Jubilado,203414.44,159232.62,False,Cuenta corriente,2022-09-15,9.0
+955,Lucía,López,60,Neuquén,Jubilado,105597.1,165749.7,False,Caja de ahorro,2022-10-11,7.0
+956,Juan,Gómez,38,Neuquén,Desempleado,120258.98,166818.99,True,Tarjeta de crédito,2018-02-23,9.0
+957,Lucía,López,47,Buenos Aires,Estudiante,55986.15,104425.56,False,Cuenta corriente,2017-10-28,9.0
+958,Diego,Pérez,38,Mendoza,Desempleado,49023.83,154268.08,False,Caja de ahorro,2019-01-31,10.0
+959,Lucía,Martínez,65,Chubut,Empresario,151691.48,213062.79,True,Caja de ahorro,2017-05-29,5.0
+960,Sofía,Rodríguez,72,Mendoza,Jubilado,145076.28,179939.55,True,Plazo fijo,2020-02-29,7.0
+961,Luis,Romero,34,Neuquén,Desempleado,,153733.25,True,Plazo fijo,2017-05-01,5.0
+962,Juan,López,57,Córdoba,Estudiante,34588.97,72761.03,False,Tarjeta de crédito,2016-05-24,3.0
+963,Carlos,Gómez,36,Córdoba,,,140025.74,True,Plazo fijo,2020-02-03,10.0
+964,Diego,Gómez,69,Tucumán,Empleado,92931.1,215854.62,True,Tarjeta de crédito,2019-10-30,8.0
+965,Juan,Fernández,32,Tucumán,Desempleado,79543.68,202744.27,False,Caja de ahorro,2017-08-23,8.0
+966,Lucía,Rodríguez,26,Córdoba,Empresario,108025.74,168456.73,False,Caja de ahorro,2020-02-02,
+967,Sofía,Díaz,69,Neuquén,Empleado,145853.13,121226.78,True,Tarjeta de crédito,2017-07-02,6.0
+968,María,Sánchez,27,Neuquén,Desempleado,,152091.16,False,Plazo fijo,2018-10-22,2.0
+969,Marta,Pérez,61,Tucumán,Empresario,126806.05,180939.23,True,Plazo fijo,2019-02-20,3.0
+970,Carlos,Díaz,48,Santa Fe,Empresario,-22576.82,187621.57,False,Tarjeta de crédito,2020-08-27,10.0
+971,Marta,Fernández,70,Neuquén,Desempleado,19304.85,162504.81,False,Préstamo personal,2020-10-04,
+972,Juan,Pérez,40,Córdoba,Empresario,60177.16,184201.59,True,Plazo fijo,2023-02-14,1.0
+973,Sofía,Rodríguez,69,Mendoza,Jubilado,68430.32,147652.3,True,Cuenta corriente,2017-11-24,2.0
+974,Sofía,Fernández,47,Neuquén,Desempleado,141991.39,145883.73,True,Plazo fijo,2023-01-28,8.0
+975,Lucía,Pérez,50,Chubut,Empresario,56054.93,,False,Préstamo personal,2022-05-01,8.0
+976,Ana,Rodríguez,74,Neuquén,,133346.38,166981.47,True,Caja de ahorro,2017-03-04,6.0
+977,Lucía,García,69,Santa Fe,Empleado,60744.71,190013.61,False,Caja de ahorro,2019-05-16,3.0
+978,Ana,Díaz,26,Tucumán,Jubilado,39955.79,,False,Caja de ahorro,2019-12-12,2.0
+979,Ana,Díaz,71,Neuquén,Desempleado,42277.52,101278.54,True,Plazo fijo,2015-12-13,
+980,Carlos,Sánchez,64,Salta,Empresario,212913.32,103421.03,False,Caja de ahorro,2017-11-21,1.0
+981,Lucía,Rodríguez,18,Buenos Aires,Empresario,59631.75,194145.6,False,Préstamo personal,2017-06-26,10.0
+982,María,López,61,Córdoba,Empleado,134549.36,157062.91,True,Préstamo personal,2017-10-20,6.0
+983,Pedro,García,52,Chubut,,,158625.93,False,Plazo fijo,2016-07-29,9.0
+984,Pedro,Martínez,28,Chubut,Empleado,170946.45,157724.59,False,Cuenta corriente,2015-07-18,7.0
+985,Lucía,Pérez,51,Chubut,Empleado,117452.06,,True,Plazo fijo,2018-09-27,9.0
+986,Lucía,García,33,Salta,Jubilado,113698.94,132148.61,True,Caja de ahorro,2020-06-21,2.0
+987,Marta,Rodríguez,26,Chubut,Desempleado,120691.37,194665.37,False,Plazo fijo,2018-06-08,5.0
+988,Carlos,Romero,49,Chubut,,126199.99,159344.28,False,Préstamo personal,2021-06-06,9.0
+989,Lucía,Pérez,32,Tucumán,Desempleado,140453.36,85979.48,False,Plazo fijo,2017-10-13,7.0
+990,Marta,Gómez,29,Mendoza,Estudiante,70045.13,117005.91,False,Plazo fijo,2015-01-26,9.0
+991,Ana,Díaz,50,Buenos Aires,Estudiante,67120.59,125718.78,True,Cuenta corriente,2019-04-08,6.0
+992,Sofía,Rodríguez,62,Salta,Estudiante,102461.19,193724.32,False,Préstamo personal,2021-11-02,7.0
+993,Sofía,Gómez,31,Buenos Aires,Jubilado,134221.39,199091.91,False,Tarjeta de crédito,2021-06-25,10.0
+994,Ana,Sánchez,74,Córdoba,,96667.23,164154.15,False,Tarjeta de crédito,2021-01-12,5.0
+995,Diego,Fernández,74,Tucumán,Desempleado,138695.09,129089.07,False,Préstamo personal,2016-04-15,6.0
+996,Marta,Martínez,25,Neuquén,Empresario,130891.84,113560.76,True,Tarjeta de crédito,2021-10-03,1.0
+997,Marta,Martínez,25,Mendoza,Estudiante,89150.84,195503.24,False,Caja de ahorro,2016-10-12,1.0
+998,Ana,Gómez,44,Tucumán,,12641.0,98617.9,True,Tarjeta de crédito,2017-06-04,2.0
+999,María,Díaz,79,Buenos Aires,Estudiante,,145844.39,True,Caja de ahorro,2017-07-18,4.0
+1000,Luis,Sánchez,29,Salta,Estudiante,187139.86,244578.85,True,Préstamo personal,2019-10-11,9.0
+1001,Juan,Romero,18,Córdoba,Empresario,117002.98,129208.51,True,Tarjeta de crédito,2022-11-22,7.0
+1002,Ana,Díaz,60,Córdoba,Jubilado,68022.49,99132.07,True,Tarjeta de crédito,2017-05-25,6.0
+1003,Lucía,García,57,Tucumán,Empleado,112532.58,79381.68,False,Caja de ahorro,2017-07-30,1.0
+1004,Lucía,Martínez,59,Neuquén,Jubilado,133832.2,246160.18,True,Caja de ahorro,2018-08-01,5.0
+1005,Carlos,García,79,Salta,Desempleado,68046.72,163945.08,True,Plazo fijo,2016-07-25,4.0
+1006,Ana,Pérez,68,Neuquén,Jubilado,161769.19,115236.98,True,Cuenta corriente,2015-02-23,5.0
+1007,Carlos,López,28,Neuquén,Desempleado,124784.9,,False,Tarjeta de crédito,2016-08-27,9.0
+1008,Ana,Rodríguez,56,Chubut,Desempleado,45004.56,123481.77,True,Cuenta corriente,2015-11-21,3.0
+1009,Marta,Sánchez,60,Salta,Empleado,142818.31,75457.76,False,Cuenta corriente,2017-06-03,4.0
+1010,Juan,Díaz,48,Buenos Aires,,79519.33,181524.7,True,Tarjeta de crédito,2015-09-22,8.0
+1011,Marta,Martínez,34,Tucumán,Empleado,91043.48,151352.51,True,Caja de ahorro,2016-01-17,3.0
+1012,Luis,García,50,Tucumán,Jubilado,,178199.35,False,Plazo fijo,2018-05-21,3.0
+1013,Sofía,Fernández,49,Chubut,Desempleado,131572.32,150262.02,False,Préstamo personal,2021-07-08,9.0
+1014,Pedro,Pérez,75,Santa Fe,Estudiante,92556.74,155249.81,False,Tarjeta de crédito,2018-10-13,5.0
+1015,Ana,Rodríguez,46,Tucumán,,133687.85,60607.1,True,Tarjeta de crédito,2021-02-28,10.0
+1016,Luis,Rodríguez,38,Córdoba,Desempleado,72450.88,186313.91,False,Préstamo personal,2020-10-06,1.0
+1017,Sofía,Díaz,38,Buenos Aires,Empleado,66729.84,106467.61,False,Cuenta corriente,2019-02-26,7.0
+1018,Diego,Sánchez,57,Salta,Empresario,62678.15,,False,Plazo fijo,2019-03-14,7.0
+1019,Juan,Romero,40,Tucumán,Empleado,119801.61,128885.11,False,Cuenta corriente,2019-11-27,6.0
+1020,Carlos,Fernández,73,Buenos Aires,Desempleado,65982.51,67652.66,False,Préstamo personal,2016-06-30,6.0
+1021,Carlos,Díaz,23,Chubut,Desempleado,89844.37,126697.74,True,Préstamo personal,2017-05-20,3.0
+1022,Marta,García,39,Tucumán,Empresario,74078.65,123912.64,False,Plazo fijo,2020-11-20,3.0
+1023,Lucía,López,67,Salta,Jubilado,122004.2,134886.66,True,Préstamo personal,2018-05-08,10.0
+1024,Sofía,Gómez,55,Mendoza,,13234.88,,False,Préstamo personal,2017-05-14,9.0
+1025,Diego,Romero,54,Salta,Empresario,112351.64,187108.36,False,Plazo fijo,2020-05-19,1.0
+1026,Luis,Sánchez,62,Salta,Jubilado,186567.16,165922.26,True,Tarjeta de crédito,2016-02-02,7.0
+1027,Juan,Pérez,68,Salta,Estudiante,161801.31,115438.39,True,Cuenta corriente,2019-10-28,
+1028,Sofía,Romero,71,Tucumán,Jubilado,69167.34,126738.14,True,Tarjeta de crédito,2016-01-27,7.0
+1029,Diego,Martínez,25,Santa Fe,,124730.09,183525.93,True,Tarjeta de crédito,2020-11-23,8.0
+1030,Pedro,Sánchez,58,Salta,Jubilado,,139701.0,False,Cuenta corriente,2019-06-01,6.0
+1031,Ana,López,66,Chubut,Estudiante,173469.6,100378.57,True,Tarjeta de crédito,2017-12-13,8.0
+1032,Carlos,Martínez,52,Córdoba,Jubilado,-25505.75,146656.33,False,Plazo fijo,2018-07-24,1.0
+1033,Luis,Romero,68,Córdoba,Estudiante,155643.37,106486.28,False,Cuenta corriente,2020-11-28,1.0
+1034,Carlos,Gómez,28,Chubut,Empresario,86624.12,121685.07,False,Caja de ahorro,2021-03-21,9.0
+1035,Luis,Gómez,41,Buenos Aires,Empleado,62838.55,147975.04,True,Tarjeta de crédito,2020-10-23,4.0
+1036,Marta,López,66,Santa Fe,Empresario,61409.9,192208.46,True,Préstamo personal,2021-12-28,3.0
+1037,Lucía,Rodríguez,38,Buenos Aires,Empleado,35004.68,230932.99,True,Cuenta corriente,2022-09-18,6.0
+1038,Luis,Fernández,68,Chubut,Empresario,69294.08,204504.62,False,Caja de ahorro,2021-12-04,
+1039,Carlos,Pérez,19,Córdoba,Empleado,46013.3,147125.75,True,Préstamo personal,2015-12-30,9.0
+1040,Marta,Rodríguez,57,Neuquén,Empleado,109010.86,240293.99,True,Caja de ahorro,2021-04-05,10.0
+1041,Luis,Gómez,36,Córdoba,Desempleado,129496.88,172330.77,False,Tarjeta de crédito,2018-11-25,4.0
+1042,Pedro,Gómez,56,Mendoza,Empleado,87171.33,110812.46,True,Préstamo personal,2017-04-25,9.0
+1043,Lucía,García,45,Salta,Empleado,174986.16,153781.99,False,Tarjeta de crédito,2018-08-20,5.0
+1044,Luis,Martínez,76,Neuquén,Desempleado,72578.94,123723.33,True,Préstamo personal,2016-01-27,7.0
+1045,Marta,Romero,34,Córdoba,Jubilado,84556.88,100083.76,True,Cuenta corriente,2017-11-06,3.0
+1046,Sofía,Pérez,23,Tucumán,Jubilado,76352.97,103031.05,True,Plazo fijo,2020-08-21,3.0
+1047,María,López,36,Tucumán,Desempleado,,144110.63,True,Plazo fijo,2020-08-08,3.0
+1048,Diego,Romero,73,Buenos Aires,Estudiante,134978.68,180168.24,True,Caja de ahorro,2015-05-26,8.0
+1049,María,García,55,Neuquén,Empleado,,192728.13,False,Préstamo personal,2018-07-29,6.0
+1050,María,Gómez,45,Buenos Aires,Empleado,93794.57,100211.28,True,Tarjeta de crédito,2019-04-22,
+1051,Juan,López,19,Salta,Desempleado,32968.86,137869.65,True,Cuenta corriente,2021-01-25,9.0
+1052,Pedro,Gómez,55,Salta,Desempleado,84027.97,169463.63,True,Cuenta corriente,2022-12-04,8.0
+1053,Sofía,Pérez,72,Mendoza,Estudiante,173906.99,156074.34,True,Cuenta corriente,2021-01-26,1.0
+1054,Ana,Martínez,54,Chubut,Jubilado,150661.89,177781.85,True,Plazo fijo,2020-07-25,6.0
+1055,Luis,Romero,68,Chubut,Empresario,114702.52,132612.25,True,Tarjeta de crédito,2017-02-03,4.0
+1056,Diego,Romero,69,Santa Fe,Jubilado,80777.4,200916.61,True,Cuenta corriente,2018-10-01,4.0
+1057,Lucía,Rodríguez,21,Buenos Aires,Empleado,99319.08,149830.32,False,Cuenta corriente,2016-05-13,3.0
+1058,Sofía,López,39,Salta,,80999.79,180308.97,False,Caja de ahorro,2020-05-20,9.0
+1059,Carlos,Fernández,43,Chubut,Estudiante,159652.58,134769.05,True,Préstamo personal,2018-03-11,2.0
+1060,Ana,García,66,Buenos Aires,Jubilado,58051.65,152335.64,False,Préstamo personal,2023-01-23,1.0
+1061,Juan,Fernández,60,Salta,Estudiante,146183.46,86158.97,True,Préstamo personal,2019-10-27,10.0
+1062,Juan,Rodríguez,53,Córdoba,Jubilado,73539.87,,False,Caja de ahorro,2015-04-28,3.0
+1063,Sofía,Pérez,75,Buenos Aires,Empleado,,141701.45,True,Plazo fijo,2015-12-31,4.0
+1064,Marta,García,30,Córdoba,Empresario,121338.8,,True,Caja de ahorro,2020-06-04,4.0
+1065,María,Martínez,69,Buenos Aires,Estudiante,62530.63,257248.06,False,Cuenta corriente,2015-05-16,6.0
+1066,Carlos,Fernández,75,Santa Fe,Estudiante,84534.38,134724.0,True,Tarjeta de crédito,2018-01-05,
+1067,Juan,Martínez,49,Mendoza,Empresario,135582.03,94934.39,False,Cuenta corriente,2020-02-15,1.0
+1068,Diego,Fernández,34,Tucumán,Estudiante,75042.86,218099.39,True,Cuenta corriente,2022-02-17,2.0
+1069,Juan,Martínez,58,Chubut,Estudiante,101106.82,193153.51,True,Tarjeta de crédito,2015-01-18,4.0
+1070,Lucía,Fernández,53,Tucumán,Jubilado,74352.79,103739.51,True,Préstamo personal,2020-03-05,7.0
+1071,Luis,Martínez,72,Tucumán,,187955.86,168610.48,True,Caja de ahorro,2021-09-16,6.0
+1072,Juan,Rodríguez,77,Córdoba,,196553.59,183408.26,False,Plazo fijo,2015-07-24,9.0
+1073,Lucía,Sánchez,63,Neuquén,Empleado,173156.2,156553.0,True,Cuenta corriente,2016-05-13,7.0
+1074,Sofía,García,36,Salta,Estudiante,93781.3,163032.88,False,Cuenta corriente,2021-06-29,5.0
+1075,Sofía,López,75,Tucumán,Empleado,79862.37,124709.75,False,Plazo fijo,2016-08-17,6.0
+1076,Ana,Pérez,77,Santa Fe,,61041.82,170151.57,True,Caja de ahorro,2016-07-15,10.0
+1077,Juan,Díaz,52,Tucumán,Empresario,176786.06,130345.83,True,Cuenta corriente,2018-07-28,9.0
+1078,Diego,Gómez,63,Buenos Aires,Jubilado,146536.19,44184.23,False,Plazo fijo,2021-12-01,1.0
+1079,Juan,López,57,Córdoba,,,157850.64,False,Cuenta corriente,2021-01-20,9.0
+1080,Diego,Gómez,73,Neuquén,Desempleado,87503.6,82962.03,True,Préstamo personal,2021-06-29,6.0
+1081,Pedro,García,76,Buenos Aires,Empresario,12105.13,190539.77,False,Préstamo personal,2022-02-11,4.0
+1082,Ana,López,45,Neuquén,Estudiante,23602.12,104767.19,False,Cuenta corriente,2022-11-18,5.0
+1083,Pedro,Martínez,18,Buenos Aires,Empleado,102881.7,51879.83,False,Cuenta corriente,2016-10-01,1.0
+1084,Juan,Martínez,59,Buenos Aires,Jubilado,73866.29,79228.35,True,Préstamo personal,2020-04-10,7.0
+1085,Ana,Díaz,35,Chubut,Empleado,68114.94,148340.93,False,Cuenta corriente,2022-05-05,
+1086,Pedro,Gómez,65,Mendoza,Empresario,117257.42,157460.31,False,Caja de ahorro,2022-09-07,5.0
+1087,María,Pérez,57,Mendoza,Empresario,150682.99,93494.53,False,Caja de ahorro,2021-03-05,2.0
+1088,Juan,García,50,Salta,Empleado,64938.65,107104.47,False,Tarjeta de crédito,2015-11-11,8.0
+1089,Pedro,Martínez,29,Córdoba,Empresario,34719.52,149677.24,True,Caja de ahorro,2021-06-09,10.0
+1090,María,Sánchez,25,Santa Fe,,66126.44,188889.11,True,Cuenta corriente,2017-06-19,7.0
+1091,María,Rodríguez,41,Santa Fe,Empresario,,101596.71,False,Cuenta corriente,2021-04-05,10.0
+1092,Sofía,Rodríguez,33,Santa Fe,Jubilado,129641.63,165167.01,False,Plazo fijo,2019-10-17,9.0
+1093,Juan,Fernández,67,Chubut,Estudiante,99794.56,,False,Caja de ahorro,2017-03-14,4.0
+1094,María,Pérez,21,Buenos Aires,,194024.46,162635.55,True,Préstamo personal,2019-04-10,9.0
+1095,Sofía,Rodríguez,55,Mendoza,Empresario,136734.26,180231.68,True,Préstamo personal,2018-12-23,4.0
+1096,Pedro,Fernández,61,Córdoba,Empresario,190692.81,,False,Tarjeta de crédito,2018-05-28,3.0
+1097,Lucía,Gómez,44,Buenos Aires,Jubilado,29806.23,189775.91,False,Plazo fijo,2021-05-11,3.0
+1098,Juan,Martínez,26,Neuquén,Jubilado,-62642.94,187109.7,True,Préstamo personal,2019-07-29,10.0
+1099,Ana,Martínez,64,Mendoza,Empleado,112149.6,223877.27,False,Tarjeta de crédito,2020-07-20,2.0
+1100,Diego,Sánchez,33,Mendoza,,106161.01,154344.74,False,Caja de ahorro,2019-11-04,10.0
+1101,Diego,López,73,Tucumán,Empleado,,,True,Plazo fijo,2020-06-23,3.0
+1102,Pedro,Rodríguez,29,Tucumán,Jubilado,104789.84,112236.04,True,Plazo fijo,2017-12-25,8.0
+1103,Marta,Gómez,48,Chubut,Empleado,43798.69,141786.33,True,Cuenta corriente,2018-12-17,8.0
+1104,Marta,Romero,41,Córdoba,Empleado,,145399.87,True,Caja de ahorro,2021-04-21,2.0
+1105,Pedro,Rodríguez,72,Neuquén,,136809.66,,True,Plazo fijo,2020-12-12,2.0
+1106,María,Pérez,31,Córdoba,Empleado,40012.56,55573.65,False,Tarjeta de crédito,2018-03-15,2.0
+1107,Juan,López,62,Córdoba,Empresario,82318.18,184771.93,True,Préstamo personal,2016-09-06,10.0
+1108,Diego,Rodríguez,42,Chubut,Jubilado,85406.81,112802.63,True,Caja de ahorro,2021-08-29,7.0
+1109,Diego,Gómez,51,Chubut,Estudiante,66459.45,133966.84,True,Caja de ahorro,2021-10-30,6.0
+1110,María,Rodríguez,20,Buenos Aires,Desempleado,41944.38,213383.41,True,Plazo fijo,2016-01-22,1.0
+1111,Diego,Pérez,75,Salta,Jubilado,100625.25,172883.4,True,Plazo fijo,2021-08-27,2.0
+1112,Ana,Romero,41,Chubut,Jubilado,113040.28,219608.46,True,Plazo fijo,2018-11-06,1.0
+1113,Juan,García,79,Córdoba,Empresario,69490.89,154821.24,False,Tarjeta de crédito,2015-05-04,7.0
+1114,Luis,Díaz,71,Tucumán,Empleado,45460.57,172219.71,True,Cuenta corriente,2019-12-19,6.0
+1115,Diego,Romero,59,Salta,,120527.86,140373.14,False,Plazo fijo,2019-06-13,2.0
+1116,Pedro,Fernández,26,Buenos Aires,Empleado,61633.98,116052.15,False,Cuenta corriente,2018-03-27,2.0
+1117,Ana,Rodríguez,43,Salta,Empleado,84539.72,172071.72,True,Cuenta corriente,2016-12-28,2.0
+1118,Diego,Martínez,37,Santa Fe,Jubilado,78196.17,132563.95,True,Caja de ahorro,2023-01-22,8.0
+1119,Ana,Sánchez,57,Neuquén,Empleado,162285.43,175780.88,False,Préstamo personal,2018-02-15,7.0
+1120,Sofía,Martínez,27,Salta,Desempleado,63928.48,127181.24,False,Préstamo personal,2021-07-03,1.0
+1121,Luis,Romero,36,Córdoba,Desempleado,186276.33,,False,Tarjeta de crédito,2022-07-04,4.0
+1122,Carlos,Martínez,20,Buenos Aires,Desempleado,137615.1,146188.7,True,Tarjeta de crédito,2015-12-25,4.0
+1123,Pedro,Gómez,41,Neuquén,Jubilado,191044.93,193078.6,False,Préstamo personal,2022-10-15,7.0
+1124,Pedro,Martínez,22,Córdoba,Empresario,,,True,Préstamo personal,2016-03-18,2.0
+1125,Juan,López,20,Neuquén,Estudiante,88947.78,197479.6,True,Caja de ahorro,2021-01-20,4.0
+1126,Ana,García,75,Tucumán,Empleado,54131.68,113805.93,False,Caja de ahorro,2017-08-30,1.0
+1127,María,Rodríguez,44,Santa Fe,Estudiante,82229.43,160794.3,True,Préstamo personal,2015-12-27,4.0
+1128,Pedro,Martínez,33,Tucumán,Empresario,174364.05,,True,Plazo fijo,2022-03-17,
+1129,Ana,Pérez,66,Córdoba,Empresario,97603.06,194629.83,False,Plazo fijo,2017-05-02,2.0
+1130,Ana,García,32,Córdoba,Jubilado,133045.97,117253.46,False,Caja de ahorro,2019-06-13,2.0
+1131,Lucía,García,52,Córdoba,Desempleado,110348.57,121330.69,True,Cuenta corriente,2019-05-31,10.0
+1132,Lucía,Martínez,29,Mendoza,Desempleado,112483.06,99747.9,False,Préstamo personal,2019-10-23,3.0
+1133,Carlos,García,58,Santa Fe,Empresario,114407.98,154121.62,True,Tarjeta de crédito,2017-10-20,8.0
+1134,Sofía,Sánchez,70,Neuquén,Jubilado,124767.07,173641.95,False,Plazo fijo,2020-03-22,6.0
+1135,Carlos,Martínez,61,Chubut,Jubilado,59294.63,169325.17,False,Cuenta corriente,2020-04-14,6.0
+1136,Diego,Gómez,43,Córdoba,Empleado,86254.79,144230.48,False,Plazo fijo,2015-08-29,9.0
+1137,María,Romero,64,Córdoba,Desempleado,115465.67,123578.35,False,Cuenta corriente,2016-10-27,8.0
+1138,Diego,López,51,Neuquén,Empresario,108174.36,138852.8,True,Préstamo personal,2022-02-25,2.0
+1139,Marta,Díaz,40,Chubut,Estudiante,76939.77,140378.82,False,Préstamo personal,2018-03-11,6.0
+1140,Diego,Fernández,48,Tucumán,Desempleado,120830.05,160104.42,True,Préstamo personal,2022-11-19,1.0
+1141,Juan,García,67,Tucumán,Empleado,61442.93,157354.11,True,Caja de ahorro,2017-09-02,9.0
+1142,Diego,Gómez,37,Córdoba,Jubilado,38849.69,,False,Cuenta corriente,2020-08-01,
+1143,Carlos,Rodríguez,29,Buenos Aires,Empresario,114749.29,151585.44,False,Tarjeta de crédito,2020-09-09,4.0
+1144,Pedro,Rodríguez,40,Mendoza,Desempleado,40075.41,164432.04,False,Tarjeta de crédito,2015-08-11,9.0
+1145,Pedro,Fernández,21,Tucumán,Estudiante,,152858.23,False,Préstamo personal,2020-01-02,3.0
+1146,Lucía,López,40,Buenos Aires,Empleado,2265.95,,False,Tarjeta de crédito,2021-05-02,
+1147,María,García,65,Mendoza,Empleado,63750.61,164162.98,True,Plazo fijo,2018-07-29,1.0
+1148,María,Sánchez,72,Córdoba,Desempleado,83621.15,133173.58,False,Cuenta corriente,2017-02-26,6.0
+1149,Juan,Fernández,65,Santa Fe,Estudiante,19668.24,147671.31,True,Cuenta corriente,2021-08-25,3.0
+1150,Carlos,López,18,Salta,Empleado,81366.39,,True,Cuenta corriente,2016-07-09,1.0
+1151,Lucía,García,71,Salta,Empresario,159250.98,130585.62,True,Plazo fijo,2020-10-10,10.0
+1152,Marta,Gómez,42,Córdoba,Empleado,36484.56,165493.76,True,Caja de ahorro,2022-07-23,6.0
+1153,María,Romero,19,Tucumán,Estudiante,82731.34,50746.04,False,Plazo fijo,2017-04-26,10.0
+1154,Pedro,Sánchez,47,Buenos Aires,Jubilado,185132.23,142586.24,False,Cuenta corriente,2022-01-12,2.0
+1155,Diego,Díaz,20,Santa Fe,Jubilado,46906.96,130315.25,True,Cuenta corriente,2017-12-30,8.0
+1156,Diego,Rodríguez,75,Neuquén,Desempleado,169861.17,154810.42,True,Cuenta corriente,2022-04-03,2.0
+1157,Lucía,Pérez,38,Mendoza,Estudiante,86049.74,140550.53,False,Tarjeta de crédito,2019-04-09,4.0
+1158,Carlos,Gómez,42,Córdoba,Empleado,105095.6,,True,Caja de ahorro,2015-05-20,3.0
+1159,Carlos,Rodríguez,37,Santa Fe,Empleado,164574.11,134853.35,False,Plazo fijo,2018-09-25,9.0
+1160,Sofía,Martínez,66,Chubut,,75745.1,165453.39,True,Cuenta corriente,2016-08-12,2.0
+1161,Luis,Pérez,69,Santa Fe,Jubilado,131551.28,81414.32,False,Préstamo personal,2019-10-16,3.0
+1162,María,Rodríguez,39,Tucumán,Empresario,144229.86,154456.49,True,Caja de ahorro,2022-01-19,7.0
+1163,Carlos,López,38,Chubut,Jubilado,,112516.83,True,Préstamo personal,2016-06-24,4.0
+1164,Pedro,Sánchez,79,Mendoza,Empresario,61928.49,196714.66,True,Caja de ahorro,2021-08-19,6.0
+1165,Lucía,Rodríguez,78,Chubut,Empleado,,111871.44,False,Cuenta corriente,2015-10-18,3.0
+1166,Marta,Díaz,50,Santa Fe,Empresario,90134.23,,False,Caja de ahorro,2020-09-21,1.0
+1167,Sofía,Romero,69,Tucumán,Empresario,46052.6,149538.69,False,Caja de ahorro,2018-06-09,6.0
+1168,Ana,López,55,Chubut,Desempleado,67919.98,76849.49,True,Cuenta corriente,2018-05-20,4.0
+1169,Juan,Gómez,78,Buenos Aires,Jubilado,-73345.21,114949.31,True,Préstamo personal,2015-01-08,2.0
+1170,Marta,Gómez,32,Tucumán,Empresario,83286.37,,True,Préstamo personal,2019-07-16,7.0
+1171,Ana,Gómez,75,Buenos Aires,Empleado,144719.71,181640.35,True,Tarjeta de crédito,2016-04-27,10.0
+1172,Diego,Gómez,75,Buenos Aires,,16665.54,98025.97,True,Préstamo personal,2020-09-20,5.0
+1173,Juan,Romero,63,Chubut,Empresario,76842.77,212514.23,True,Préstamo personal,2015-11-29,6.0
+1174,María,Rodríguez,69,Chubut,Jubilado,,149017.43,False,Caja de ahorro,2018-06-10,6.0
+1175,Pedro,García,32,Neuquén,Desempleado,98872.0,185393.83,False,Tarjeta de crédito,2017-11-05,9.0
+1176,Juan,Rodríguez,63,Neuquén,,167839.72,101526.35,False,Cuenta corriente,2020-10-17,2.0
+1177,Luis,Martínez,42,Santa Fe,,49404.23,,True,Cuenta corriente,2020-10-01,6.0
+1178,Ana,Sánchez,38,Tucumán,Estudiante,122440.92,166636.17,False,Plazo fijo,2016-11-15,9.0
+1179,María,Pérez,41,Neuquén,Empresario,,,True,Tarjeta de crédito,2017-09-20,
+1180,Luis,García,74,Buenos Aires,Empresario,120053.23,33168.36,True,Caja de ahorro,2019-12-03,
+1181,Diego,García,75,Neuquén,Jubilado,142112.41,142368.71,False,Plazo fijo,2019-12-30,7.0
+1182,Luis,Rodríguez,22,Mendoza,Empresario,,71412.07,True,Plazo fijo,2022-01-18,1.0
+1183,Sofía,García,23,Santa Fe,Empleado,82753.13,107172.3,True,Cuenta corriente,2019-12-11,5.0
+1184,Sofía,Fernández,66,Tucumán,Estudiante,113746.68,93885.29,True,Préstamo personal,2019-08-30,4.0
+1185,Lucía,Fernández,60,Tucumán,Desempleado,114224.6,195302.22,True,Caja de ahorro,2015-03-04,
+1186,Marta,Martínez,65,Salta,,133299.48,207854.2,True,Tarjeta de crédito,2015-09-18,2.0
+1187,Marta,Pérez,61,Tucumán,,93811.65,163662.56,False,Plazo fijo,2017-05-07,2.0
+1188,María,Díaz,64,Santa Fe,Desempleado,146556.94,140797.25,False,Caja de ahorro,2018-06-17,2.0
+1189,Diego,Romero,40,Mendoza,Jubilado,171730.27,151133.55,True,Cuenta corriente,2019-01-28,7.0
+1190,Carlos,Rodríguez,21,Tucumán,Estudiante,84106.63,,True,Plazo fijo,2018-02-04,4.0
+1191,Sofía,Romero,44,Salta,Desempleado,102321.99,70662.87,False,Plazo fijo,2020-07-23,6.0
+1192,María,Díaz,35,Santa Fe,,54759.26,106995.92,False,Cuenta corriente,2015-06-29,7.0
+1193,Carlos,Rodríguez,38,Buenos Aires,,117012.87,190161.7,False,Cuenta corriente,2015-12-21,9.0
+1194,Marta,Rodríguez,45,Córdoba,Empleado,117331.89,198490.84,True,Cuenta corriente,2017-07-22,2.0
+1195,Lucía,Pérez,52,Córdoba,Estudiante,102899.32,173588.85,False,Caja de ahorro,2022-08-06,10.0
+1196,Luis,Romero,39,Buenos Aires,Desempleado,106669.98,,False,Caja de ahorro,2016-08-11,9.0
+1197,Sofía,Fernández,57,Neuquén,,,189581.96,True,Caja de ahorro,2019-10-27,5.0
+1198,María,Gómez,40,Tucumán,Desempleado,-44336.14,204457.31,True,Préstamo personal,2016-08-27,6.0
+1199,Juan,Romero,20,Chubut,Jubilado,75167.16,178730.01,False,Plazo fijo,2021-02-06,6.0
+1200,Carlos,Sánchez,57,Córdoba,,82813.82,50239.61,True,Caja de ahorro,2015-06-23,3.0
+1201,Luis,Sánchez,67,Neuquén,Jubilado,172845.63,154983.79,False,Préstamo personal,2021-07-29,10.0
+1202,Sofía,Rodríguez,27,Córdoba,Empresario,123764.44,173409.6,False,Plazo fijo,2015-12-20,7.0
+1203,Marta,Gómez,42,Buenos Aires,Desempleado,,129375.31,True,Caja de ahorro,2018-08-31,
+1204,Diego,López,69,Tucumán,Empresario,162992.81,,True,Cuenta corriente,2016-03-09,8.0
+1205,Carlos,Díaz,66,Tucumán,,,129461.63,False,Tarjeta de crédito,2023-01-31,5.0
+1206,Marta,Martínez,25,Neuquén,,132616.33,115536.26,True,Caja de ahorro,2021-05-18,2.0
+1207,Sofía,Gómez,72,Buenos Aires,Estudiante,,210423.63,True,Tarjeta de crédito,2015-09-16,3.0
+1208,Carlos,Martínez,28,Neuquén,Estudiante,47334.68,158602.75,True,Caja de ahorro,2017-05-17,9.0
+1209,Luis,Romero,78,Tucumán,Estudiante,189708.35,105760.81,True,Cuenta corriente,2022-02-19,6.0
+1210,Sofía,Romero,22,Chubut,Empresario,118451.59,,True,Tarjeta de crédito,2020-08-14,8.0
+1211,Ana,Martínez,75,Tucumán,Desempleado,132233.13,115560.72,True,Préstamo personal,2020-06-26,8.0
+1212,María,Díaz,62,Santa Fe,Empresario,45991.27,115777.07,True,Cuenta corriente,2016-08-18,
+1213,Luis,Gómez,70,Chubut,Desempleado,125517.63,155861.21,False,Tarjeta de crédito,2019-07-27,1.0
+1214,Carlos,López,72,Neuquén,Desempleado,188911.64,169422.27,True,Tarjeta de crédito,2016-01-29,6.0
+1215,Diego,Rodríguez,54,Santa Fe,Estudiante,86127.5,169379.47,False,Cuenta corriente,2015-12-02,
+1216,Marta,Pérez,73,Buenos Aires,Empresario,37210.03,119995.52,True,Cuenta corriente,2020-10-11,9.0
+1217,Juan,Romero,76,Mendoza,Desempleado,109198.81,186825.23,False,Cuenta corriente,2015-02-13,2.0
+1218,Marta,Sánchez,62,Córdoba,Jubilado,48205.15,199113.77,True,Plazo fijo,2021-01-09,
+1219,Carlos,Díaz,55,Santa Fe,,22110.07,139601.47,False,Préstamo personal,2017-05-03,10.0
+1220,Marta,Pérez,46,Córdoba,Jubilado,63261.72,108717.17,True,Caja de ahorro,2015-10-02,1.0
+1221,María,López,22,Salta,Empresario,,154011.3,False,Tarjeta de crédito,2016-03-01,5.0
+1222,Sofía,García,26,Buenos Aires,Empresario,,236403.05,True,Caja de ahorro,2016-04-27,2.0
+1223,Juan,Rodríguez,76,Mendoza,Empresario,166323.34,107668.1,True,Cuenta corriente,2015-08-02,
+1224,Pedro,Romero,65,Salta,Desempleado,194480.5,128953.47,False,Préstamo personal,2020-10-27,2.0
+1225,Carlos,Rodríguez,19,Salta,Empleado,130904.4,,False,Préstamo personal,2015-05-19,4.0
+1226,Lucía,Pérez,18,Tucumán,Desempleado,119209.77,,True,Plazo fijo,2017-08-07,3.0
+1227,Pedro,Rodríguez,57,Salta,Desempleado,92897.59,70576.8,False,Cuenta corriente,2015-04-08,9.0
+1228,Marta,García,77,Buenos Aires,Estudiante,55183.36,202235.51,False,Tarjeta de crédito,2016-10-25,10.0
+1229,Carlos,Pérez,68,Santa Fe,Estudiante,180145.51,201691.68,True,Plazo fijo,2021-02-23,2.0
+1230,Ana,Romero,47,Buenos Aires,Desempleado,96857.33,133008.25,False,Cuenta corriente,2022-10-03,7.0
+1231,Lucía,Gómez,28,Santa Fe,Jubilado,76870.73,258264.73,True,Plazo fijo,2021-01-12,3.0
+1232,Juan,Sánchez,45,Salta,Estudiante,150737.83,199108.22,False,Caja de ahorro,2017-12-09,10.0
+1233,Diego,Pérez,61,Salta,Desempleado,96320.79,196978.0,True,Cuenta corriente,2016-04-23,8.0
+1234,Ana,Fernández,29,Chubut,Empleado,148864.71,197502.13,False,Tarjeta de crédito,2021-03-25,
+1235,Pedro,García,56,Mendoza,Jubilado,79512.56,196348.64,True,Tarjeta de crédito,2022-01-13,4.0
+1236,Sofía,Pérez,43,Santa Fe,Empresario,150881.85,149123.62,True,Cuenta corriente,2021-01-05,
+1237,María,Pérez,30,Salta,Desempleado,148988.36,,False,Plazo fijo,2017-12-17,3.0
+1238,Diego,Fernández,76,Tucumán,Desempleado,166241.42,112257.2,False,Préstamo personal,2015-06-11,7.0
+1239,Ana,Romero,25,Chubut,Jubilado,,126905.13,True,Cuenta corriente,2022-12-20,1.0
+1240,Sofía,Pérez,78,Córdoba,Estudiante,95848.03,137564.09,True,Tarjeta de crédito,2019-02-09,7.0
+1241,Sofía,Sánchez,78,Chubut,Estudiante,,152618.4,False,Caja de ahorro,2018-12-21,
+1242,Carlos,Rodríguez,71,Mendoza,,,213931.84,False,Tarjeta de crédito,2016-01-30,2.0
+1243,Ana,Romero,45,Buenos Aires,Empresario,140551.29,65900.21,False,Préstamo personal,2017-03-11,6.0
+1244,Juan,Sánchez,75,Mendoza,Jubilado,214528.25,203797.37,False,Tarjeta de crédito,2015-07-05,9.0
+1245,Marta,Romero,47,Córdoba,Jubilado,7547.94,,False,Préstamo personal,2016-07-11,6.0
+1246,Lucía,Sánchez,26,Chubut,Estudiante,86022.22,145819.21,False,Cuenta corriente,2020-06-03,3.0
+1247,Lucía,García,56,Santa Fe,Estudiante,100093.51,121024.09,True,Tarjeta de crédito,2016-03-21,1.0
+1248,Pedro,Sánchez,48,Buenos Aires,,,224171.08,False,Plazo fijo,2017-04-09,4.0
+1249,Pedro,Martínez,75,Buenos Aires,Empleado,77201.44,130001.69,False,Plazo fijo,2020-11-04,4.0
+1250,Lucía,Sánchez,38,Santa Fe,Desempleado,51430.94,170857.92,False,Tarjeta de crédito,2018-06-26,
+1251,Juan,Gómez,73,Neuquén,Desempleado,142884.27,172930.67,False,Tarjeta de crédito,2019-12-19,10.0
+1252,María,Gómez,64,Neuquén,Jubilado,13367.63,103599.73,True,Caja de ahorro,2021-10-21,10.0
+1253,Luis,Díaz,51,Mendoza,Jubilado,194466.13,146129.19,True,Tarjeta de crédito,2016-05-30,7.0
+1254,Marta,Martínez,72,Salta,Empresario,134494.87,,True,Caja de ahorro,2019-05-20,10.0
+1255,María,Martínez,48,Neuquén,Empresario,47308.92,115070.61,True,Caja de ahorro,2017-08-04,7.0
+1256,Carlos,Rodríguez,69,Mendoza,Empleado,151320.97,183158.62,False,Caja de ahorro,2018-05-10,7.0
+1257,Luis,Martínez,42,Neuquén,Desempleado,129848.98,136756.8,True,Caja de ahorro,2019-05-18,2.0
+1258,Luis,Rodríguez,29,Córdoba,Empleado,98061.62,196546.16,False,Cuenta corriente,2019-08-06,9.0
+1259,Ana,Díaz,18,Tucumán,Empleado,63927.16,219899.88,False,Plazo fijo,2017-01-25,6.0
+1260,Juan,Díaz,72,Salta,Desempleado,,69686.4,True,Caja de ahorro,2022-10-15,2.0
+1261,Juan,García,39,Mendoza,Empresario,106146.02,96474.6,True,Plazo fijo,2022-06-26,1.0
+1262,Luis,Gómez,57,Tucumán,Desempleado,65537.97,132459.62,False,Caja de ahorro,2015-11-21,1.0
+1263,Ana,Sánchez,54,Tucumán,Estudiante,32837.25,208616.98,True,Plazo fijo,2022-04-24,1.0
+1264,Marta,Sánchez,64,Chubut,Estudiante,57470.55,171298.64,True,Tarjeta de crédito,2016-11-17,4.0
+1265,Luis,Fernández,18,Neuquén,,74835.11,100209.94,False,Tarjeta de crédito,2019-02-07,4.0
+1266,Diego,Fernández,18,Chubut,Jubilado,,177156.81,False,Plazo fijo,2019-08-16,9.0
+1267,Pedro,López,74,Santa Fe,Empresario,143037.95,113450.61,False,Caja de ahorro,2020-06-22,1.0
+1268,Pedro,Romero,59,Córdoba,Empresario,77496.62,184821.28,False,Cuenta corriente,2021-09-13,3.0
+1269,María,García,71,Córdoba,Jubilado,79440.3,,False,Plazo fijo,2017-05-17,3.0
+1270,Carlos,López,59,Córdoba,Empleado,149567.61,113275.53,True,Préstamo personal,2015-08-05,8.0
+1271,Pedro,López,38,Salta,,113367.34,,False,Cuenta corriente,2022-10-27,2.0
+1272,Sofía,Pérez,32,Buenos Aires,Estudiante,112670.74,198987.35,False,Préstamo personal,2017-09-27,6.0
+1273,María,Pérez,34,Salta,Empleado,64831.23,74318.51,False,Plazo fijo,2020-06-11,4.0
+1274,Pedro,López,39,Mendoza,Desempleado,93829.06,162044.35,True,Caja de ahorro,2017-07-20,10.0
+1275,Carlos,Martínez,55,Tucumán,Desempleado,100213.08,105724.03,False,Préstamo personal,2020-07-05,6.0
+1276,Juan,Romero,52,Tucumán,,95440.41,149352.5,False,Plazo fijo,2015-08-28,5.0
+1277,Juan,García,62,Chubut,Jubilado,136703.4,168310.49,True,Cuenta corriente,2018-04-24,9.0
+1278,Marta,López,33,Buenos Aires,Empresario,138267.69,230526.76,False,Caja de ahorro,2015-02-17,9.0
+1279,Luis,Sánchez,25,Mendoza,Desempleado,54052.11,148948.09,False,Préstamo personal,2018-06-02,1.0
+1280,Diego,Romero,79,Buenos Aires,Empleado,,208621.03,False,Plazo fijo,2018-03-13,3.0
+1281,Juan,Pérez,64,Tucumán,Empresario,,116380.07,True,Caja de ahorro,2017-05-24,1.0
+1282,Ana,Sánchez,34,Neuquén,Estudiante,169426.29,130199.2,True,Caja de ahorro,2020-03-12,6.0
+1283,Pedro,Pérez,34,Salta,,212674.53,173482.34,False,Tarjeta de crédito,2020-12-19,
+1284,Ana,Pérez,71,Córdoba,Empleado,76818.93,158070.44,False,Caja de ahorro,2016-09-16,1.0
+1285,Carlos,Romero,43,Tucumán,Desempleado,,136863.24,False,Plazo fijo,2020-02-03,6.0
+1286,Juan,Pérez,30,Santa Fe,Estudiante,142115.74,135779.42,True,Cuenta corriente,2020-05-24,5.0
+1287,Diego,Díaz,34,Córdoba,,64639.45,203331.78,True,Tarjeta de crédito,2016-08-23,8.0
+1288,Carlos,Gómez,55,Tucumán,Jubilado,143245.42,138462.31,True,Plazo fijo,2022-06-13,2.0
+1289,Sofía,Díaz,34,Salta,Empresario,98956.54,109166.03,True,Plazo fijo,2021-07-09,8.0
+1290,Sofía,Gómez,65,Buenos Aires,Desempleado,12813.01,115804.98,True,Plazo fijo,2020-04-27,
+1291,Ana,Fernández,31,Neuquén,,34978.32,176796.05,True,Préstamo personal,2019-12-22,8.0
+1292,Luis,Fernández,62,Neuquén,Desempleado,83107.3,240260.9,False,Préstamo personal,2020-09-14,10.0
+1293,María,Pérez,23,Córdoba,Estudiante,161147.43,129040.69,True,Cuenta corriente,2022-09-26,4.0
+1294,Luis,García,52,Salta,Jubilado,55373.27,,False,Plazo fijo,2019-07-07,4.0
+1295,Marta,García,63,Neuquén,Empresario,,149566.37,True,Préstamo personal,2020-01-02,10.0
+1296,Luis,Gómez,31,Neuquén,Estudiante,110556.21,138807.51,False,Préstamo personal,2015-08-11,4.0
+1297,Marta,Sánchez,64,Mendoza,Desempleado,16561.75,113588.92,True,Préstamo personal,2019-10-13,6.0
+1298,Marta,Romero,25,Santa Fe,Empresario,114927.66,142079.45,False,Cuenta corriente,2016-06-13,4.0
+1299,Diego,Pérez,78,Córdoba,Empresario,22813.0,119754.37,False,Cuenta corriente,2021-04-07,9.0
+1300,Juan,Romero,32,Buenos Aires,Estudiante,128359.21,116544.77,False,Plazo fijo,2015-05-14,9.0
+1301,Diego,Díaz,71,Neuquén,Empresario,59561.1,,True,Tarjeta de crédito,2016-01-26,
+1302,Marta,García,78,Mendoza,Jubilado,52897.54,220644.67,True,Plazo fijo,2015-04-12,7.0
+1303,Carlos,Martínez,44,Salta,,113639.83,192575.44,True,Préstamo personal,2020-08-02,5.0
+1304,Sofía,Díaz,30,Neuquén,Estudiante,139699.53,160864.01,False,Préstamo personal,2022-06-21,9.0
+1305,Marta,Díaz,66,Chubut,Desempleado,118812.99,144239.36,False,Caja de ahorro,2021-12-20,2.0
+1306,Diego,Gómez,48,Santa Fe,Estudiante,110382.17,149776.79,False,Plazo fijo,2022-01-02,
+1307,Carlos,Rodríguez,70,Buenos Aires,Jubilado,111090.11,118923.64,True,Préstamo personal,2022-07-13,10.0
+1308,Diego,Díaz,73,Salta,Empleado,119116.09,104645.94,True,Préstamo personal,2020-06-23,
+1309,Luis,Pérez,52,Salta,Empleado,122401.81,178696.56,False,Tarjeta de crédito,2017-08-06,5.0
+1310,Pedro,López,77,Córdoba,Empresario,,139511.09,True,Caja de ahorro,2019-04-18,10.0
+1311,Ana,López,23,Neuquén,Empresario,132725.15,163029.43,True,Plazo fijo,2017-04-20,7.0
+1312,María,Pérez,22,Córdoba,Empleado,60090.49,83502.44,True,Cuenta corriente,2020-08-15,8.0
+1313,Diego,Rodríguez,39,Buenos Aires,Jubilado,154569.66,137382.85,True,Plazo fijo,2015-07-13,8.0
+1314,María,Rodríguez,75,Chubut,Empresario,139122.18,103865.61,False,Plazo fijo,2017-01-11,1.0
+1315,Lucía,Gómez,66,Neuquén,Estudiante,209045.05,169362.23,True,Tarjeta de crédito,2023-02-07,1.0
+1316,Diego,García,40,Tucumán,Estudiante,125692.42,,True,Plazo fijo,2016-04-17,3.0
+1317,Pedro,Romero,42,Neuquén,Jubilado,145454.98,208387.98,False,Tarjeta de crédito,2021-03-13,1.0
+1318,María,Rodríguez,51,Chubut,Empresario,21973.09,124840.81,False,Tarjeta de crédito,2023-01-02,1.0
+1319,Marta,Martínez,43,Tucumán,Estudiante,,104884.04,True,Préstamo personal,2015-02-07,
+1320,Diego,Gómez,64,Salta,Empresario,158822.8,133256.26,True,Cuenta corriente,2019-08-26,8.0
+1321,Juan,Fernández,22,Córdoba,Empresario,175236.06,122027.48,True,Tarjeta de crédito,2016-04-15,1.0
+1322,Ana,Sánchez,43,Santa Fe,Estudiante,106023.32,167249.34,True,Caja de ahorro,2021-11-04,9.0
+1323,Pedro,Fernández,37,Neuquén,Empleado,82905.33,93888.71,False,Caja de ahorro,2019-02-22,2.0
+1324,María,Gómez,23,Santa Fe,,45524.26,79824.2,False,Cuenta corriente,2017-10-09,9.0
+1325,Pedro,Díaz,23,Neuquén,Jubilado,50098.2,136142.07,False,Tarjeta de crédito,2019-11-19,7.0
+1326,Carlos,Romero,76,Salta,Desempleado,,179060.24,True,Cuenta corriente,2020-05-20,9.0
+1327,Ana,Sánchez,67,Córdoba,Estudiante,12428.1,108901.73,True,Préstamo personal,2015-04-13,3.0
+1328,Marta,Fernández,35,Buenos Aires,Empresario,,183964.53,False,Caja de ahorro,2019-10-01,1.0
+1329,Diego,Sánchez,21,Buenos Aires,Empresario,104476.1,164613.51,True,Plazo fijo,2019-10-02,
+1330,Diego,Martínez,34,Buenos Aires,Estudiante,103360.17,211871.82,False,Caja de ahorro,2015-02-11,10.0
+1331,Diego,Martínez,74,Neuquén,Desempleado,51530.31,117909.81,False,Tarjeta de crédito,2023-03-14,6.0
+1332,Ana,Martínez,31,Neuquén,,38306.83,85741.13,False,Cuenta corriente,2020-10-14,
+1333,Juan,Gómez,31,Santa Fe,Desempleado,45774.38,173941.67,False,Caja de ahorro,2023-03-10,9.0
+1334,Lucía,Romero,30,Córdoba,Desempleado,88957.39,161194.98,False,Plazo fijo,2015-07-12,6.0
+1335,Sofía,Gómez,24,Chubut,Jubilado,,158099.92,False,Plazo fijo,2017-11-27,5.0
+1336,Luis,López,61,Neuquén,,,108086.89,False,Cuenta corriente,2021-12-24,2.0
+1337,María,Díaz,72,Córdoba,Empresario,110709.72,,True,Cuenta corriente,2019-08-04,2.0
+1338,Juan,Díaz,32,Santa Fe,Desempleado,,124662.97,False,Caja de ahorro,2022-06-04,8.0
+1339,Marta,Martínez,36,Neuquén,Empresario,150793.24,158082.42,False,Tarjeta de crédito,2021-07-27,1.0
+1340,María,López,60,Buenos Aires,Empleado,133780.93,131617.28,True,Préstamo personal,2015-11-22,8.0
+1341,Diego,Rodríguez,64,Buenos Aires,Desempleado,84589.5,164175.26,False,Plazo fijo,2018-01-25,10.0
+1342,Pedro,Rodríguez,61,Salta,Empresario,57720.59,102194.78,True,Cuenta corriente,2015-04-18,
+1343,Marta,Martínez,52,Tucumán,Empleado,93736.29,169987.13,False,Préstamo personal,2022-05-02,7.0
+1344,María,Fernández,34,Mendoza,Jubilado,,176303.57,True,Préstamo personal,2021-01-07,5.0
+1345,Diego,Gómez,52,Chubut,Empresario,86480.44,154639.13,True,Préstamo personal,2018-01-02,3.0
+1346,María,Martínez,36,Tucumán,Empleado,44766.22,,True,Tarjeta de crédito,2023-01-04,7.0
+1347,Pedro,García,37,Neuquén,Estudiante,13827.6,158286.41,False,Cuenta corriente,2015-12-01,
+1348,Diego,Sánchez,53,Córdoba,,93948.46,186750.15,True,Plazo fijo,2020-04-26,7.0
+1349,Lucía,Díaz,52,Neuquén,Empleado,,153696.67,False,Cuenta corriente,2020-08-01,2.0
+1350,Juan,Rodríguez,49,Córdoba,Desempleado,78174.21,183175.95,False,Caja de ahorro,2017-03-14,
+1351,Carlos,Pérez,75,Córdoba,Desempleado,172811.63,88667.83,False,Plazo fijo,2020-01-23,3.0
+1352,Luis,Rodríguez,65,Tucumán,Empresario,97307.51,151317.79,False,Cuenta corriente,2017-02-05,4.0
+1353,Ana,Díaz,61,Mendoza,Estudiante,62476.96,104922.59,False,Plazo fijo,2018-07-01,9.0
+1354,Luis,Sánchez,57,Salta,Desempleado,115437.56,155617.09,False,Caja de ahorro,2018-11-09,10.0
+1355,Marta,Díaz,41,Tucumán,Desempleado,196047.73,165367.71,False,Plazo fijo,2021-04-25,1.0
+1356,Luis,Pérez,78,Mendoza,Estudiante,93965.19,182299.9,True,Préstamo personal,2022-09-30,7.0
+1357,Diego,Martínez,78,Buenos Aires,Jubilado,-17776.32,169596.4,False,Tarjeta de crédito,2019-01-28,
+1358,Lucía,López,34,Buenos Aires,,132503.83,136525.88,False,Caja de ahorro,2015-02-03,4.0
+1359,Carlos,Pérez,24,Córdoba,Empleado,,119856.18,True,Plazo fijo,2021-07-01,1.0
+1360,Juan,Díaz,60,Santa Fe,Empresario,104506.12,56299.06,False,Caja de ahorro,2017-04-16,
+1361,Juan,Díaz,67,Neuquén,Desempleado,,152754.1,True,Préstamo personal,2022-07-01,5.0
+1362,Pedro,García,18,Neuquén,Desempleado,59636.39,195514.47,True,Tarjeta de crédito,2020-07-17,2.0
+1363,Ana,García,52,Córdoba,Jubilado,,154335.74,False,Caja de ahorro,2019-06-28,7.0
+1364,María,Romero,49,Santa Fe,Empleado,8084.53,146609.93,False,Préstamo personal,2017-01-08,10.0
+1365,Lucía,García,53,Chubut,,84551.95,155722.29,True,Préstamo personal,2019-01-29,10.0
+1366,María,Gómez,30,Mendoza,Desempleado,83382.99,134491.62,False,Préstamo personal,2022-08-23,7.0
+1367,Carlos,López,23,Chubut,Empresario,142672.09,157798.72,True,Plazo fijo,2018-08-20,10.0
+1368,Luis,Sánchez,75,Chubut,Estudiante,161783.03,,True,Cuenta corriente,2020-02-29,5.0
+1369,Juan,Pérez,31,Buenos Aires,Desempleado,88663.31,,False,Caja de ahorro,2022-12-04,10.0
+1370,Carlos,Díaz,54,Chubut,,109648.29,146988.06,True,Cuenta corriente,2015-04-27,6.0
+1371,Luis,Romero,65,Neuquén,Estudiante,113899.34,146115.88,False,Préstamo personal,2019-02-13,1.0
+1372,Juan,Romero,32,Tucumán,Jubilado,152666.31,225006.8,False,Cuenta corriente,2022-05-21,4.0
+1373,Luis,Sánchez,64,Santa Fe,Desempleado,151636.52,117772.4,True,Préstamo personal,2021-09-16,4.0
+1374,Ana,López,79,Mendoza,Empresario,73079.32,143622.33,True,Préstamo personal,2020-07-26,
+1375,Lucía,Pérez,21,Buenos Aires,Empleado,121895.07,139733.39,False,Tarjeta de crédito,2019-08-27,2.0
+1376,Marta,Rodríguez,57,Chubut,Empresario,119162.59,132092.69,False,Tarjeta de crédito,2020-04-07,1.0
+1377,Carlos,García,76,Tucumán,Jubilado,94204.5,170524.21,False,Cuenta corriente,2019-05-30,7.0
+1378,Carlos,Martínez,33,Santa Fe,Empleado,118689.09,239518.52,True,Caja de ahorro,2021-03-30,6.0
+1379,Sofía,Romero,45,Córdoba,Empresario,101009.39,137166.91,False,Cuenta corriente,2023-02-24,5.0
+1380,Diego,García,33,Córdoba,,107894.53,170635.78,True,Caja de ahorro,2018-07-31,8.0
+1381,Ana,García,79,Córdoba,Estudiante,32199.68,73505.12,True,Cuenta corriente,2021-12-02,2.0
+1382,Ana,Gómez,21,Neuquén,Jubilado,54101.93,134258.82,True,Plazo fijo,2017-09-02,2.0
+1383,María,López,62,Mendoza,Estudiante,,212209.65,False,Plazo fijo,2020-08-18,
+1384,Luis,Martínez,43,Córdoba,Empleado,39470.61,147800.78,True,Caja de ahorro,2016-12-15,1.0
+1385,Diego,Rodríguez,45,Neuquén,Estudiante,123505.46,170093.6,False,Tarjeta de crédito,2020-04-09,6.0
+1386,Lucía,Díaz,49,Salta,Jubilado,95928.7,125089.95,True,Caja de ahorro,2021-08-23,3.0
+1387,Lucía,Gómez,62,Neuquén,Desempleado,151532.74,160302.29,False,Cuenta corriente,2021-08-25,5.0
+1388,Ana,García,19,Buenos Aires,Desempleado,132440.03,215311.05,False,Préstamo personal,2017-04-23,
+1389,Lucía,García,48,Neuquén,Empleado,77336.04,103596.68,True,Plazo fijo,2015-12-26,7.0
+1390,Sofía,Fernández,20,Mendoza,Desempleado,88837.58,,False,Préstamo personal,2021-02-01,4.0
+1391,Carlos,Martínez,71,Tucumán,Estudiante,,88162.23,True,Plazo fijo,2016-04-29,8.0
+1392,Pedro,Martínez,25,Chubut,Empleado,93480.09,,True,Cuenta corriente,2018-11-29,10.0
+1393,Marta,Fernández,41,Neuquén,Jubilado,36492.56,116563.31,True,Plazo fijo,2020-09-11,2.0
+1394,María,Martínez,32,Córdoba,Empleado,89064.68,139101.56,True,Caja de ahorro,2019-01-28,7.0
+1395,Luis,García,60,Buenos Aires,Empleado,68104.09,116043.88,True,Préstamo personal,2016-11-26,
+1396,Marta,Romero,48,Santa Fe,Empresario,56168.54,113011.21,True,Préstamo personal,2021-01-13,
+1397,Luis,Pérez,26,Córdoba,Empresario,159386.23,102530.14,True,Cuenta corriente,2016-07-18,3.0
+1398,Juan,García,56,Buenos Aires,Empleado,36189.46,175762.15,False,Préstamo personal,2020-01-06,10.0
+1399,Marta,Gómez,62,Salta,Desempleado,51846.74,140481.68,True,Cuenta corriente,2015-07-21,
+1400,Pedro,López,19,Chubut,Empresario,65089.45,130019.58,True,Tarjeta de crédito,2018-04-13,7.0
+1401,Ana,Fernández,25,Santa Fe,Jubilado,75944.1,,False,Caja de ahorro,2018-06-21,
+1402,Sofía,Rodríguez,24,Salta,Estudiante,56161.07,90214.58,False,Plazo fijo,2023-02-18,1.0
+1403,Carlos,Díaz,73,Tucumán,Empresario,82042.58,162254.9,True,Plazo fijo,2019-01-09,10.0
+1404,Carlos,Rodríguez,61,Buenos Aires,Empleado,,146249.22,True,Plazo fijo,2015-03-15,2.0
+1405,Sofía,García,68,Salta,Desempleado,133492.94,147478.49,True,Tarjeta de crédito,2015-04-06,8.0
+1406,Diego,Gómez,56,Chubut,Estudiante,131065.4,170766.67,False,Caja de ahorro,2020-03-11,
+1407,Juan,García,59,Chubut,Empresario,,215740.96,True,Préstamo personal,2015-06-22,3.0
+1408,Luis,López,78,Tucumán,Desempleado,,162918.99,False,Préstamo personal,2020-04-06,4.0
+1409,Pedro,Romero,74,Chubut,Desempleado,122094.92,142005.02,True,Caja de ahorro,2021-01-11,8.0
+1410,Lucía,Díaz,33,Buenos Aires,Desempleado,66880.04,102694.22,True,Caja de ahorro,2021-05-25,3.0
+1411,Marta,López,52,Buenos Aires,,183384.21,54367.28,False,Plazo fijo,2015-09-15,6.0
+1412,Juan,Fernández,47,Chubut,Jubilado,154383.31,155115.37,True,Préstamo personal,2021-01-30,2.0
+1413,Marta,Fernández,27,Salta,Desempleado,90848.78,,True,Caja de ahorro,2015-11-26,3.0
+1414,Pedro,García,55,Buenos Aires,Estudiante,70201.58,48389.46,True,Préstamo personal,2018-06-08,1.0
+1415,María,Gómez,35,Córdoba,,182572.22,135965.18,False,Caja de ahorro,2022-09-07,9.0
+1416,María,López,67,Chubut,Estudiante,99049.31,159579.27,True,Cuenta corriente,2015-06-10,4.0
+1417,Juan,Sánchez,22,Buenos Aires,,104251.85,179772.15,True,Plazo fijo,2015-07-05,6.0
+1418,Ana,Gómez,70,Mendoza,Empleado,103622.83,192450.03,False,Caja de ahorro,2015-05-23,7.0
+1419,Pedro,Romero,46,Tucumán,Estudiante,215155.22,185028.49,False,Tarjeta de crédito,2023-02-02,2.0
+1420,Pedro,Fernández,56,Chubut,Jubilado,89174.24,186103.0,True,Caja de ahorro,2016-10-01,8.0
+1421,Sofía,García,77,Buenos Aires,Empleado,98817.9,91277.2,True,Cuenta corriente,2020-09-05,9.0
+1422,Ana,Martínez,51,Mendoza,,58446.87,144016.17,False,Tarjeta de crédito,2015-07-21,10.0
+1423,Luis,Fernández,60,Buenos Aires,Estudiante,80525.03,173193.42,True,Tarjeta de crédito,2019-06-03,2.0
+1424,Luis,Díaz,79,Buenos Aires,,48430.39,151854.98,True,Caja de ahorro,2022-06-10,5.0
+1425,Lucía,Pérez,62,Salta,Jubilado,59463.34,143794.03,False,Cuenta corriente,2016-04-16,2.0
+1426,Carlos,Martínez,40,Córdoba,Jubilado,9502.42,151123.6,True,Tarjeta de crédito,2021-04-25,5.0
+1427,María,García,22,Chubut,,144076.23,159821.36,True,Plazo fijo,2020-10-03,7.0
+1428,Luis,Sánchez,47,Tucumán,Empresario,107837.32,146924.25,False,Plazo fijo,2017-06-29,6.0
+1429,Ana,Martínez,23,Chubut,,111955.46,,True,Préstamo personal,2019-04-21,4.0
+1430,Pedro,Díaz,73,Córdoba,Jubilado,97378.08,81887.04,True,Préstamo personal,2017-10-26,2.0
+1431,Luis,Gómez,75,Santa Fe,Empresario,103588.3,,True,Cuenta corriente,2022-02-14,7.0
+1432,Pedro,Sánchez,78,Salta,Desempleado,180956.95,152299.31,False,Tarjeta de crédito,2017-12-09,10.0
+1433,Luis,Fernández,63,Salta,Empleado,61561.36,151863.18,True,Plazo fijo,2020-11-29,9.0
+1434,María,Sánchez,61,Córdoba,Jubilado,113917.84,,False,Plazo fijo,2021-01-02,1.0
+1435,Marta,López,21,Neuquén,Empleado,113649.56,195224.25,False,Cuenta corriente,2015-08-18,3.0
+1436,Luis,Díaz,46,Salta,Estudiante,157099.46,145839.09,True,Tarjeta de crédito,2019-10-13,7.0
+1437,Ana,Martínez,40,Chubut,Empleado,121932.74,146125.41,False,Cuenta corriente,2021-12-19,
+1438,Luis,López,23,Córdoba,,124445.94,172925.14,True,Caja de ahorro,2018-08-22,5.0
+1439,Carlos,Sánchez,49,Salta,Empleado,37086.52,,True,Plazo fijo,2016-04-05,7.0
+1440,María,López,59,Buenos Aires,Empleado,59554.88,132297.67,True,Cuenta corriente,2017-03-17,10.0
+1441,Ana,Rodríguez,35,Córdoba,Empleado,41655.58,176360.55,False,Cuenta corriente,2020-04-15,
+1442,Sofía,Díaz,32,Córdoba,Desempleado,-23793.59,144145.02,True,Caja de ahorro,2021-03-23,4.0
+1443,Ana,Romero,57,Chubut,Desempleado,,144995.57,True,Préstamo personal,2015-02-28,5.0
+1444,Carlos,Gómez,75,Mendoza,Estudiante,,167344.55,True,Plazo fijo,2018-01-04,
+1445,Marta,Sánchez,49,Salta,,119953.58,137953.34,False,Cuenta corriente,2021-10-11,8.0
+1446,María,Díaz,26,Salta,Empleado,101774.46,153786.9,False,Plazo fijo,2016-12-28,1.0
+1447,Sofía,Romero,54,Córdoba,Empleado,112021.82,161901.77,True,Préstamo personal,2018-03-01,2.0
+1448,Carlos,Romero,27,Buenos Aires,Empleado,166905.77,,True,Cuenta corriente,2023-02-27,3.0
+1449,Carlos,García,37,Buenos Aires,Empleado,,179925.62,True,Caja de ahorro,2016-05-12,7.0
+1450,Juan,López,23,Tucumán,Desempleado,133449.46,160681.78,True,Plazo fijo,2022-11-03,6.0
+1451,María,Romero,65,Buenos Aires,Estudiante,84887.82,45649.25,False,Caja de ahorro,2017-06-28,7.0
+1452,Ana,Rodríguez,73,Salta,Jubilado,141239.41,159734.03,False,Préstamo personal,2018-08-21,5.0
+1453,Pedro,Díaz,76,Neuquén,Empresario,38018.12,165915.44,False,Préstamo personal,2020-10-15,
+1454,Marta,Pérez,20,Mendoza,Empleado,8122.19,174037.15,False,Plazo fijo,2015-08-18,7.0
+1455,Pedro,Pérez,59,Córdoba,Estudiante,205333.02,111759.0,False,Préstamo personal,2015-11-29,3.0
+1456,Ana,Sánchez,28,Santa Fe,Jubilado,191815.21,65116.96,False,Tarjeta de crédito,2021-05-13,10.0
+1457,Ana,Fernández,60,Mendoza,Estudiante,2724.28,182246.8,False,Plazo fijo,2020-03-11,7.0
+1458,María,López,34,Chubut,Desempleado,98194.33,101018.94,True,Tarjeta de crédito,2019-05-27,2.0
+1459,Ana,Fernández,49,Chubut,Jubilado,107495.82,198886.78,True,Préstamo personal,2016-12-21,8.0
+1460,Juan,Romero,21,Neuquén,Estudiante,136148.58,126853.92,True,Plazo fijo,2020-12-31,6.0
+1461,Sofía,Díaz,21,Santa Fe,Desempleado,186960.44,108913.08,True,Tarjeta de crédito,2018-06-28,3.0
+1462,Ana,Sánchez,34,Mendoza,Estudiante,46929.49,163984.88,True,Préstamo personal,2016-11-21,3.0
+1463,Pedro,Martínez,58,Buenos Aires,Estudiante,49615.91,,True,Cuenta corriente,2015-02-26,5.0
+1464,Ana,Romero,36,Salta,Jubilado,,172263.12,False,Cuenta corriente,2021-06-13,3.0
+1465,Juan,López,22,Neuquén,Desempleado,,170064.42,True,Caja de ahorro,2021-01-30,6.0
+1466,Luis,Pérez,49,Santa Fe,Empleado,-35706.84,121688.39,False,Cuenta corriente,2019-01-25,2.0
+1467,Luis,García,39,Neuquén,Empresario,88638.0,88923.61,True,Tarjeta de crédito,2017-01-19,8.0
+1468,Carlos,Díaz,73,Mendoza,,142877.2,134413.42,False,Cuenta corriente,2016-11-08,
+1469,Marta,Gómez,23,Salta,Desempleado,98976.63,104171.69,False,Plazo fijo,2016-07-13,7.0
+1470,Lucía,Fernández,52,Neuquén,,131202.26,,True,Plazo fijo,2019-07-21,3.0
+1471,Sofía,Sánchez,39,Santa Fe,Desempleado,124050.31,184969.91,True,Plazo fijo,2019-09-01,10.0
+1472,Diego,Fernández,18,Córdoba,Empresario,48650.72,156907.87,True,Cuenta corriente,2020-06-01,4.0
+1473,Carlos,Díaz,37,Mendoza,Empresario,103401.08,149962.21,True,Cuenta corriente,2015-12-15,10.0
+1474,Marta,Fernández,39,Córdoba,Empleado,23741.97,137582.7,True,Caja de ahorro,2017-12-26,2.0
+1475,Luis,Díaz,65,Buenos Aires,Empleado,,189213.97,False,Préstamo personal,2021-07-05,9.0
+1476,Pedro,Fernández,72,Córdoba,Empresario,102522.66,76781.25,True,Caja de ahorro,2021-02-19,5.0
+1477,Diego,Rodríguez,28,Córdoba,Jubilado,99942.37,101753.96,False,Tarjeta de crédito,2018-03-24,2.0
+1478,Marta,Martínez,30,Tucumán,Jubilado,35453.26,223069.33,False,Plazo fijo,2019-09-16,10.0
+1479,Marta,Romero,76,Mendoza,Estudiante,45550.23,99801.63,False,Cuenta corriente,2021-05-02,6.0
+1480,Carlos,Romero,59,Buenos Aires,,114547.98,171241.47,True,Préstamo personal,2021-01-24,7.0
+1481,Diego,López,20,Córdoba,Estudiante,,179471.6,True,Préstamo personal,2021-01-01,2.0
+1482,María,Gómez,26,Chubut,Empleado,89651.63,72949.96,True,Cuenta corriente,2021-02-11,1.0
+1483,Lucía,Gómez,77,Salta,Empresario,,80628.08,True,Caja de ahorro,2017-06-04,
+1484,María,López,29,Santa Fe,Jubilado,146563.8,200588.57,True,Préstamo personal,2017-05-14,1.0
+1485,Diego,García,40,Córdoba,Jubilado,61396.69,111082.25,True,Caja de ahorro,2022-09-22,3.0
+1486,María,Romero,31,Buenos Aires,Empresario,186351.48,112174.74,False,Cuenta corriente,2017-02-24,4.0
+1487,Juan,García,50,Córdoba,Estudiante,32736.36,129164.95,True,Caja de ahorro,2016-04-01,2.0
+1488,Luis,Díaz,35,Santa Fe,Estudiante,152424.82,111180.72,False,Plazo fijo,2015-12-11,7.0
+1489,Juan,Díaz,66,Buenos Aires,Desempleado,126958.39,171050.71,False,Cuenta corriente,2022-08-14,5.0
+1490,Ana,Pérez,76,Mendoza,Empleado,,102718.5,True,Cuenta corriente,2016-07-07,1.0
+1491,María,Fernández,58,Buenos Aires,Estudiante,43941.53,71369.58,True,Préstamo personal,2017-10-17,8.0
+1492,Ana,Gómez,26,Mendoza,Empresario,-16701.14,196254.26,True,Préstamo personal,2017-02-26,10.0
+1493,Pedro,Pérez,40,Buenos Aires,Estudiante,162472.32,104683.57,True,Préstamo personal,2019-12-25,7.0
+1494,Sofía,Martínez,27,Chubut,Jubilado,26433.32,119919.25,True,Plazo fijo,2023-03-03,4.0
+1495,Pedro,López,36,Neuquén,Empleado,130788.82,183194.32,True,Plazo fijo,2016-12-05,2.0
+1496,Diego,López,78,Santa Fe,Desempleado,159107.55,152809.76,False,Tarjeta de crédito,2018-02-01,7.0
+1497,Marta,Díaz,64,Santa Fe,Empleado,118988.04,194493.65,False,Cuenta corriente,2021-04-13,2.0
+1498,Luis,Romero,22,Buenos Aires,Jubilado,111609.04,,False,Préstamo personal,2017-03-22,6.0
+1499,María,García,64,Neuquén,Jubilado,120047.0,,False,Cuenta corriente,2017-08-10,
+1500,Carlos,Gómez,69,Córdoba,Jubilado,141871.09,,False,Caja de ahorro,2017-03-25,7.0
+1501,Sofía,Pérez,40,Santa Fe,,129353.42,156710.93,False,Plazo fijo,2019-03-29,7.0
+1502,Lucía,García,47,Chubut,Empresario,39170.81,126064.48,True,Tarjeta de crédito,2015-05-24,4.0
+1503,Lucía,Pérez,42,Mendoza,Desempleado,191249.99,161616.06,True,Caja de ahorro,2022-08-09,4.0
+1504,Lucía,Fernández,45,Mendoza,Jubilado,102555.4,97621.5,True,Cuenta corriente,2017-05-12,10.0
+1505,María,Martínez,51,Salta,Jubilado,125917.08,183353.91,False,Plazo fijo,2018-05-01,5.0
+1506,Lucía,Martínez,62,Tucumán,Estudiante,135549.45,178164.75,False,Préstamo personal,2021-11-17,2.0
+1507,Juan,García,73,Neuquén,Desempleado,,154814.34,False,Caja de ahorro,2019-12-13,9.0
+1508,Sofía,García,65,Tucumán,Empleado,152605.34,73269.08,True,Plazo fijo,2016-01-10,10.0
+1509,Juan,García,64,Tucumán,Desempleado,,196176.19,True,Cuenta corriente,2016-11-07,4.0
+1510,Marta,Pérez,42,Mendoza,Desempleado,103373.32,167483.71,True,Cuenta corriente,2022-07-02,9.0
+1511,Sofía,Fernández,27,Chubut,Desempleado,,149081.67,False,Caja de ahorro,2022-04-30,3.0
+1512,Juan,Rodríguez,31,Chubut,Jubilado,155003.05,142773.34,False,Caja de ahorro,2018-07-13,
+1513,Sofía,García,59,Salta,Jubilado,44368.92,128531.23,False,Caja de ahorro,2016-07-09,1.0
+1514,Marta,Romero,74,Tucumán,Empresario,,136221.17,True,Tarjeta de crédito,2017-05-12,7.0
+1515,Ana,Gómez,63,Tucumán,Empleado,55683.87,180768.67,False,Préstamo personal,2020-10-22,4.0
+1516,María,Gómez,75,Buenos Aires,Estudiante,192560.68,129330.96,True,Plazo fijo,2021-10-21,7.0
+1517,María,Pérez,47,Buenos Aires,Desempleado,118365.71,139027.91,True,Cuenta corriente,2017-05-30,10.0
+1518,Lucía,García,72,Buenos Aires,Empleado,79198.62,144896.27,True,Cuenta corriente,2021-03-23,6.0
+1519,Pedro,Díaz,58,Córdoba,,121435.83,145992.11,True,Préstamo personal,2020-01-17,4.0
+1520,Lucía,López,42,Tucumán,Empresario,100460.08,125287.52,True,Caja de ahorro,2021-06-13,4.0
+1521,Diego,Rodríguez,31,Chubut,Estudiante,91990.65,,True,Caja de ahorro,2017-08-23,8.0
+1522,Juan,Romero,52,Chubut,Desempleado,9538.74,163732.56,True,Cuenta corriente,2021-07-23,7.0
+1523,Sofía,Fernández,69,Córdoba,Estudiante,48790.35,113807.82,False,Préstamo personal,2016-04-20,4.0
+1524,Pedro,Díaz,65,Chubut,,92977.35,143377.18,True,Cuenta corriente,2018-08-31,6.0
+1525,Marta,Martínez,51,Salta,Jubilado,15582.29,,False,Caja de ahorro,2016-06-08,6.0
+1526,Diego,Díaz,27,Neuquén,Empleado,70641.19,147474.23,True,Plazo fijo,2018-12-19,1.0
+1527,Marta,Pérez,52,Mendoza,Desempleado,75006.26,112783.08,True,Caja de ahorro,2022-01-15,2.0
+1528,María,Rodríguez,28,Tucumán,Jubilado,61027.87,108103.53,True,Plazo fijo,2016-07-15,4.0
+1529,María,Sánchez,28,Chubut,Empresario,,99392.2,False,Tarjeta de crédito,2016-07-22,6.0
+1530,Lucía,Sánchez,38,Mendoza,Estudiante,55991.53,215084.66,True,Préstamo personal,2018-04-20,
+1531,Juan,García,38,Chubut,Empleado,104420.44,190320.9,True,Tarjeta de crédito,2015-04-16,1.0
+1532,Pedro,García,39,Neuquén,Desempleado,82341.8,98415.0,False,Caja de ahorro,2021-02-16,8.0
+1533,Luis,Pérez,62,Buenos Aires,Jubilado,94060.14,158548.25,False,Préstamo personal,2018-03-06,2.0
+1534,Diego,Fernández,24,Tucumán,Jubilado,180320.04,198993.44,False,Caja de ahorro,2016-11-30,5.0
+1535,Diego,García,72,Santa Fe,Empleado,108984.32,148381.28,False,Préstamo personal,2018-02-17,4.0
+1536,Lucía,López,34,Córdoba,Estudiante,118651.64,130335.44,True,Préstamo personal,2022-11-18,5.0
+1537,María,Rodríguez,79,Córdoba,Empresario,61729.15,239635.99,True,Caja de ahorro,2015-03-13,5.0
+1538,Lucía,Pérez,19,Tucumán,Estudiante,131307.48,73786.21,False,Caja de ahorro,2017-01-24,10.0
+1539,Sofía,Gómez,29,Neuquén,Estudiante,129198.5,255303.23,True,Préstamo personal,2021-11-09,8.0
+1540,Pedro,Martínez,74,Buenos Aires,,124380.43,152399.97,False,Préstamo personal,2017-06-23,10.0
+1541,Juan,Pérez,59,Córdoba,Empleado,39541.16,201617.21,False,Caja de ahorro,2021-12-01,7.0
+1542,Ana,Pérez,35,Buenos Aires,Empleado,70737.64,101975.47,False,Caja de ahorro,2015-02-21,9.0
+1543,Carlos,Sánchez,71,Salta,Empresario,171679.0,120976.63,True,Cuenta corriente,2017-09-30,1.0
+1544,Carlos,Romero,76,Mendoza,Estudiante,65612.78,106801.73,False,Cuenta corriente,2022-03-06,6.0
+1545,Lucía,Fernández,28,Neuquén,Empleado,178499.4,145958.75,True,Cuenta corriente,2018-07-11,6.0
+1546,Sofía,Romero,33,Santa Fe,Empresario,72680.17,162309.05,True,Tarjeta de crédito,2018-06-16,2.0
+1547,Pedro,López,66,Mendoza,Empresario,107410.81,192672.08,True,Préstamo personal,2023-01-19,8.0
+1548,Luis,Gómez,68,Mendoza,Estudiante,90641.54,81541.78,False,Plazo fijo,2021-04-21,
+1549,Carlos,Sánchez,35,Salta,Desempleado,57759.74,156275.36,True,Tarjeta de crédito,2016-11-15,10.0
+1550,Pedro,Gómez,52,Córdoba,Estudiante,58479.55,,False,Préstamo personal,2019-11-08,9.0
+1551,Juan,López,70,Santa Fe,Desempleado,64787.85,193287.44,True,Plazo fijo,2019-06-19,10.0
+1552,Marta,Romero,76,Córdoba,Empresario,107403.21,132379.23,True,Cuenta corriente,2020-10-05,5.0
+1553,Sofía,Pérez,43,Tucumán,Empleado,144520.88,132876.95,True,Plazo fijo,2017-08-07,7.0
+1554,María,García,33,Mendoza,Jubilado,104157.83,146319.02,False,Caja de ahorro,2022-04-07,6.0
+1555,Pedro,García,23,Tucumán,Empresario,98331.09,157442.11,False,Caja de ahorro,2019-08-01,5.0
+1556,Juan,Díaz,74,Buenos Aires,Empleado,160518.9,202103.91,False,Préstamo personal,2021-08-13,6.0
+1557,Luis,Martínez,61,Mendoza,Empresario,102066.91,101596.17,False,Tarjeta de crédito,2021-03-29,4.0
+1558,Ana,Fernández,60,Córdoba,Estudiante,72856.82,118549.85,True,Cuenta corriente,2018-11-26,3.0
+1559,María,López,64,Mendoza,Desempleado,50112.95,96743.55,True,Préstamo personal,2023-02-03,
+1560,Ana,Martínez,64,Buenos Aires,Empresario,163522.36,167110.16,False,Cuenta corriente,2019-05-04,1.0
+1561,Luis,Fernández,65,Salta,Empleado,83530.12,194054.73,False,Caja de ahorro,2017-11-12,6.0
+1562,Juan,Martínez,59,Tucumán,Estudiante,71071.31,93161.33,False,Tarjeta de crédito,2022-03-06,9.0
+1563,Carlos,Romero,29,Chubut,,66747.84,153548.13,False,Tarjeta de crédito,2018-07-14,8.0
+1564,Ana,Fernández,77,Tucumán,Estudiante,160709.53,,True,Caja de ahorro,2022-11-28,
+1565,María,Romero,30,Córdoba,Desempleado,71351.3,181381.87,False,Plazo fijo,2020-12-05,9.0
+1566,Lucía,Pérez,21,Mendoza,Estudiante,149523.14,180910.15,False,Tarjeta de crédito,2019-06-12,
+1567,Diego,Sánchez,56,Córdoba,Jubilado,88479.6,102404.98,True,Plazo fijo,2018-03-22,9.0
+1568,Pedro,Romero,71,Salta,Empleado,39580.98,180777.38,False,Cuenta corriente,2021-05-04,4.0
+1569,Carlos,García,19,Mendoza,Empresario,83375.42,,True,Tarjeta de crédito,2020-11-30,9.0
+1570,Ana,Martínez,43,Chubut,Desempleado,98360.34,192806.47,False,Caja de ahorro,2021-01-22,2.0
+1571,Marta,Díaz,76,Mendoza,Jubilado,94241.46,167966.66,True,Plazo fijo,2022-06-08,1.0
+1572,Pedro,Rodríguez,44,Chubut,Desempleado,93000.81,117379.97,False,Cuenta corriente,2017-10-28,9.0
+1573,Lucía,Fernández,44,Córdoba,Estudiante,83902.75,161152.48,False,Cuenta corriente,2022-07-24,10.0
+1574,Luis,López,32,Córdoba,Desempleado,60749.5,182740.64,False,Tarjeta de crédito,2016-03-06,8.0
+1575,Diego,Díaz,25,Buenos Aires,Jubilado,100536.88,129745.44,False,Tarjeta de crédito,2018-08-08,7.0
+1576,Juan,García,24,Neuquén,Empresario,,155152.08,False,Préstamo personal,2017-06-11,8.0
+1577,Lucía,Romero,64,Neuquén,Empresario,26870.21,96535.62,True,Préstamo personal,2017-12-09,1.0
+1578,Lucía,Sánchez,72,Salta,Desempleado,164953.11,171961.28,False,Tarjeta de crédito,2015-04-17,9.0
+1579,Luis,Pérez,63,Neuquén,Empleado,-84831.1,147749.45,True,Préstamo personal,2017-01-14,10.0
+1580,Sofía,Rodríguez,57,Buenos Aires,Desempleado,103762.43,186563.46,True,Caja de ahorro,2022-07-10,9.0
+1581,Luis,Gómez,77,Tucumán,Estudiante,123304.35,,True,Caja de ahorro,2019-01-19,9.0
+1582,Sofía,Díaz,29,Chubut,Empresario,69832.36,,True,Préstamo personal,2021-06-28,6.0
+1583,Sofía,Sánchez,30,Mendoza,Empresario,-6291.74,116145.24,False,Tarjeta de crédito,2021-06-14,4.0
+1584,Carlos,Gómez,79,Córdoba,,95163.79,106943.99,False,Caja de ahorro,2022-12-07,2.0
+1585,Carlos,Rodríguez,60,Mendoza,Empleado,,129703.12,False,Cuenta corriente,2016-09-13,4.0
+1586,María,López,34,Mendoza,Empleado,42564.06,,False,Tarjeta de crédito,2017-09-21,
+1587,Ana,López,78,Santa Fe,Jubilado,58493.33,79749.31,True,Plazo fijo,2015-05-25,
+1588,Ana,Martínez,34,Tucumán,Desempleado,148135.6,108571.01,True,Plazo fijo,2022-08-19,9.0
+1589,Juan,Rodríguez,73,Santa Fe,Desempleado,105884.09,184359.98,True,Tarjeta de crédito,2017-03-31,3.0
+1590,Ana,Rodríguez,53,Neuquén,Estudiante,24566.15,203158.09,False,Préstamo personal,2016-02-16,4.0
+1591,Carlos,Gómez,38,Mendoza,Empresario,122491.5,110673.65,False,Caja de ahorro,2015-04-24,5.0
+1592,María,Sánchez,25,Chubut,Empleado,53474.06,108127.64,False,Caja de ahorro,2022-03-07,3.0
+1593,María,Fernández,22,Córdoba,,61261.88,206286.41,False,Tarjeta de crédito,2021-09-12,4.0
+1594,Sofía,Gómez,43,Chubut,Estudiante,109882.87,145056.22,True,Cuenta corriente,2015-05-04,5.0
+1595,Luis,Pérez,33,Mendoza,Empleado,105224.5,114218.3,False,Préstamo personal,2015-03-27,1.0
+1596,Juan,López,53,Tucumán,Desempleado,79869.67,191784.72,False,Cuenta corriente,2015-02-16,9.0
+1597,Sofía,López,45,Chubut,Empresario,74789.53,170139.23,True,Tarjeta de crédito,2020-03-14,
+1598,Luis,Martínez,71,Santa Fe,Desempleado,87460.05,179466.16,True,Tarjeta de crédito,2023-03-11,10.0
+1599,Ana,Pérez,46,Córdoba,Estudiante,60970.33,116302.42,False,Cuenta corriente,2019-04-22,4.0
+1600,Sofía,López,64,Mendoza,Empresario,,,False,Plazo fijo,2019-10-05,9.0
+1601,Pedro,Gómez,29,Salta,Jubilado,21540.32,199851.45,True,Tarjeta de crédito,2020-06-28,4.0
+1602,Ana,Pérez,54,Tucumán,,87956.07,,False,Préstamo personal,2017-03-14,1.0
+1603,Luis,Gómez,47,Tucumán,Desempleado,,186794.8,True,Cuenta corriente,2021-09-02,5.0
+1604,Juan,Fernández,40,Salta,Desempleado,146800.09,206125.7,True,Plazo fijo,2022-03-08,9.0
+1605,Luis,Fernández,33,Chubut,,87884.48,167106.79,False,Cuenta corriente,2020-06-12,3.0
+1606,Sofía,López,31,Mendoza,Empleado,47166.57,127395.16,True,Plazo fijo,2022-05-03,5.0
+1607,Sofía,López,27,Tucumán,Estudiante,134252.38,185084.45,False,Plazo fijo,2022-07-24,3.0
+1608,Lucía,Sánchez,24,Córdoba,Empresario,,,False,Préstamo personal,2017-12-05,3.0
+1609,Juan,Fernández,62,Mendoza,Desempleado,114044.2,141107.22,False,Tarjeta de crédito,2018-04-06,1.0
+1610,Marta,Díaz,69,Mendoza,Desempleado,157564.46,173523.17,False,Plazo fijo,2022-04-23,2.0
+1611,Ana,Díaz,77,Santa Fe,Empleado,108977.18,21304.84,True,Tarjeta de crédito,2015-02-15,2.0
+1612,María,Martínez,78,Tucumán,Empresario,,160098.53,False,Préstamo personal,2022-08-03,9.0
+1613,Juan,Fernández,54,Tucumán,Estudiante,37890.9,161985.04,False,Tarjeta de crédito,2016-06-23,7.0
+1614,María,Gómez,46,Salta,Jubilado,154125.73,,True,Caja de ahorro,2015-03-28,8.0
+1615,Juan,Gómez,20,Santa Fe,Empleado,146371.09,163034.42,False,Plazo fijo,2022-10-21,
+1616,Juan,García,32,Chubut,Estudiante,67731.91,157597.94,False,Préstamo personal,2018-11-09,9.0
+1617,Luis,Pérez,53,Neuquén,Jubilado,69068.12,151358.87,False,Cuenta corriente,2015-09-22,3.0
+1618,Juan,Romero,64,Chubut,Desempleado,,197577.35,False,Préstamo personal,2016-12-03,10.0
+1619,Lucía,Díaz,63,Chubut,Desempleado,126580.66,185156.37,True,Plazo fijo,2019-01-13,2.0
+1620,Marta,López,69,Santa Fe,Empresario,10670.78,175599.31,True,Préstamo personal,2021-03-29,1.0
+1621,Sofía,Martínez,36,Tucumán,Jubilado,90214.88,109031.14,False,Cuenta corriente,2015-07-05,9.0
+1622,Diego,Romero,30,Mendoza,Desempleado,88372.18,149306.35,True,Caja de ahorro,2015-11-22,8.0
+1623,María,Rodríguez,59,Santa Fe,Desempleado,112381.72,197377.39,True,Plazo fijo,2018-04-21,4.0
+1624,Sofía,Martínez,38,Salta,Empresario,100302.3,141413.53,True,Plazo fijo,2016-02-01,7.0
+1625,Diego,Rodríguez,54,Santa Fe,Estudiante,74364.44,212170.48,True,Préstamo personal,2019-02-13,
+1626,Marta,Fernández,44,Salta,Desempleado,108917.98,176767.74,False,Tarjeta de crédito,2018-11-27,3.0
+1627,Marta,Rodríguez,72,Chubut,Empleado,,218382.42,True,Tarjeta de crédito,2018-12-11,
+1628,María,Rodríguez,69,Neuquén,Empleado,270709.35,107306.71,False,Cuenta corriente,2017-12-24,2.0
+1629,María,Sánchez,46,Santa Fe,,106136.4,143813.7,False,Caja de ahorro,2017-08-13,10.0
+1630,Marta,Sánchez,37,Salta,Jubilado,99265.03,147594.76,True,Caja de ahorro,2016-07-08,4.0
+1631,Diego,Sánchez,42,Santa Fe,Empresario,192140.38,174246.93,False,Préstamo personal,2022-08-12,10.0
+1632,Juan,Fernández,23,Neuquén,,31782.83,120456.1,True,Préstamo personal,2017-11-06,3.0
+1633,Ana,Romero,53,Chubut,Empleado,94501.36,85695.72,False,Tarjeta de crédito,2022-10-15,8.0
+1634,Pedro,Martínez,19,Santa Fe,,52519.85,165127.91,False,Caja de ahorro,2021-09-04,2.0
+1635,Sofía,Martínez,39,Córdoba,Jubilado,131750.5,135341.07,True,Caja de ahorro,2015-02-13,9.0
+1636,Luis,López,49,Salta,,75282.53,131172.12,False,Caja de ahorro,2017-06-19,3.0
+1637,Sofía,Sánchez,33,Neuquén,Estudiante,129004.69,122287.64,True,Cuenta corriente,2019-09-20,4.0
+1638,Luis,Fernández,35,Salta,Empleado,125402.55,154955.55,False,Cuenta corriente,2016-04-26,10.0
+1639,Diego,López,22,Salta,Empresario,,106925.7,False,Préstamo personal,2020-07-29,10.0
+1640,Luis,Pérez,71,Buenos Aires,Empleado,126225.94,142232.17,True,Tarjeta de crédito,2018-07-10,
+1641,María,López,53,Neuquén,Jubilado,88798.03,116851.48,True,Plazo fijo,2018-04-12,3.0
+1642,Ana,Romero,47,Santa Fe,Empleado,30117.36,125632.9,True,Tarjeta de crédito,2019-01-04,8.0
+1643,Ana,Díaz,62,Salta,Empresario,150454.25,164152.41,False,Cuenta corriente,2016-07-19,8.0
+1644,María,Rodríguez,36,Tucumán,Desempleado,170451.37,,True,Cuenta corriente,2021-03-17,6.0
+1645,Lucía,Sánchez,40,Buenos Aires,Empleado,53106.58,137755.8,True,Préstamo personal,2017-02-10,
+1646,Diego,Díaz,51,Córdoba,Estudiante,136793.87,188713.22,True,Plazo fijo,2018-05-03,1.0
+1647,Lucía,López,30,Salta,Desempleado,41481.86,111091.46,True,Caja de ahorro,2021-09-22,4.0
+1648,Lucía,Fernández,60,Chubut,Estudiante,110171.61,89204.06,False,Plazo fijo,2016-04-15,8.0
+1649,Sofía,Rodríguez,79,Salta,Estudiante,120471.02,96546.99,False,Plazo fijo,2018-10-02,6.0
+1650,Marta,Martínez,71,Buenos Aires,Estudiante,78689.01,106983.73,False,Plazo fijo,2021-01-22,2.0
+1651,Sofía,Gómez,46,Santa Fe,Empleado,104753.57,,False,Préstamo personal,2016-11-02,3.0
+1652,Marta,Rodríguez,53,Tucumán,Jubilado,142410.16,230846.16,False,Cuenta corriente,2018-03-20,7.0
+1653,Pedro,Romero,39,Chubut,Desempleado,94529.17,87991.17,False,Caja de ahorro,2015-04-21,4.0
+1654,Luis,Romero,69,Córdoba,Empresario,66243.12,,True,Plazo fijo,2022-02-09,4.0
+1655,Marta,López,69,Chubut,Jubilado,,148994.85,False,Caja de ahorro,2017-10-23,5.0
+1656,María,Pérez,64,Salta,Empleado,80461.78,158984.02,True,Plazo fijo,2015-12-10,8.0
+1657,Sofía,Romero,53,Santa Fe,Estudiante,41263.92,113770.81,True,Cuenta corriente,2019-01-12,7.0
+1658,Diego,Romero,26,Neuquén,Empresario,81130.8,163018.11,True,Caja de ahorro,2021-07-07,9.0
+1659,Luis,Fernández,56,Tucumán,Desempleado,76737.88,113443.26,True,Tarjeta de crédito,2021-04-30,5.0
+1660,Pedro,López,68,Neuquén,Jubilado,140205.25,186910.65,False,Cuenta corriente,2020-10-31,1.0
+1661,Marta,Rodríguez,36,Tucumán,Jubilado,,190220.54,False,Caja de ahorro,2017-02-15,4.0
+1662,Pedro,Pérez,55,Córdoba,Empresario,227362.98,144605.52,False,Plazo fijo,2023-02-19,6.0
+1663,Diego,Díaz,23,Mendoza,Empleado,-679.46,147225.44,True,Plazo fijo,2021-07-09,6.0
+1664,Lucía,Gómez,69,Tucumán,Desempleado,,167308.96,False,Cuenta corriente,2018-11-04,9.0
+1665,Ana,Sánchez,64,Mendoza,Empresario,,165264.38,False,Cuenta corriente,2016-10-19,10.0
+1666,Diego,Martínez,32,Neuquén,Estudiante,52197.97,190965.85,False,Plazo fijo,2020-01-08,5.0
+1667,Carlos,Romero,74,Tucumán,Desempleado,98511.53,189833.84,False,Caja de ahorro,2020-01-07,5.0
+1668,Diego,López,37,Córdoba,Jubilado,94769.15,148846.36,False,Tarjeta de crédito,2016-03-29,6.0
+1669,Pedro,Sánchez,26,Buenos Aires,Empresario,153890.64,130911.02,False,Préstamo personal,2022-06-13,6.0
+1670,María,Martínez,49,Córdoba,Jubilado,104562.92,,True,Cuenta corriente,2017-01-10,
+1671,Sofía,Martínez,21,Córdoba,Jubilado,65359.92,143748.57,True,Plazo fijo,2019-11-05,6.0
+1672,María,Díaz,67,Buenos Aires,,116710.53,154549.76,False,Caja de ahorro,2021-07-08,
+1673,Pedro,Díaz,35,Buenos Aires,Empleado,88517.42,171212.65,True,Cuenta corriente,2021-06-15,6.0
+1674,Sofía,Díaz,22,Santa Fe,Jubilado,43726.07,189022.28,True,Caja de ahorro,2022-08-06,5.0
+1675,Carlos,García,37,Tucumán,Estudiante,87572.73,160433.93,False,Cuenta corriente,2018-12-14,
+1676,Ana,García,40,Neuquén,Estudiante,111547.1,126512.08,True,Plazo fijo,2019-10-15,1.0
+1677,Luis,Martínez,79,Santa Fe,Desempleado,103614.12,221880.41,False,Caja de ahorro,2021-07-29,5.0
+1678,Pedro,Díaz,28,Buenos Aires,Jubilado,116515.65,211213.67,True,Plazo fijo,2017-04-03,6.0
+1679,Marta,Fernández,54,Mendoza,Jubilado,73675.74,109279.87,False,Caja de ahorro,2015-05-25,6.0
+1680,Pedro,Romero,39,Neuquén,Empresario,115880.6,113529.14,True,Cuenta corriente,2020-06-29,6.0
+1681,Pedro,Sánchez,75,Mendoza,Empleado,106005.79,118559.46,True,Préstamo personal,2017-12-03,3.0
+1682,Sofía,Sánchez,21,Córdoba,Desempleado,106411.47,183942.04,True,Préstamo personal,2019-11-22,4.0
+1683,Juan,García,46,Salta,Jubilado,,223405.73,True,Tarjeta de crédito,2018-11-10,3.0
+1684,Diego,Martínez,61,Córdoba,Empresario,208804.66,129749.07,False,Tarjeta de crédito,2019-10-29,2.0
+1685,Juan,López,51,Córdoba,Empleado,,156770.73,True,Plazo fijo,2017-06-28,8.0
+1686,Carlos,Rodríguez,30,Salta,Desempleado,114769.59,119895.77,False,Caja de ahorro,2017-01-30,7.0
+1687,Marta,Rodríguez,59,Tucumán,Desempleado,,218007.71,False,Tarjeta de crédito,2021-12-17,8.0
+1688,Ana,García,26,Buenos Aires,,85383.38,,True,Cuenta corriente,2019-02-25,6.0
+1689,Lucía,López,59,Mendoza,Desempleado,180789.41,117014.58,True,Préstamo personal,2022-05-13,7.0
+1690,Carlos,García,48,Córdoba,Empresario,71853.13,65906.36,False,Caja de ahorro,2016-06-14,1.0
+1691,Lucía,Rodríguez,24,Salta,,91713.52,,True,Préstamo personal,2018-09-21,
+1692,Lucía,López,21,Santa Fe,Estudiante,88929.83,127100.61,False,Caja de ahorro,2020-07-20,5.0
+1693,Ana,Díaz,36,Córdoba,Empresario,118394.36,183709.29,True,Tarjeta de crédito,2022-01-04,4.0
+1694,María,Martínez,59,Mendoza,Empleado,78167.68,161747.61,False,Tarjeta de crédito,2020-12-17,10.0
+1695,Juan,Sánchez,47,Buenos Aires,Empleado,108842.9,76628.16,True,Plazo fijo,2017-10-04,3.0
+1696,Pedro,Fernández,48,Córdoba,Jubilado,79284.16,117728.93,True,Caja de ahorro,2019-03-18,
+1697,Luis,Pérez,52,Córdoba,,165725.53,135834.21,False,Cuenta corriente,2018-06-27,9.0
+1698,Lucía,Martínez,74,Tucumán,Estudiante,65686.12,122968.4,False,Tarjeta de crédito,2022-08-13,
+1699,Marta,Díaz,38,Chubut,Empleado,148882.24,,False,Plazo fijo,2017-08-04,
+1700,Carlos,Rodríguez,78,Salta,Empleado,70743.21,166055.26,True,Tarjeta de crédito,2018-03-07,2.0
+1701,María,Díaz,48,Santa Fe,Empleado,57312.68,221574.4,True,Préstamo personal,2018-07-22,6.0
+1702,Lucía,García,36,Santa Fe,Empleado,64960.36,,True,Tarjeta de crédito,2017-09-28,3.0
+1703,María,López,48,Neuquén,,14428.21,209644.04,True,Caja de ahorro,2021-11-16,3.0
+1704,María,Sánchez,70,Buenos Aires,Empresario,121929.92,130927.33,False,Plazo fijo,2020-12-28,5.0
+1705,Lucía,Romero,49,Neuquén,Empresario,41801.19,196608.54,False,Caja de ahorro,2020-05-21,7.0
+1706,Sofía,García,19,Mendoza,Estudiante,,134752.08,True,Cuenta corriente,2017-05-31,7.0
+1707,Diego,Martínez,76,Buenos Aires,Desempleado,138081.08,,True,Cuenta corriente,2020-01-22,
+1708,Marta,García,69,Córdoba,Empleado,136467.63,111628.93,True,Tarjeta de crédito,2021-11-08,1.0
+1709,Pedro,Martínez,27,Chubut,Empleado,28417.05,44321.79,False,Plazo fijo,2020-05-29,7.0
+1710,Pedro,Romero,19,Córdoba,Jubilado,115527.18,184163.3,False,Plazo fijo,2021-10-17,7.0
+1711,Marta,Gómez,19,Santa Fe,Jubilado,157024.7,98392.2,True,Plazo fijo,2019-06-19,6.0
+1712,Sofía,Sánchez,77,Mendoza,Estudiante,68157.85,206325.81,False,Plazo fijo,2015-06-22,6.0
+1713,Pedro,Fernández,41,Salta,Empleado,125678.67,143031.18,True,Tarjeta de crédito,2016-04-17,2.0
+1714,María,Fernández,34,Mendoza,Estudiante,42836.02,87805.41,True,Caja de ahorro,2018-12-17,
+1715,Ana,Pérez,49,Córdoba,Desempleado,,105290.79,False,Tarjeta de crédito,2023-02-12,3.0
+1716,Carlos,Díaz,33,Salta,Empresario,106563.57,157625.4,False,Caja de ahorro,2021-10-22,3.0
+1717,Juan,Gómez,33,Mendoza,Empleado,133057.35,74801.7,False,Préstamo personal,2016-05-12,2.0
+1718,Pedro,Fernández,63,Chubut,Desempleado,129957.3,173597.8,False,Préstamo personal,2021-01-25,9.0
+1719,Marta,García,56,Chubut,Empleado,32325.82,89346.71,True,Caja de ahorro,2017-09-15,6.0
+1720,Ana,Díaz,70,Mendoza,Jubilado,106827.66,120440.95,False,Tarjeta de crédito,2019-05-25,
+1721,Lucía,Gómez,48,Salta,Estudiante,172645.68,157948.81,False,Cuenta corriente,2022-02-21,3.0
+1722,Diego,López,60,Córdoba,,,168704.43,False,Tarjeta de crédito,2021-10-11,10.0
+1723,Marta,López,41,Mendoza,Empresario,148346.31,181908.79,False,Cuenta corriente,2016-02-23,6.0
+1724,María,Díaz,18,Salta,Jubilado,,97738.16,True,Tarjeta de crédito,2018-10-02,4.0
+1725,Diego,Martínez,28,Tucumán,Empleado,25768.22,137661.89,True,Plazo fijo,2021-11-07,7.0
+1726,Carlos,Martínez,72,Chubut,Jubilado,66465.05,193719.98,False,Plazo fijo,2016-12-14,6.0
+1727,Carlos,García,38,Tucumán,Empleado,125887.17,137671.52,False,Préstamo personal,2021-02-27,6.0
+1728,Sofía,Gómez,21,Córdoba,Empresario,55693.74,161770.98,True,Préstamo personal,2015-06-28,3.0
+1729,Luis,Gómez,24,Salta,Jubilado,168228.96,,True,Caja de ahorro,2020-10-05,8.0
+1730,Sofía,Díaz,43,Tucumán,Estudiante,152944.81,202049.49,False,Cuenta corriente,2020-04-13,9.0
+1731,Ana,Rodríguez,64,Salta,Estudiante,30751.84,131363.63,True,Plazo fijo,2017-08-03,6.0
+1732,Diego,López,67,Mendoza,Estudiante,62847.1,94402.04,True,Tarjeta de crédito,2020-07-11,2.0
+1733,Luis,Gómez,29,Córdoba,Jubilado,138491.84,111285.12,True,Caja de ahorro,2021-12-23,1.0
+1734,Lucía,Díaz,48,Tucumán,Jubilado,136532.97,,True,Tarjeta de crédito,2017-01-08,3.0
+1735,María,Romero,34,Neuquén,Jubilado,210922.0,87218.37,False,Plazo fijo,2020-05-10,3.0
+1736,Diego,Pérez,50,Mendoza,Empleado,56005.89,,True,Plazo fijo,2015-04-22,8.0
+1737,Sofía,Romero,28,Chubut,Empresario,172960.89,153016.66,True,Plazo fijo,2016-12-15,5.0
+1738,Juan,Sánchez,45,Neuquén,Estudiante,54304.3,119336.32,False,Plazo fijo,2018-11-02,1.0
+1739,Luis,García,49,Neuquén,Empleado,125016.05,,False,Tarjeta de crédito,2023-01-03,4.0
+1740,Luis,Gómez,18,Buenos Aires,Estudiante,144617.12,178976.47,False,Caja de ahorro,2020-04-22,7.0
+1741,María,Sánchez,64,Buenos Aires,Empleado,-49695.0,168196.34,True,Plazo fijo,2018-10-13,5.0
+1742,Pedro,Fernández,45,Córdoba,Jubilado,145560.31,88099.8,False,Préstamo personal,2017-03-23,10.0
+1743,Carlos,Sánchez,70,Tucumán,Estudiante,169228.48,153167.29,True,Caja de ahorro,2018-04-23,6.0
+1744,Carlos,Díaz,59,Tucumán,Jubilado,154794.09,156297.69,False,Préstamo personal,2015-02-06,
+1745,Juan,Gómez,24,Tucumán,Estudiante,202666.94,134762.8,True,Tarjeta de crédito,2020-01-03,4.0
+1746,Ana,Pérez,19,Salta,,148258.86,162532.44,False,Plazo fijo,2022-12-20,2.0
+1747,Ana,Díaz,59,Mendoza,Empleado,73139.74,161096.98,False,Caja de ahorro,2022-08-11,9.0
+1748,Lucía,Díaz,41,Tucumán,Desempleado,161950.56,146364.99,True,Plazo fijo,2018-06-05,2.0
+1749,Diego,García,21,Mendoza,Empleado,70301.69,109829.13,False,Plazo fijo,2017-03-20,2.0
+1750,Marta,García,61,Córdoba,Empresario,104120.9,148935.16,False,Caja de ahorro,2015-01-23,2.0
+1751,Pedro,López,36,Neuquén,Estudiante,141589.16,224677.24,False,Plazo fijo,2019-03-07,1.0
+1752,Sofía,López,43,Tucumán,Empresario,122404.04,134307.72,False,Plazo fijo,2017-03-06,3.0
+1753,Marta,Martínez,28,Córdoba,Empresario,167556.6,191892.22,False,Cuenta corriente,2016-05-10,6.0
+1754,Marta,Rodríguez,57,Tucumán,Empleado,224433.73,151554.28,True,Cuenta corriente,2017-06-18,7.0
+1755,Luis,Gómez,67,Buenos Aires,Desempleado,43131.8,,True,Caja de ahorro,2016-02-29,1.0
+1756,Juan,Gómez,60,Santa Fe,Jubilado,,138136.13,False,Caja de ahorro,2022-07-10,5.0
+1757,Carlos,Sánchez,28,Córdoba,Empleado,115818.92,,False,Plazo fijo,2020-08-27,5.0
+1758,Lucía,Gómez,62,Tucumán,Jubilado,76840.45,176208.46,True,Préstamo personal,2020-06-05,1.0
+1759,Ana,Gómez,20,Chubut,Empresario,96214.69,245201.82,True,Caja de ahorro,2019-01-08,4.0
+1760,Juan,Rodríguez,29,Santa Fe,Jubilado,138790.98,152186.58,False,Plazo fijo,2022-04-28,10.0
+1761,Luis,Fernández,20,Córdoba,Desempleado,132145.42,100765.63,True,Préstamo personal,2018-05-18,1.0
+1762,Sofía,López,59,Chubut,Empleado,112366.64,83816.9,False,Cuenta corriente,2019-12-03,1.0
+1763,Lucía,López,44,Chubut,Desempleado,,133128.62,False,Caja de ahorro,2021-03-08,7.0
+1764,Luis,Pérez,66,Salta,Desempleado,88806.49,104876.48,False,Plazo fijo,2016-07-18,7.0
+1765,Carlos,Gómez,71,Chubut,Empleado,,172316.25,False,Cuenta corriente,2018-07-28,3.0
+1766,Carlos,Rodríguez,19,Tucumán,Desempleado,183169.44,172610.23,True,Tarjeta de crédito,2020-01-31,7.0
+1767,Carlos,López,66,Salta,Estudiante,150940.7,144160.98,True,Cuenta corriente,2015-05-13,3.0
+1768,Juan,Rodríguez,33,Buenos Aires,,42531.17,176295.46,True,Plazo fijo,2016-03-24,
+1769,Juan,Romero,19,Tucumán,Estudiante,86889.48,152590.37,False,Préstamo personal,2021-04-30,10.0
+1770,Ana,Fernández,77,Neuquén,Jubilado,109983.3,224702.95,True,Tarjeta de crédito,2020-01-05,4.0
+1771,Ana,Gómez,71,Chubut,Desempleado,52965.27,175045.0,False,Tarjeta de crédito,2020-11-28,10.0
+1772,Sofía,Pérez,47,Buenos Aires,,,185824.68,False,Tarjeta de crédito,2017-04-29,3.0
+1773,Lucía,Sánchez,37,Santa Fe,Empleado,101111.09,92074.9,True,Caja de ahorro,2018-06-15,7.0
+1774,María,López,55,Córdoba,Jubilado,154206.91,103150.58,False,Plazo fijo,2019-01-20,1.0
+1775,María,Romero,45,Chubut,Empleado,75085.48,169153.54,False,Tarjeta de crédito,2017-06-19,
+1776,Luis,Rodríguez,42,Mendoza,Estudiante,158165.14,88031.06,False,Cuenta corriente,2017-01-28,2.0
+1777,Carlos,García,49,Buenos Aires,Desempleado,52131.6,125020.97,True,Préstamo personal,2019-03-20,8.0
+1778,Lucía,Díaz,78,Mendoza,Empleado,59108.04,197176.5,False,Plazo fijo,2020-03-14,5.0
+1779,Marta,Gómez,27,Chubut,Empleado,81031.88,124165.77,True,Cuenta corriente,2022-12-18,3.0
+1780,Juan,Gómez,77,Mendoza,,102393.59,101610.69,False,Caja de ahorro,2023-01-23,10.0
+1781,Diego,Romero,59,Chubut,Empresario,-20825.62,176701.73,True,Tarjeta de crédito,2017-05-11,7.0
+1782,Pedro,Rodríguez,57,Córdoba,Empresario,122964.88,232941.29,False,Cuenta corriente,2020-01-22,2.0
+1783,Sofía,Martínez,50,Santa Fe,Desempleado,185467.13,117654.19,True,Plazo fijo,2021-02-18,5.0
+1784,Carlos,Gómez,30,Córdoba,Estudiante,132563.48,198961.03,True,Cuenta corriente,2016-05-29,8.0
+1785,Carlos,Martínez,73,Tucumán,Estudiante,89466.5,112673.0,False,Caja de ahorro,2022-10-08,1.0
+1786,Carlos,García,58,Buenos Aires,Estudiante,45770.45,145501.29,False,Préstamo personal,2017-08-25,1.0
+1787,Juan,Romero,71,Mendoza,Desempleado,9348.89,147234.68,False,Tarjeta de crédito,2019-05-11,3.0
+1788,Juan,Rodríguez,59,Córdoba,Desempleado,17848.82,,False,Plazo fijo,2015-03-25,3.0
+1789,Pedro,Rodríguez,64,Chubut,,93458.01,185015.81,True,Tarjeta de crédito,2017-03-08,7.0
+1790,Marta,Fernández,54,Córdoba,Empleado,205345.5,88411.16,False,Tarjeta de crédito,2020-10-28,6.0
+1791,Lucía,Díaz,71,Córdoba,Jubilado,-35853.67,157801.9,True,Tarjeta de crédito,2019-05-21,7.0
+1792,Carlos,López,33,Buenos Aires,Jubilado,135010.89,192966.58,False,Cuenta corriente,2016-06-05,4.0
+1793,María,López,62,Santa Fe,Empleado,66114.23,181686.54,True,Cuenta corriente,2018-05-07,2.0
+1794,Ana,Sánchez,39,Neuquén,Empresario,83225.25,169648.6,True,Préstamo personal,2019-05-14,2.0
+1795,María,Pérez,74,Córdoba,Empleado,,213411.98,True,Caja de ahorro,2015-08-22,10.0
+1796,Luis,Romero,37,Buenos Aires,Empleado,31628.06,141215.31,False,Plazo fijo,2020-01-17,1.0
+1797,María,García,67,Mendoza,Jubilado,106281.86,89010.95,False,Cuenta corriente,2021-04-10,9.0
+1798,Luis,Rodríguez,60,Chubut,Empresario,113140.17,155408.28,True,Tarjeta de crédito,2018-11-17,7.0
+1799,Diego,Díaz,44,Tucumán,Desempleado,133417.0,144969.51,True,Caja de ahorro,2019-05-09,10.0
+1800,Ana,Martínez,58,Neuquén,Jubilado,15737.81,65367.18,True,Plazo fijo,2019-01-09,3.0
+1801,María,Romero,33,Salta,Desempleado,143698.62,104995.95,True,Plazo fijo,2022-12-06,
+1802,Diego,Sánchez,51,Neuquén,Empresario,144590.38,99894.96,True,Plazo fijo,2016-01-28,3.0
+1803,Sofía,Romero,49,Chubut,Empleado,121224.68,117418.68,False,Plazo fijo,2015-01-09,
+1804,Lucía,Sánchez,43,Neuquén,,,135953.03,True,Préstamo personal,2016-09-04,5.0
+1805,Diego,Rodríguez,42,Chubut,Estudiante,115421.54,137485.04,False,Plazo fijo,2020-04-27,3.0
+1806,Lucía,Pérez,19,Buenos Aires,Empresario,91977.55,118847.81,False,Caja de ahorro,2022-10-25,9.0
+1807,María,Sánchez,29,Salta,Estudiante,,99842.46,False,Cuenta corriente,2016-12-15,2.0
+1808,Marta,Rodríguez,57,Córdoba,Desempleado,81672.79,,True,Caja de ahorro,2020-04-11,7.0
+1809,Diego,Rodríguez,26,Córdoba,Estudiante,105401.22,,True,Tarjeta de crédito,2015-04-20,10.0
+1810,Ana,Pérez,29,Neuquén,Empresario,13083.9,155866.86,True,Préstamo personal,2017-04-13,6.0
+1811,María,López,43,Buenos Aires,Empresario,115264.99,221160.45,True,Préstamo personal,2015-09-23,6.0
+1812,Carlos,Romero,26,Salta,Desempleado,62522.28,156514.96,False,Tarjeta de crédito,2018-10-28,
+1813,Juan,Gómez,27,Córdoba,Estudiante,125623.31,135333.69,False,Caja de ahorro,2020-07-24,6.0
+1814,Diego,Gómez,49,Mendoza,Estudiante,139421.24,145767.76,False,Caja de ahorro,2017-09-02,2.0
+1815,Ana,Martínez,74,Santa Fe,Empleado,69501.35,,True,Tarjeta de crédito,2019-06-07,5.0
+1816,Sofía,Martínez,51,Santa Fe,Jubilado,,174631.73,True,Plazo fijo,2017-08-12,3.0
+1817,Carlos,Gómez,65,Córdoba,Empresario,108724.75,148211.18,True,Plazo fijo,2023-02-02,9.0
+1818,Sofía,García,37,Salta,Empleado,118403.19,72283.16,True,Cuenta corriente,2019-07-28,8.0
+1819,María,Gómez,56,Tucumán,Empresario,139492.89,132530.08,True,Caja de ahorro,2018-09-11,10.0
+1820,Juan,Martínez,77,Córdoba,Empleado,132950.56,150059.73,True,Caja de ahorro,2022-06-12,2.0
+1821,Diego,Díaz,19,Tucumán,Jubilado,81005.48,202168.06,False,Tarjeta de crédito,2019-04-24,1.0
+1822,Diego,Martínez,18,Tucumán,Empleado,,118564.17,False,Tarjeta de crédito,2021-02-01,4.0
+1823,Marta,García,68,Chubut,Empresario,137599.37,84589.57,True,Plazo fijo,2022-01-16,4.0
+1824,Marta,Romero,77,Chubut,Estudiante,170257.22,152575.09,False,Caja de ahorro,2023-03-19,10.0
+1825,María,Gómez,53,Salta,Empresario,117335.34,184649.48,False,Caja de ahorro,2017-11-24,2.0
+1826,María,Pérez,41,Tucumán,Desempleado,120290.27,134263.08,False,Préstamo personal,2020-05-11,7.0
+1827,Juan,Díaz,71,Mendoza,Desempleado,94140.45,245321.98,False,Cuenta corriente,2021-12-27,3.0
+1828,Marta,Rodríguez,44,Salta,Desempleado,77811.28,235899.92,True,Cuenta corriente,2017-04-28,7.0
+1829,Ana,García,19,Córdoba,Desempleado,,147101.09,False,Plazo fijo,2017-08-20,7.0
+1830,Ana,Martínez,48,Neuquén,Jubilado,,157468.53,True,Caja de ahorro,2019-12-31,1.0
+1831,Juan,Pérez,74,Mendoza,Estudiante,93421.81,204749.26,True,Préstamo personal,2021-11-24,6.0
+1832,Ana,Sánchez,31,Buenos Aires,Estudiante,,146406.61,False,Caja de ahorro,2022-01-14,4.0
+1833,Luis,López,19,Santa Fe,Empresario,177755.78,117836.46,True,Tarjeta de crédito,2023-01-06,8.0
+1834,Lucía,Gómez,46,Córdoba,Empleado,105631.27,185557.28,False,Plazo fijo,2021-05-10,8.0
+1835,Juan,López,32,Córdoba,Empresario,38663.87,168576.51,True,Cuenta corriente,2020-10-02,3.0
+1836,Juan,García,29,Córdoba,Empresario,104071.12,117706.21,True,Caja de ahorro,2017-06-06,4.0
+1837,Pedro,Sánchez,54,Mendoza,Empresario,89953.98,161166.57,False,Plazo fijo,2017-01-14,1.0
+1838,Carlos,Sánchez,45,Buenos Aires,Empresario,87902.68,,False,Cuenta corriente,2021-05-13,10.0
+1839,Carlos,Sánchez,37,Neuquén,Estudiante,128812.99,,True,Caja de ahorro,2023-01-09,2.0
+1840,Luis,Rodríguez,78,Salta,Empleado,90023.02,,False,Préstamo personal,2018-12-12,7.0
+1841,Marta,García,56,Chubut,,84725.05,154856.12,True,Plazo fijo,2022-05-03,7.0
+1842,María,Romero,41,Buenos Aires,Estudiante,168120.24,,False,Caja de ahorro,2018-06-02,9.0
+1843,María,López,38,Mendoza,,13021.65,,True,Cuenta corriente,2022-03-02,10.0
+1844,Sofía,Romero,27,Córdoba,Desempleado,97430.88,182793.5,True,Cuenta corriente,2015-06-25,9.0
+1845,Luis,Pérez,63,Santa Fe,Empresario,146442.59,159262.65,True,Préstamo personal,2016-07-19,9.0
+1846,Juan,Fernández,31,Córdoba,Empresario,131346.62,159947.38,True,Plazo fijo,2022-09-19,6.0
+1847,Luis,Díaz,54,Salta,,151002.43,128352.92,True,Plazo fijo,2019-08-15,8.0
+1848,Luis,Díaz,35,Tucumán,Desempleado,201078.59,,False,Caja de ahorro,2018-11-09,9.0
+1849,Luis,Romero,41,Santa Fe,Empleado,184947.59,116058.83,True,Cuenta corriente,2015-09-19,7.0
+1850,Carlos,Fernández,31,Córdoba,Empresario,42223.26,85520.32,False,Cuenta corriente,2016-06-14,4.0
+1851,Luis,Fernández,51,Neuquén,Empleado,19464.83,107160.66,False,Préstamo personal,2020-02-21,
+1852,Lucía,Gómez,75,Santa Fe,Desempleado,116342.62,191370.56,True,Préstamo personal,2018-10-26,6.0
+1853,María,Pérez,29,Tucumán,Empresario,32294.12,168355.91,True,Plazo fijo,2019-09-03,4.0
+1854,Sofía,García,39,Chubut,Jubilado,3676.53,202477.7,False,Cuenta corriente,2023-01-17,7.0
+1855,Lucía,Fernández,73,Buenos Aires,,115812.14,97077.94,True,Caja de ahorro,2018-05-05,
+1856,Sofía,Martínez,23,Mendoza,Jubilado,128352.27,,True,Tarjeta de crédito,2017-08-05,8.0
+1857,Pedro,Díaz,53,Chubut,Jubilado,185557.03,138652.63,False,Caja de ahorro,2016-08-07,8.0
+1858,Sofía,Martínez,62,Córdoba,,138421.55,79586.26,False,Préstamo personal,2022-11-02,2.0
+1859,María,Pérez,53,Salta,Estudiante,195978.0,237831.33,False,Caja de ahorro,2019-06-09,
+1860,María,Fernández,39,Buenos Aires,Estudiante,117777.71,97595.91,False,Cuenta corriente,2021-06-07,2.0
+1861,Luis,López,31,Chubut,Empresario,,,False,Plazo fijo,2018-03-01,2.0
+1862,Diego,Díaz,33,Córdoba,Empleado,141109.35,141769.91,False,Tarjeta de crédito,2019-10-18,2.0
+1863,Pedro,Gómez,78,Buenos Aires,Empleado,166715.65,167763.33,True,Plazo fijo,2022-04-29,4.0
+1864,Juan,Gómez,53,Chubut,Estudiante,119554.22,118347.86,False,Tarjeta de crédito,2022-03-05,5.0
+1865,Ana,Sánchez,73,Salta,Jubilado,172527.52,191572.53,False,Tarjeta de crédito,2022-01-20,4.0
+1866,Sofía,Rodríguez,42,Córdoba,Desempleado,93837.46,180145.45,True,Cuenta corriente,2020-09-12,5.0
+1867,Diego,Fernández,49,Tucumán,Estudiante,127294.96,150762.67,True,Cuenta corriente,2016-06-15,4.0
+1868,Luis,Pérez,50,Tucumán,Jubilado,91283.4,202973.18,True,Préstamo personal,2018-05-16,
+1869,Carlos,Díaz,62,Salta,Jubilado,218952.18,147285.73,True,Préstamo personal,2020-06-16,10.0
+1870,Juan,Rodríguez,53,Santa Fe,Empresario,142063.03,138974.17,True,Tarjeta de crédito,2019-08-25,1.0
+1871,Marta,Pérez,37,Salta,,44164.74,229924.11,True,Préstamo personal,2019-03-26,1.0
+1872,Diego,Romero,35,Santa Fe,Empleado,192629.87,161829.44,False,Cuenta corriente,2018-12-08,2.0
+1873,Carlos,Fernández,55,Córdoba,Empleado,63341.01,,True,Préstamo personal,2016-01-06,
+1874,Pedro,García,20,Chubut,Desempleado,100684.8,115989.23,True,Tarjeta de crédito,2016-02-13,10.0
+1875,Luis,García,40,Santa Fe,Desempleado,123415.04,150758.33,True,Plazo fijo,2018-11-07,10.0
+1876,Juan,Fernández,49,Córdoba,Desempleado,,54080.07,True,Caja de ahorro,2020-03-16,3.0
+1877,Juan,Sánchez,62,Córdoba,Desempleado,124186.11,124680.42,False,Préstamo personal,2019-01-10,6.0
+1878,Juan,Sánchez,76,Neuquén,Jubilado,43347.72,145984.24,True,Cuenta corriente,2016-09-08,10.0
+1879,Pedro,García,33,Mendoza,Jubilado,124351.73,143312.1,True,Plazo fijo,2015-03-12,6.0
+1880,Sofía,López,76,Córdoba,Empleado,155032.3,,False,Cuenta corriente,2015-03-25,1.0
+1881,Marta,Díaz,22,Santa Fe,Empresario,,132059.37,False,Préstamo personal,2021-03-06,6.0
+1882,Pedro,García,21,Mendoza,Empresario,34909.37,197192.16,False,Tarjeta de crédito,2015-09-16,5.0
+1883,Ana,López,38,Mendoza,,67217.36,188925.95,True,Caja de ahorro,2018-08-18,7.0
+1884,Marta,Rodríguez,57,Córdoba,Jubilado,47773.92,153824.66,False,Caja de ahorro,2017-07-20,6.0
+1885,María,López,68,Salta,Desempleado,116990.65,147243.6,False,Plazo fijo,2021-05-18,
+1886,Luis,Rodríguez,31,Salta,Desempleado,22417.61,143534.93,False,Caja de ahorro,2016-01-29,2.0
+1887,Pedro,Pérez,56,Tucumán,Estudiante,43862.86,,True,Tarjeta de crédito,2021-10-01,1.0
+1888,Carlos,Martínez,48,Mendoza,Empresario,66743.25,,True,Cuenta corriente,2018-08-27,7.0
+1889,Marta,Pérez,31,Córdoba,Desempleado,10160.49,162965.64,False,Tarjeta de crédito,2022-12-16,9.0
+1890,Ana,García,23,Neuquén,Empresario,98610.04,170071.77,True,Plazo fijo,2020-04-13,2.0
+1891,María,Rodríguez,29,Salta,Estudiante,-5324.76,101555.7,True,Plazo fijo,2019-09-17,7.0
+1892,Sofía,García,33,Neuquén,Empresario,,137589.25,True,Caja de ahorro,2016-09-17,3.0
+1893,Carlos,Fernández,34,Córdoba,Empresario,80148.92,157916.5,True,Tarjeta de crédito,2020-03-07,6.0
+1894,Marta,Díaz,62,Córdoba,Empresario,68800.84,111366.6,True,Cuenta corriente,2020-01-11,3.0
+1895,Luis,Gómez,40,Chubut,Desempleado,,123047.15,False,Tarjeta de crédito,2016-07-15,10.0
+1896,Carlos,García,31,Mendoza,Empleado,96980.7,,False,Cuenta corriente,2022-11-19,5.0
+1897,María,Díaz,78,Chubut,Jubilado,129643.31,143246.61,False,Cuenta corriente,2019-11-29,2.0
+1898,Carlos,López,24,Neuquén,,165854.86,158664.11,False,Tarjeta de crédito,2017-07-29,8.0
+1899,Lucía,Pérez,63,Chubut,Empresario,150695.29,116078.77,True,Préstamo personal,2020-10-10,8.0
+1900,Diego,López,49,Tucumán,Empresario,211584.42,188720.82,False,Tarjeta de crédito,2018-03-11,7.0
+1901,Sofía,Gómez,32,Mendoza,Empleado,133764.86,142916.96,False,Cuenta corriente,2020-02-09,6.0
+1902,María,Rodríguez,61,Buenos Aires,Estudiante,107015.76,155807.91,True,Plazo fijo,2022-08-13,1.0
+1903,Carlos,Fernández,34,Chubut,Desempleado,77148.41,135206.7,True,Plazo fijo,2020-03-06,8.0
+1904,Diego,Díaz,58,Neuquén,Empleado,78810.05,159426.03,True,Caja de ahorro,2019-06-28,1.0
+1905,Diego,Fernández,71,Salta,Empresario,126951.9,216848.85,True,Plazo fijo,2019-03-31,
+1906,Carlos,Martínez,64,Salta,Empleado,50027.79,134835.25,False,Préstamo personal,2017-02-20,2.0
+1907,Luis,García,61,Salta,Empleado,111448.81,128220.15,True,Cuenta corriente,2019-08-22,8.0
+1908,Lucía,Rodríguez,51,Santa Fe,Empleado,99056.76,116793.78,True,Tarjeta de crédito,2022-01-30,10.0
+1909,Pedro,Martínez,22,Córdoba,Estudiante,,147615.13,True,Tarjeta de crédito,2016-08-19,4.0
+1910,Lucía,Romero,62,Mendoza,Jubilado,47440.49,147151.85,True,Préstamo personal,2020-08-18,7.0
+1911,Carlos,García,44,Salta,,226235.88,152057.72,True,Plazo fijo,2021-05-12,5.0
+1912,Sofía,López,69,Buenos Aires,Estudiante,30171.44,168730.24,True,Cuenta corriente,2021-03-24,8.0
+1913,Pedro,Pérez,40,Salta,Estudiante,96612.07,163686.72,False,Plazo fijo,2021-02-11,6.0
+1914,María,Díaz,57,Tucumán,,161129.19,149099.14,False,Caja de ahorro,2022-03-23,5.0
+1915,Lucía,Gómez,76,Córdoba,Estudiante,126452.84,228152.06,False,Plazo fijo,2021-10-16,1.0
+1916,Carlos,Gómez,31,Neuquén,Empleado,76323.22,177627.21,True,Caja de ahorro,2022-03-01,3.0
+1917,Lucía,López,32,Córdoba,Empleado,40392.64,106429.6,True,Tarjeta de crédito,2022-05-27,10.0
+1918,Pedro,Sánchez,60,Chubut,Empresario,106489.32,88191.92,False,Cuenta corriente,2015-12-22,9.0
+1919,Ana,Gómez,50,Neuquén,Estudiante,-31975.76,122174.03,False,Caja de ahorro,2022-11-30,9.0
+1920,Marta,Díaz,70,Neuquén,Empresario,108493.35,156106.34,False,Plazo fijo,2020-08-02,5.0
+1921,Lucía,López,48,Chubut,Desempleado,101741.33,118820.01,False,Plazo fijo,2016-01-27,3.0
+1922,María,Rodríguez,52,Mendoza,Empleado,153506.1,124894.91,True,Tarjeta de crédito,2016-08-01,6.0
+1923,María,Gómez,34,Chubut,Desempleado,,,False,Préstamo personal,2019-06-29,5.0
+1924,Juan,Fernández,45,Santa Fe,Jubilado,83826.43,136321.09,True,Préstamo personal,2021-10-03,1.0
+1925,Lucía,López,36,Neuquén,,121845.08,68091.97,True,Plazo fijo,2020-07-01,2.0
+1926,Marta,Díaz,63,Neuquén,Desempleado,110278.39,193087.06,True,Préstamo personal,2019-09-20,5.0
+1927,Luis,Fernández,71,Chubut,Jubilado,32867.68,183798.28,False,Cuenta corriente,2015-06-13,9.0
+1928,Diego,García,79,Mendoza,Desempleado,67624.91,,False,Préstamo personal,2022-09-27,4.0
+1929,Marta,García,40,Salta,Jubilado,169995.58,152275.64,False,Cuenta corriente,2016-09-29,9.0
+1930,Diego,Gómez,49,Tucumán,Jubilado,112966.32,105337.94,True,Plazo fijo,2020-08-26,3.0
+1931,Diego,Fernández,57,Buenos Aires,Empleado,16794.19,125648.14,True,Plazo fijo,2021-10-29,1.0
+1932,Ana,Pérez,30,Mendoza,Empresario,144161.61,169446.12,False,Plazo fijo,2015-06-19,
+1933,Juan,García,76,Santa Fe,Jubilado,20036.76,182401.88,True,Tarjeta de crédito,2015-12-06,10.0
+1934,Marta,Pérez,37,Mendoza,Jubilado,84648.98,181465.72,False,Préstamo personal,2016-12-26,7.0
+1935,Marta,Rodríguez,52,Córdoba,Empleado,128163.83,159793.57,True,Caja de ahorro,2020-04-17,4.0
+1936,Ana,López,22,Salta,Empresario,160685.29,201008.23,True,Caja de ahorro,2017-10-31,10.0
+1937,Lucía,Martínez,26,Salta,Estudiante,-16896.21,125577.53,True,Plazo fijo,2019-07-04,5.0
+1938,Lucía,Díaz,46,Neuquén,Estudiante,135579.51,134454.83,True,Préstamo personal,2015-05-13,4.0
+1939,Lucía,López,23,Salta,Empresario,143086.23,,True,Cuenta corriente,2023-01-27,
+1940,Sofía,Díaz,42,Salta,,72149.23,146277.74,True,Caja de ahorro,2022-05-11,1.0
+1941,Diego,Fernández,48,Chubut,,,173187.74,True,Plazo fijo,2017-04-02,6.0
+1942,Sofía,Rodríguez,39,Salta,Empresario,-52598.59,161410.38,False,Caja de ahorro,2017-08-11,10.0
+1943,Juan,Romero,19,Salta,Estudiante,-37399.02,125039.19,True,Caja de ahorro,2020-10-27,5.0
+1944,Ana,Gómez,62,Buenos Aires,,155426.64,,True,Caja de ahorro,2015-12-12,1.0
+1945,Marta,Díaz,22,Santa Fe,Estudiante,73055.24,147046.77,False,Plazo fijo,2016-08-31,5.0
+1946,Diego,Díaz,77,Neuquén,,82689.39,180657.07,False,Plazo fijo,2016-09-30,6.0
+1947,Sofía,Fernández,44,Chubut,Empleado,111733.82,169445.99,False,Tarjeta de crédito,2017-11-13,10.0
+1948,Sofía,Pérez,42,Salta,Jubilado,,206980.36,False,Tarjeta de crédito,2019-02-03,5.0
+1949,Carlos,López,25,Neuquén,Empresario,,163574.53,True,Tarjeta de crédito,2018-05-09,1.0
+1950,Sofía,Romero,72,Santa Fe,Jubilado,119724.45,174397.71,True,Caja de ahorro,2020-12-18,5.0
+1951,Luis,Sánchez,18,Chubut,Desempleado,25223.19,146931.32,False,Préstamo personal,2021-07-31,10.0
+1952,Marta,Gómez,37,Tucumán,Empresario,,129884.39,True,Plazo fijo,2023-03-11,
+1953,Luis,Martínez,61,Salta,Empleado,88487.5,169629.29,False,Tarjeta de crédito,2015-05-30,3.0
+1954,Marta,Sánchez,40,Neuquén,Empresario,49717.07,210109.23,True,Préstamo personal,2019-03-30,2.0
+1955,Ana,López,49,Mendoza,,42989.52,125364.77,True,Tarjeta de crédito,2018-08-20,1.0
+1956,Marta,Gómez,28,Chubut,Empleado,102132.59,140074.55,True,Tarjeta de crédito,2019-04-14,
+1957,Luis,Díaz,56,Chubut,Estudiante,84682.11,151066.02,True,Préstamo personal,2015-02-19,
+1958,Marta,Martínez,64,Neuquén,Desempleado,22558.0,177395.85,True,Tarjeta de crédito,2021-11-16,5.0
+1959,Ana,Pérez,71,Salta,Empleado,,163818.32,False,Caja de ahorro,2019-02-14,10.0
+1960,Ana,Romero,41,Córdoba,Jubilado,59540.05,,True,Caja de ahorro,2021-11-07,1.0
+1961,Juan,Pérez,28,Buenos Aires,Empresario,163092.83,228956.38,True,Caja de ahorro,2015-12-01,10.0
+1962,Marta,Rodríguez,46,Mendoza,Empleado,106522.62,124443.95,True,Cuenta corriente,2018-10-07,
+1963,Carlos,Fernández,71,Mendoza,Empresario,178466.97,174389.16,True,Tarjeta de crédito,2016-10-29,10.0
+1964,Lucía,Gómez,43,Córdoba,Jubilado,64501.29,162825.59,True,Cuenta corriente,2019-07-31,4.0
+1965,María,Pérez,33,Salta,Empleado,85443.41,150761.61,False,Plazo fijo,2021-07-02,7.0
+1966,Ana,Sánchez,52,Chubut,,119327.66,174243.41,True,Préstamo personal,2017-10-12,
+1967,Pedro,Fernández,37,Chubut,Desempleado,130206.63,139327.88,False,Plazo fijo,2015-12-02,2.0
+1968,Lucía,Pérez,63,Buenos Aires,Empleado,136049.55,162921.83,True,Cuenta corriente,2016-10-27,1.0
+1969,Diego,García,20,Mendoza,Jubilado,55609.52,97788.3,True,Caja de ahorro,2015-03-22,5.0
+1970,Marta,Rodríguez,18,Buenos Aires,Empleado,57016.04,128447.39,False,Tarjeta de crédito,2020-11-04,6.0
+1971,Luis,López,75,Mendoza,Empresario,82228.99,191900.83,True,Tarjeta de crédito,2019-12-05,6.0
+1972,María,Romero,70,Salta,Empleado,174045.34,190363.32,True,Caja de ahorro,2015-09-15,2.0
+1973,Pedro,Rodríguez,64,Tucumán,Estudiante,49965.84,160377.33,False,Tarjeta de crédito,2017-09-17,7.0
+1974,Lucía,Fernández,18,Mendoza,Empleado,73653.75,131878.01,True,Préstamo personal,2015-07-04,6.0
+1975,Marta,García,34,Tucumán,Desempleado,136492.9,183010.63,False,Préstamo personal,2019-09-12,8.0
+1976,Juan,Gómez,19,Mendoza,Empleado,133817.71,199459.5,False,Préstamo personal,2022-07-08,6.0
+1977,Diego,Sánchez,46,Chubut,Empresario,127770.92,,False,Plazo fijo,2015-05-03,9.0
+1978,María,Romero,37,Santa Fe,,104042.18,91799.21,True,Caja de ahorro,2016-08-27,10.0
+1979,Carlos,Romero,23,Salta,Estudiante,46743.32,167965.4,True,Préstamo personal,2022-01-06,2.0
+1980,Juan,Rodríguez,25,Córdoba,Jubilado,,186550.73,False,Cuenta corriente,2017-06-22,
+1981,Pedro,Fernández,46,Tucumán,Empleado,156324.51,173499.34,True,Préstamo personal,2019-03-18,5.0
+1982,María,Gómez,65,Córdoba,Empleado,138681.87,212603.17,False,Plazo fijo,2020-06-04,1.0
+1983,Juan,Díaz,68,Salta,Desempleado,33250.75,212772.03,True,Cuenta corriente,2018-10-26,3.0
+1984,Diego,García,50,Neuquén,Estudiante,143472.88,137784.11,False,Caja de ahorro,2021-06-10,4.0
+1985,Carlos,Díaz,20,Córdoba,Jubilado,165438.92,157959.78,True,Caja de ahorro,2018-08-01,2.0
+1986,Juan,Sánchez,77,Salta,Empresario,102691.54,130138.61,False,Préstamo personal,2022-05-28,
+1987,Sofía,Gómez,52,Chubut,Empleado,121314.06,,True,Cuenta corriente,2020-02-09,1.0
+1988,Carlos,Gómez,22,Córdoba,,150574.26,111462.43,False,Cuenta corriente,2020-04-25,3.0
+1989,Pedro,García,44,Tucumán,Empresario,65214.18,178680.85,True,Préstamo personal,2021-04-28,
+1990,Diego,Martínez,61,Santa Fe,Estudiante,216479.89,162115.5,False,Préstamo personal,2019-05-17,2.0
+1991,Marta,Díaz,29,Córdoba,Estudiante,161153.9,185598.43,True,Tarjeta de crédito,2016-05-05,5.0
+1992,Luis,Pérez,37,Tucumán,,126201.41,251264.86,True,Tarjeta de crédito,2022-08-17,4.0
+1993,Luis,Romero,62,Mendoza,Empresario,98274.61,169994.7,False,Préstamo personal,2017-11-20,
+1994,Luis,Martínez,37,Salta,,124738.87,118483.18,True,Plazo fijo,2016-12-02,5.0
+1995,María,Pérez,26,Buenos Aires,Jubilado,21985.88,191405.07,True,Tarjeta de crédito,2023-01-13,
+1996,Pedro,Fernández,56,Neuquén,Estudiante,204104.39,117739.51,True,Préstamo personal,2018-07-15,1.0
+1997,Diego,García,21,Chubut,Estudiante,156444.58,219933.48,True,Cuenta corriente,2020-08-21,2.0
+1998,Carlos,Fernández,68,Buenos Aires,Estudiante,173200.68,71142.03,False,Tarjeta de crédito,2018-04-29,1.0
+1999,María,Romero,71,Chubut,Desempleado,101537.86,128138.04,True,Plazo fijo,2018-11-24,3.0
+2000,Pedro,López,36,Salta,Empresario,81985.54,174885.53,True,Caja de ahorro,2019-04-10,8.0
